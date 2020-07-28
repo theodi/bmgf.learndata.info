@@ -196,7 +196,7 @@
       "color-ten-inverted": "#ffffff"
     },
     "_items": {
-      "item-color": "#36cde8",
+      "item-color": "#245e80",
       "item-color-inverted": "#ffffff",
       "item-color-hover": "",
       "item-color-inverted-hover": "",
@@ -264,7 +264,7 @@
       "footer-logo": "course/assets/ccaf4d1b8df322032c757fa14ea9cd49067ffddc.png"
     },
     "_notify": {
-      "notify": "#36cde8",
+      "notify": "#245e80",
       "notify-inverted": "#ffffff",
       "notify-link": "",
       "notify-link-hover": "",
