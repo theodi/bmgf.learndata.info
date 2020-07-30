@@ -88,10 +88,10 @@
     }
   },
   {
-    "title": "Summary",
-    "displayTitle": "",
+    "title": "Identifying data rich grants",
+    "displayTitle": "Identifying data rich grants",
     "body": "",
-    "_classes": "footer inverted",
+    "_classes": "",
     "_trackingId": 3,
     "instruction": "",
     "_isOptional": false,
@@ -100,8 +100,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f204bd0649ca8005e769a71",
-    "_parentId": "5f204bbf649ca8005e769a6e",
+    "_id": "5f229ddad9139d00c79a75af",
+    "_parentId": "5f229ddad9139d00c79a75ae",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -176,11 +176,55 @@
     }
   },
   {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f204bd0649ca8005e769a71",
+    "_parentId": "5f204bbf649ca8005e769a6e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Delivering data transformative investments",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 5,
+    "_trackingId": 6,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -220,11 +264,55 @@
     }
   },
   {
+    "title": "Identify grants where data transformation must be considered",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22a58fd9139d00c79a75ba",
+    "_parentId": "5f229ddad9139d00c79a75ae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q1: Introducing data transformation",
     "displayTitle": "Introducing data transformation",
     "body": "",
     "_classes": "",
-    "_trackingId": 6,
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -268,7 +356,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 7,
+    "_trackingId": 9,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -308,11 +396,55 @@
     }
   },
   {
+    "title": "Roles and responsibilities (Project Officers)",
+    "displayTitle": "Roles and responsibilities (Project Officers)",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22a5edd9139d00c79a75bd",
+    "_parentId": "5f229ddad9139d00c79a75ae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Why data transformation is critical to realise wider BMGF aims",
     "displayTitle": "Why data transformation is critical to realise wider BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -356,7 +488,7 @@
     "displayTitle": "Common constraints (2): Security, privacy and trust",
     "body": "",
     "_classes": "",
-    "_trackingId": 9,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -396,11 +528,55 @@
     }
   },
   {
+    "title": "Roles and responsibilities (Grantees)",
+    "displayTitle": "Roles and responsibilities (Grantees)",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22a6b5d9139d00c79a75c3",
+    "_parentId": "5f229ddad9139d00c79a75ae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "What makes data FAIR and transformative?",
     "displayTitle": "What makes data FAIR and transformative?",
     "body": "",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -440,11 +616,11 @@
     }
   },
   {
-    "title": "Key challenge areas at BMGF",
+    "title": "Common constraints (3): Trust and benefits",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -484,11 +660,55 @@
     }
   },
   {
+    "title": "Delivering data transformative investments",
+    "displayTitle": "Delivering data transformative investments",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22a96ed9139d00c79a75d0",
+    "_parentId": "5f229ddad9139d00c79a75ae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q2 - What makes data FAIR and transformative",
     "displayTitle": "Supporting FAIR and transformative data?",
     "body": "",
     "_classes": "",
-    "_trackingId": 12,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -498,6 +718,50 @@
     "_ariaLevel": 0,
     "_id": "5f203f90649ca8005e769a2d",
     "_parentId": "5f203b30649ca8005e769a11",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Examples of FAIR and transformative projects",
+    "displayTitle": "Examples of FAIR and transformative projects",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f229e13d9139d00c79a75b2",
+    "_parentId": "5f2042b6649ca8005e769a3e",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

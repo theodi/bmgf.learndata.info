@@ -61,6 +61,8 @@
       "adapt-contrib-text",
       "adapt-contrib-mcq",
       "adapt-contrib-graphic",
+      "adapt-contrib-narrative",
+      "adapt-contrib-accordion",
       "adapt-devtools",
       "adapt-odi-licence",
       "adapt-contrib-pageLevelProgress",

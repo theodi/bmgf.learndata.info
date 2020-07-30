@@ -54,5 +54,21 @@
     "licence": "CC-BY-SA",
     "attribution": "CABI/ODI",
     "tags": []
+  },
+  "3c4d2a472690b3e7732a6f7a11b7a01e19a3a16c.png": {
+    "title": "CSISA crop logo",
+    "description": "CSISA crop logo",
+    "source": "https://csisa.org/",
+    "licence": "All rights reserved",
+    "attribution": "CSISA",
+    "tags": []
+  },
+  "8069d2a4618084e967165ac7f06b4750e01098da.png": {
+    "title": "Summary clipboard white",
+    "description": "Summary clipboard white",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
   }
 }

@@ -734,8 +734,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Key challenge areas at BMGF",
-    "displayTitle": "Key challenge areas at BMGF",
+    "title": "Common constraints (3): Trust and benefits",
+    "displayTitle": "Common constraints (3): Trust and benefits",
     "body": "<p>In addition to the two challenges we have introduced already, there is a third; <strong>trust &amp; benefits</strong>. Again this is about <strong>people</strong>. <strong>People</strong> need to have access to examples of where data transformative grants have delivered benefits to all involved and that in delivering one, they also benefit and it is not just about giving everything away.&nbsp;</p>",
     "_id": "5f2049f5649ca8005e769a66",
     "_parentId": "5f2049f5649ca8005e769a65",
@@ -760,7 +760,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "clipboard",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -768,7 +768,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "What makes data FAIR and transformative?",
+    "title": "Summary clipboard",
     "displayTitle": "",
     "body": "",
     "_id": "5f204bd0649ca8005e769a72",
@@ -787,9 +787,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/957a5979aea440c02b239a53e2a46236d90ece9c.png",
-      "small": "course/en/assets/957a5979aea440c02b239a53e2a46236d90ece9c.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -881,5 +881,580 @@
       "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
       "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying data rich grants",
+    "displayTitle": "",
+    "body": "<p>What types of grants are likely to need to consider data transformation?</p>",
+    "_id": "5f229e0bd9139d00c79a75b0",
+    "_parentId": "5f229ddad9139d00c79a75af",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Those that plan to collect, store or share data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Those that plan to use data to inform and drive research and decision making",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Those that plan to create or use a digital platform",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>In today’s digital world, it is highly likely that projects will involve data at some level, and those that don’t will be very rare. This is especially true in research based initiatives that collect and analyse data to discover insight.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>In today’s digital world, it is highly likely that projects will involve data at some level, and those that don’t will be very rare. This is especially true in research based initiatives that collect and analyse data to discover insight.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying data rich grants",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f229e0dd9139d00c79a75b1",
+    "_parentId": "5f229ddad9139d00c79a75af",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Showcasing benefits: Examples of FAIR and transformative projects",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f229e3bd9139d00c79a75b5",
+    "_parentId": "5f229e13d9139d00c79a75b2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data sharing in India",
+        "_ariaLevel": 0,
+        "body": "<p>The Cereal Systems Initiative for South Asia (CSISA) intended to embed FAIR data in activities, but found challenges in both putting in place the right data sharing agreements and getting support from those who had fears of data security, privacy and trust. Through a series of training courses, accompanied by policy advice, CABI/ODI have supported CSISA and its community to help overcome fears, realise benefits and to put in place new data sharing agreements that move them towards being a data transformative community.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3c4d2a472690b3e7732a6f7a11b7a01e19a3a16c.png",
+          "alt": "",
+          "attribution": "<a href=\"https://csisa.org/\" target=\"_blank\">CSISA</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Data sharing in India"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identify grants where data transformation must be considered",
+    "displayTitle": "",
+    "body": "<p>Data rich projects are those that propose activities involving the collection, use, sharing or publishing of data. A common goal is often to collect or bring together data from multiple stakeholders for analysis, to inform decision making or to use in development of digital services.&nbsp;</p><p>It is also useful to be aware of those projects where data may be secondary, or by-product, to the main objectives. Such projects might involve digital services to reach people and will likely be collecting or using data in order to help measure progress, drive engagement or even to manage the project itself.&nbsp;</p><p>We have developed a checklist to help identify grants where data transformation must be considered.</p>",
+    "_id": "5f22a5d3d9139d00c79a75bb",
+    "_parentId": "5f22a58fd9139d00c79a75ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (Project Officers)",
+    "displayTitle": "",
+    "body": "<p>What is the role of a Project Officer&nbsp;in ensuring that grants are data transformative?</p>",
+    "_id": "5f22a5edd9139d00c79a75be",
+    "_parentId": "5f22a5edd9139d00c79a75bd",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Use the FAIR data toolbox to ensure that grant applications are data transformative",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Regularly benchmark project portfolios to demonstrate progression towards data transformation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To advise grantees on practical steps to improve data security and privacy",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To support grantees to write data sharing agreements",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Whether designing an intervention, technology, product or research study, integrating data transformation can greatly<br />contribute to the success and impact of an investment. Effective data transformation requires grant makers to work with and challenge grantees to build data transformation in all aspects of the design. This will in turn ensure better results and accelerated progress toward sustainable development goals.&nbsp;</p><p>In addition, the FAIR data integration marker should be used to regularly benchmark project portfolios to demonstrate progression towards more projects being data transformative</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Whether designing an intervention, technology, product or research study, integrating data transformation can greatly<br />contribute to the success and impact of an investment. Effective data transformation requires grant makers to work with and challenge grantees to build data transformation in all aspects of the design. This will in turn ensure better results and accelerated progress toward sustainable development goals.&nbsp;</p><p>In addition, the FAIR data integration marker should be used to regularly benchmark project portfolios to demonstrate progression towards more projects being data transformative.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (POs)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22a5edd9139d00c79a75bf",
+    "_parentId": "5f22a5edd9139d00c79a75bd",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (Grantees)",
+    "displayTitle": "",
+    "body": "<p>What is the role of a grantee in ensuring that grants are data transformative?</p>",
+    "_id": "5f22a6b5d9139d00c79a75c4",
+    "_parentId": "5f22a6b5d9139d00c79a75c3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "To take responsibility for data transformation in their grants",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To ensure compliance with national and international stakeholder and funder policies in delivering data transformation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To ensure that grant applications balance focus on technology with process and capacity building for people",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Grantees need to take a key role in delivering data transformation in their grants. Primarily this involves addressing the core constraints, considering and planning for data access, use and sharing from the outset, educating themselves and others to overcome fears and putting in place the processes that will not only support their grant, but lead to increased data utility and return of value from the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Grantees need to take a key role in delivering data transformation in their grants. Primarily this involves addressing the core constraints, considering and planning for data access, use and sharing from the outset, educating themselves and others to overcome fears and putting in place the processes that will not only support their grant, but lead to increased data utility and return of value from the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (Grantees)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22a6b5d9139d00c79a75c5",
+    "_parentId": "5f22a6b5d9139d00c79a75c3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What makes data FAIR and transformative?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22a96fd9139d00c79a75d1",
+    "_parentId": "5f22a96ed9139d00c79a75d0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/957a5979aea440c02b239a53e2a46236d90ece9c.png",
+      "small": "course/en/assets/957a5979aea440c02b239a53e2a46236d90ece9c.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Delivering data transformative investments",
+    "displayTitle": "",
+    "body": "<p>The FAIR data toolbox contains key resources that can help everyone deliver data transformative investments. Discover more about each below:</p>",
+    "_id": "5f22a96fd9139d00c79a75d4",
+    "_parentId": "5f22a96ed9139d00c79a75d0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The FAIR data mark scheme (7 questions)",
+        "body": "<p>This FAIR data mark scheme presents seven key questions and accompanying mark scheme to assess if grants are data transformative.</p><p>Program officers can use the mark scheme to:</p><ul><li>Help assess how integrated FAIR and safeguarded data is within the design of an investment when completing the FAIR &amp; safeguarded data integration marker.</li><li>Understand what good practice looks like for access, use and sharing of data in grants &nbsp;</li><li>Identify where grantees may need to take further action to ensure data they access, use and share is shared as widely as possible</li></ul><p>Grantees can use the mark scheme to:</p><ul><li>Understand what good practice looks like for access, use and sharing of data in grants</li><li>Identify actions to ensure data generated, access, used or shared within the grant is FAIR, and shared as widely as possible while protecting the rights and interests of individuals affected by the collection, use and sharing of data.&nbsp;</li></ul><p>The FAIR data mark scheme also provides the basis for the FAIR data integration marker as well as questions generated by the INVEST system to be answered within a grant proposal.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Learning resources (7 eLearning modules)",
+        "body": "<p>To accompany the seven questions in the FAIR data mark scheme are 7 eLearning modules, one for each question. These are:</p><p>Module 1: Delivering data transformative investments (this one)<br />Module 2: Assessing in country policies and laws to support data sharing<br />Module 3: Working with data from multiple sources<br />Module 4: Protecting rights of individuals while maximising the utility of data<br />Module 5: Data sharing to maximise utility<br />Module 6: Minimising harmful impacts from data<br />Module 7: Building sustainable data ecosystems</p><p>Each is available to everyone, both POs and Grantees, in the toolbox.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tools and checklists to support investments",
+        "body": "<p>To support the delivery of data transformative investments a set of checklists, practical guides and tools are also available in the toolbox. These are designed to support the seven questions in the FAIR data mark scheme, examples are:</p><ul><li>Checklist: Identifying data rich grants</li><li>Risk assessment: Personal data</li><li>Practical guide: Anonymisation</li><li>Practical guide: Choosing a licence for data</li><li>Tools: The data ethics canvas</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Case studies",
+        "body": "<p>Being able to demonstrate the benefits of FAIR and transformative data is key to supporting everyone. The toolbox contains a number of case studies on initiatives from around the world.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Specialist support",
+        "body": "<p>While the FAIR data toolbox is self-serve, we have also listed a set of external support organisations and individuals that can help with all aspects of delivering data transformative investments.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   }
 ]
