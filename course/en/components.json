@@ -37,7 +37,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Why data transformation is critical to realise wider BMGF aims",
+    "title": "Introducing data transformation",
     "displayTitle": "",
     "body": "<p>The aim of a data transformative grants is to…?</p>",
     "_id": "5f203e22649ca8005e769a1a",
@@ -145,7 +145,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -179,7 +179,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -241,7 +241,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -398,7 +398,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -419,7 +419,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "What makes data FAIR and transformative?",
+    "title": "People, Process and Technology",
     "displayTitle": "",
     "body": "",
     "_id": "5f2042d0649ca8005e769a42",
@@ -432,7 +432,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -589,7 +589,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -623,7 +623,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -685,7 +685,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -781,7 +781,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -871,7 +871,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1000,7 +1000,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1052,6 +1052,28 @@
           "attribution": "<a href=\"https://csisa.org/\" target=\"_blank\">CSISA</a> <span class='assetLicence'>[All rights reserved]</span>"
         },
         "strapline": "Data sharing in India"
+      },
+      {
+        "title": "Case study 2",
+        "_ariaLevel": 0,
+        "body": "<p>TBC</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 2"
+      },
+      {
+        "title": "Case study 3",
+        "_ariaLevel": 0,
+        "body": "<p>TBC</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 3"
       }
     ]
   },
@@ -1065,7 +1087,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Identify grants where data transformation must be considered",
+    "title": "Identifying grants where data transformation must be considered",
     "displayTitle": "",
     "body": "<p>Data rich projects are those that propose activities involving the collection, use, sharing or publishing of data. A common goal is often to collect or bring together data from multiple stakeholders for analysis, to inform decision making or to use in development of digital services.&nbsp;</p><p>It is also useful to be aware of those projects where data may be secondary, or by-product, to the main objectives. Such projects might involve digital services to reach people and will likely be collecting or using data in order to help measure progress, drive engagement or even to manage the project itself.&nbsp;</p><p>We have developed a checklist to help identify grants where data transformation must be considered.</p>",
     "_id": "5f22a5d3d9139d00c79a75bb",
@@ -1201,7 +1223,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1330,7 +1352,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1364,7 +1386,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -1456,5 +1478,1233 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial and the role of data protection regulations which many see as a blocker to sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure data transformative investments protect the rights of individuals while maximising the utility of data.</p>",
+    "_id": "5f22be89d9139d00c79a75e3",
+    "_parentId": "5f22bcf7d9139d00c79a75e0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22be8bd9139d00c79a75e4",
+    "_parentId": "5f22bcf7d9139d00c79a75e0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>The differences between personal, sensitive personal and sensitive commercial data</li><li>The importance of understanding who owns personal data</li><li>The rights of individuals over personal data</li><li>The role of data protection regulations</li><li>Techniques to reduce the risks of handling personal data</li><li>Tools, checklists and case studies to support investments</li></ul>",
+    "_id": "5f22bec4d9139d00c79a75e8",
+    "_parentId": "5f22beb7d9139d00c79a75e7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Classifying personal and sensitive data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22bf1fd9139d00c79a75ea",
+    "_parentId": "5f22bf0bd9139d00c79a75e9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer from the drop downs. When done click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "A person's name",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": true
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": false
+          },
+          {
+            "text": "Neither personal not commercially sensitive",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A person's religion",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": true
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": false
+          },
+          {
+            "text": "Neither personal not commercially sensitive",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A shop's income",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": true
+          },
+          {
+            "text": "Neither personal not commercially sensitive",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The location of a soil sample",
+        "_options": [
+          {
+            "text": "Personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive personal",
+            "_isCorrect": false
+          },
+          {
+            "text": "Sensitive commercial",
+            "_isCorrect": false
+          },
+          {
+            "text": "Neither personal not commercially sensitive",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>As an easy to remember rule, any data or information directly relating to an identifiable individual is personal, including pictures of a person, or group, of people.&nbsp;</p><p>Sensitive personal data is that which affords extra protection due to its nature, e.g. genetic data, health records or data that can potentially be used to discriminate, such as religion, sexual orientation and race.&nbsp;</p><p>Any data not relating to a person, such as income of a business and locations of things, is not personal but it may be deemed commercially sensitive.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>As an easy to remember rule, any data or information directly relating to an identifiable individual is personal, including pictures of a person, or group, of people.&nbsp;</p><p>Sensitive personal data is that which affords extra protection due to its nature, e.g. genetic data, health records or data that can potentially be used to discriminate, such as religion, sexual orientation and race.&nbsp;</p><p>Any data not relating to a person, such as income of a business and locations of things, is not personal but it may be deemed commercially sensitive.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Defining personal, sensitive personal and sensitive commercial data",
+    "displayTitle": "",
+    "body": "<p><strong>Personal data</strong>:&nbsp;Information relating to an identified or identifiable natural person.</p><p><strong>Sensitive personal data</strong>: Personal data that affords extra protection due to its nature, e.g. genetic data, health records or data that can potentially be used to discriminate.</p><p><strong>Sensitive commercial data</strong>: Non-personal data, such as income of a business and locations of things.&nbsp;It is often deemed sensitive as the use and sharing of data may still result in harmful impacts.</p><p>In all cases countries will likely have their own definitions and categories for personal and sensitive personal data defined by data protection regulations. Sensitive commercial data may not be as well defined. It is the responsibility of those handling such data to take necessary steps to&nbsp;<span style=\"background-color:#FFFF00\">minimising harmful impacts</span>.</p>",
+    "_id": "5f22c649d9139d00c79a75ef",
+    "_parentId": "5f22c636d9139d00c79a75ee",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Defining personal, sensitive personal and sensitive commercial data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22c64ed9139d00c79a75f0",
+    "_parentId": "5f22c636d9139d00c79a75ee",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who owns personal data?",
+    "displayTitle": "",
+    "body": "<p>Can correctly identify the owner of the following?</p>",
+    "_id": "5f22d114d9139d00c79a75f5",
+    "_parentId": "5f22d114d9139d00c79a75f4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer from the drop downs. When done click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "A tweet you write",
+        "_options": [
+          {
+            "text": "You do",
+            "_isCorrect": true
+          },
+          {
+            "text": "Twitter",
+            "_isCorrect": false
+          },
+          {
+            "text": "No one",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Your fracebook profile picture",
+        "_options": [
+          {
+            "text": "You do",
+            "_isCorrect": false
+          },
+          {
+            "text": "Facebook",
+            "_isCorrect": false
+          },
+          {
+            "text": "The photographer",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "A field survey you conduct",
+        "_options": [
+          {
+            "text": "You do",
+            "_isCorrect": true
+          },
+          {
+            "text": "The people the survey is about",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Providing there is an intellectual effort in creating something, the person who put in the effort in the creation is the owner.&nbsp;</p><p>So your the tweets you write, a photograph you take, a spreadsheet you create, these are all owned by you.&nbsp;</p><p>In the case where you interact with a survey, platform or service, the owner of the data created as a result of your interaction will be the service provider, e.g. the research institute or the social media platform. This is because the intellectual effort in the creation of the survey or service is the provider, you are simply interacting with it.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Providing there is an intellectual effort in creating something, the person who put in the effort in the creation is the owner.&nbsp;</p><p>So your the tweets you write, a photograph you take, a spreadsheet you create, these are all owned by you.&nbsp;</p><p>In the case where you interact with a survey, platform or service, the owner of the data created as a result of your interaction will be the service provider, e.g. the research institute or the social media platform. This is because the intellectual effort in the creation of the survey or service is the provider, you are simply interacting with it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who owns personal data?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d115d9139d00c79a75f6",
+    "_parentId": "5f22d114d9139d00c79a75f4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of understanding who owns personal data",
+    "displayTitle": "",
+    "body": "<p>Not all data about you is your data; you do do own it all. But because it is about you, you have rights over it, and this is why we have data protection regulations; to protect the rights of individuals.&nbsp;</p><p>Around the world many countries have been updating data protection regulations to account for people now interacting online. In an increasingly frictionless data world, clear guidance needs to be in place on not just what individuals rights are over data about them but also the lawful basis for using, storing and retaining personal data, both in country and internationally.&nbsp;</p><p>Data protection regulations are not there to prevent data reaching those who need it, they are there to protect the privacy and rights of the people the data is about.</p>",
+    "_id": "5f22d2d9d9139d00c79a75fb",
+    "_parentId": "5f22d2d9d9139d00c79a75fa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of understanding who owns personal data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d2d9d9139d00c79a75fc",
+    "_parentId": "5f22d2d9d9139d00c79a75fa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "<p>Under modern data protection regulations, such as the General Data Protection Regulation (GDPR), what rights do individuals have over data about them?</p>",
+    "_id": "5f22d465d9139d00c79a7601",
+    "_parentId": "5f22d3ebd9139d00c79a7600",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "The right to be informed how data about them is processed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The right to access data about them",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The right to object or withdraw consent",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d467d9139d00c79a7602",
+    "_parentId": "5f22d3ebd9139d00c79a7600",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d523d9139d00c79a7606",
+    "_parentId": "5f22d50dd9139d00c79a7605",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Right to be informed",
+        "body": "<p>Individuals have the right to be informed about how personal data about them is collected and used. This information should be presented in a privacy notice. This should be presented to the individual when data is collected, in clear, concise language and be easily accessible.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to access (subject access requests)",
+        "body": "<p>The right to access gives people the right to request a copy of the personal information about them. There are expectations to this, such as when that information is being used for criminal proceedings or other sensitive legal obligation.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to rectification",
+        "body": "<p>Individuals have the right to have personal data corrected if it is inaccurate or incomplete. The data controller also has responsibilities to ensure the data is corrected if it is shared with others.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to be forgotten",
+        "body": "<p>The right to be forgotten (or the right to data erasure) entitles an individual to direct the controller to erase personal data about them, cease further sharing of the data, and potentially halt processing of the data by third parties.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to restrict processing",
+        "body": "<p>Individuals have a right to ‘block’ or suppress processing of personal data.&nbsp;</p><p>Such rights can be exercised when:</p><ul><li>the accuracy of the personal data is contested</li><li>where the individual has objected to the processing (only in the case of performance of a public task or legitimate interest)</li><li>the processing is unlawful</li><li>the data is needed for future reference but should no longer be processed</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to data portability",
+        "body": "<p>Individuals can request that personal data about them be transferred directly to another controller. To this point, we have only seen the financial sector adopt the right to data portability as a way to build better banking services. The global <a href=\"https://en.wikipedia.org/wiki/Open_banking\" target=\"_blank\">open banking</a> initiative allows customers to directly transfer personal data between financial service providers, meaning you can change bank without having to fill in endless forms.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to object or withdraw consent",
+        "body": "<p>If the lawful basis for processing is based on having consent, the individual has the right to withdraw that consent at any time. The process of withdrawing consent must be as easy as giving consent in the first place. If a different lawful basis other than consent is being used as the basis for processing personal data, individuals may have the right to object to that processing.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to not be subject solely to automated decision making",
+        "body": "<p>Individuals have the right to not be subject to a decision based solely on automated processing, including profiling. In all cases individuals must be informed about the automated processing and be able to request human intervention or challenge a decision.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The role of data protection regulations",
+    "displayTitle": "",
+    "body": "<p>Generally data protection regulations set out the following:&nbsp;</p><ol><li>Definitions of personal and sensitive personal data</li><li>Geographic restrictions relating specifically to personal data</li><li>The lawful basis under which personal data can be processed</li><li>The rights of individuals over personal data about them</li><li>The responsibilities of data controllers in relation to personal data</li></ol>",
+    "_id": "5f22d5d4d9139d00c79a7611",
+    "_parentId": "5f22d5bdd9139d00c79a760c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The role of data protection regulations",
+    "displayTitle": "",
+    "body": "<p>Different countries have their own data protection legislation, which enable personal data to be used while protecting the rights of individuals. The most important thing to remember is that personal data cannot be collected or processed without a lawful basis; if no lawful basis applies then it is illegal to hold the personal data.</p><p>A lawful basis is often detailed as part of the data governance and privacy impact assessments and should also be clear to individuals as part of the privacy notice.</p><p>Once the lawful basis is established, all other aspects, such as rights of individuals will be&nbsp;matched to this.</p>",
+    "_id": "5f22d5f8d9139d00c79a7612",
+    "_parentId": "5f22d5bdd9139d00c79a760c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Techniques to reduce the risks of handling personal data",
+    "displayTitle": "",
+    "body": "<p>What steps can be taken to reduce the risks of handling personal data?</p>",
+    "_id": "5f22d649d9139d00c79a7617",
+    "_parentId": "5f22d649d9139d00c79a7616",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Not collecting personal data in the first place",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Anonymise the data, removing any personal information",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Delete the personal information, or create a synthetic dataset of fictional people",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Personal data should only be collected and stored if it is absolutely necessary to fulfil the lawful basis. If you don’t need it, don’t collect it. The same applies to retaining personal data.&nbsp;</p><p>As an alternative to deleting data, anonymisation techniques could be applied that remove any personal data that can identify a specific individual.&nbsp;</p><p>Alternatively you could consider creating a synthetic dataset. A synthetic dataset contains many of the statistical patterns of an original dataset, but does not refer to identifiable individuals (e.g. it contains fictional people), thereby reducing the risk of re identification.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Personal data should only be collected and stored if it is absolutely necessary to fulfil the lawful basis. If you don’t need it, don’t collect it. The same applies to retaining personal data.&nbsp;</p><p>As an alternative to deleting data, anonymisation techniques could be applied that remove any personal data that can identify a specific individual.&nbsp;</p><p>Alternatively you could consider creating a synthetic dataset. A synthetic dataset contains many of the statistical patterns of an original dataset, but does not refer to identifiable individuals (e.g. it contains fictional people), thereby reducing the risk of re identification.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Techniques to reduce the risks of handling personal data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d649d9139d00c79a7618",
+    "_parentId": "5f22d649d9139d00c79a7616",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data protection and anonymised/synthentic data",
+    "displayTitle": "",
+    "body": "<p>Do data protection regulations apply to anonymised or synthetic data?</p>",
+    "_id": "5f22d689d9139d00c79a761d",
+    "_parentId": "5f22d689d9139d00c79a761c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Yes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside of geographical boundaries that may be imposed by data protection regulations.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Once the data is anonymised, data protection regulations no longer apply and data can be shared with others safely, even outside of geographical boundaries that may be imposed by data protection regulations.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data protection and anonymised/synthentic data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d689d9139d00c79a761e",
+    "_parentId": "5f22d689d9139d00c79a761c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial and the role of data protection regulations which many see as a blocker to sharing personal data.</p><p>Increasing&nbsp;understanding of personal data, data protection regulations&nbsp;and techniques that can be applied minimise the risks of handling personal data is essential to&nbsp;ensure data transformative investments protect the rights of individuals while maximising the utility of data.</p>",
+    "_id": "5f22d77fd9139d00c79a7629",
+    "_parentId": "5f22d756d9139d00c79a7628",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f22d781d9139d00c79a762a",
+    "_parentId": "5f22d756d9139d00c79a7628",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Classifying personal and sensitive data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f23c4c299a549005d8588cf",
+    "_parentId": "5f22bf0bd9139d00c79a75e9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "",
+    "body": "<p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose. Further, this must be specific. Privacy notices stating that personal data is used to “improve the level of service” are no longer valid under modern data protection regulations, like GDPR, as these are not specific.</p><p>Additionally the following rights are emerging globally, both as part of data protection regulations and also as best practices even when relating to non-personal data.</p>",
+    "_id": "5f23c8e999a549005d8588d8",
+    "_parentId": "5f22d50dd9139d00c79a7605",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tools, checklists and case studies to support investments",
+    "displayTitle": "Tools, checklists and case studies to support investments",
+    "body": "<p>To support the delivery of data transformative investments while protecting the rights of individuals a set of checklists, practical guides and tools are also available in the toolbox. These include:</p><ul><li>Risk assessment: Personal data</li><li>Practical guide: Anonymisation</li><li>Practical guide: Agricultural data country briefing on data policy, legal and regulatory context&nbsp;</li><li>Tools: The data ethics canvas</li></ul><p><strong>Case studies</strong></p><p>To demonstrate how others have navigated the collection, use and sharing of personal data we have included a case study within the FAIR data toolbox.</p><p><strong>Specialist support</strong></p><p>While the FAIR data toolbox is self-serve, we have also listed a set of external support organisations and individuals that can help with protecting the rights of individuals and all aspects of delivering data transformative investments.</p>",
+    "_id": "5f23c97199a549005d8588d9",
+    "_parentId": "5f22d609d9139d00c79a7614",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
   }
 ]

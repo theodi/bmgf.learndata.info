@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 18,
+  "_latestTrackingId": 31,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -37,7 +37,7 @@
   "_lockType": "",
   "_id": "course",
   "_start": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_startIds": [
       {
         "_id": "5f203b30649ca8005e769a10",
@@ -169,7 +169,7 @@
       "link-inverted-hover": ""
     },
     "_themeLogo": {
-      "theme-logo": "",
+      "theme-logo": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
       "theme-logo-top-padding": "0rem",
       "theme-logo-width": "100%"
     },

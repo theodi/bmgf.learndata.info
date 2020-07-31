@@ -31,7 +31,7 @@
       "_notify": 1
     }
   },
-  "__v": 7,
+  "__v": 8,
   "_completionCriteria": {
     "_requireContentCompleted": true,
     "_requireAssessmentCompleted": false
@@ -63,6 +63,7 @@
       "adapt-contrib-graphic",
       "adapt-contrib-narrative",
       "adapt-contrib-accordion",
+      "adapt-contrib-matching",
       "adapt-devtools",
       "adapt-odi-licence",
       "adapt-contrib-pageLevelProgress",

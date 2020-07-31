@@ -70,5 +70,21 @@
     "licence": "CC-BY",
     "attribution": "The Open Data Institute",
     "tags": []
+  },
+  "abef6d2100174b0451a9583dbcc7566426b8c88d.jpg": {
+    "title": "BMGF Network Map",
+    "description": "BMGF Network Map",
+    "source": "https://www.gatesfoundation.org/",
+    "licence": "All rights reserved",
+    "attribution": "Bill and Melinda Gates Foundation",
+    "tags": []
+  },
+  "b20a5314f3a93f49b8e949c2674305af33c32179.jpg": {
+    "title": "BMGF Family",
+    "description": "BMGF Family",
+    "source": "https://www.gatesfoundation.org/",
+    "licence": "All rights reserved",
+    "attribution": "Bill & Melinda Gates Foundation",
+    "tags": []
   }
 }
