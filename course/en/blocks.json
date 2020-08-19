@@ -308,11 +308,143 @@
     }
   },
   {
+    "title": "Delivering FAIR and safeguarded data within investments",
+    "displayTitle": "Delivering FAIR and safeguarded data within investments",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594466",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "People, Process and Technology",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446c",
+    "_parentId": "5f31425cde0993008a594463",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying activities",
+    "displayTitle": "Identifying activities",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594473",
+    "_parentId": "5f31425cde0993008a594465",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q3 - Common constraints in delivering data transformative grants",
     "displayTitle": "Common constraints in delivering data transformative grants",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -356,7 +488,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 9,
+    "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -400,7 +532,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 10,
+    "_trackingId": 13,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -444,7 +576,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -488,7 +620,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 12,
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -532,7 +664,7 @@
     "displayTitle": "The rights of individuals over personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 13,
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -576,7 +708,7 @@
     "displayTitle": "Data protection and anonymised/synthentic data",
     "body": "",
     "_classes": "",
-    "_trackingId": 14,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -616,11 +748,187 @@
     }
   },
   {
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446b",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Q3 - Common barriers",
+    "displayTitle": "Common barriers",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446d",
+    "_parentId": "5f31425cde0993008a594463",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594472",
+    "_parentId": "5f31425cde0993008a594464",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying investments requiring FAIR and safeguarded data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594474",
+    "_parentId": "5f31425cde0993008a594465",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q1: Introducing data transformation",
     "displayTitle": "Introducing data transformation",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -664,7 +972,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 16,
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -708,7 +1016,7 @@
     "displayTitle": "Roles and responsibilities (Project Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 17,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -752,7 +1060,7 @@
     "displayTitle": "Classifying personal and sensitive data",
     "body": "<p>See if you can classify the following types of data into personal, sensitive personal, sensitive commercial or neither personal nor commercial.</p>",
     "_classes": "",
-    "_trackingId": 18,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -796,7 +1104,7 @@
     "displayTitle": "The role of data protection regulations",
     "body": "",
     "_classes": "",
-    "_trackingId": 19,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -840,7 +1148,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 20,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -880,11 +1188,143 @@
     }
   },
   {
+    "title": "What makes data FAIR and safeguarded?",
+    "displayTitle": "What makes data FAIR and safeguarded?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594469",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Common constraints (1): Data sharing and access",
+    "displayTitle": "Common constraints (1): Data sharing and access",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446e",
+    "_parentId": "5f31425cde0993008a594463",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Roles and responsibilities (Program Officers)",
+    "displayTitle": "Roles and responsibilities (Program Officers)",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594475",
+    "_parentId": "5f31425cde0993008a594465",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Why data transformation is critical to realise wider BMGF aims",
     "displayTitle": "Why data transformation is critical to realise wider BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -928,7 +1368,7 @@
     "displayTitle": "Common constraints (2): Security, privacy and trust",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -972,7 +1412,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 23,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1016,7 +1456,7 @@
     "displayTitle": "Defining personal, sensitive personal and sensitive commercial data",
     "body": "",
     "_classes": "",
-    "_trackingId": 24,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1056,11 +1496,143 @@
     }
   },
   {
+    "title": "Q1: Why FAIR and safeguarded data?",
+    "displayTitle": "Why FAIR and safeguarded data?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594467",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Common constraints (2): Security and privacy",
+    "displayTitle": "Common constraints (2): Security and privacy",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446f",
+    "_parentId": "5f31425cde0993008a594463",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Roles and responsibilities (Grantees)",
+    "displayTitle": "Roles and responsibilities (Grantees)",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594476",
+    "_parentId": "5f31425cde0993008a594465",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "What makes data FAIR and transformative?",
     "displayTitle": "What makes data FAIR and transformative?",
     "body": "",
     "_classes": "",
-    "_trackingId": 25,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1104,7 +1676,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1148,7 +1720,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 27,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1192,7 +1764,7 @@
     "displayTitle": "Who owns personal data?",
     "body": "<p>When you put intellectual effort (thought) into creating something, you own that work and you have certain Intellectual property rights. Intellectual property rights are of critical importance to understand when you are seeking to collect, use and share data.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1232,11 +1804,143 @@
     }
   },
   {
+    "title": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
+    "displayTitle": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 42,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594468",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Common constraints (3): Trust and benefits",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 43,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594470",
+    "_parentId": "5f31425cde0993008a594463",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Delivering data transformative investments",
+    "displayTitle": "Delivering data transformative investments",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 44,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594477",
+    "_parentId": "5f31425cde0993008a594465",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q2 - What makes data FAIR and transformative",
     "displayTitle": "Supporting FAIR and transformative data",
     "body": "",
     "_classes": "",
-    "_trackingId": 29,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1280,7 +1984,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 46,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1324,7 +2028,7 @@
     "displayTitle": "The importance of understanding who owns personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 47,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1334,6 +2038,94 @@
     "_ariaLevel": 0,
     "_id": "5f22d2d9d9139d00c79a75fa",
     "_parentId": "5f22bcf7d9139d00c79a75df",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Q2 - Delivering FAIR and safeguarded data within investments",
+    "displayTitle": "Delivering FAIR and safeguarded data within investments",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 48,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446a",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Examples of FAIR and transformative projects",
+    "displayTitle": "Examples of FAIR and transformative projects",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 49,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425dde0993008a594471",
+    "_parentId": "5f31425cde0993008a594463",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

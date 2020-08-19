@@ -74,6 +74,43 @@
     }
   },
   {
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594462",
+    "_parentId": "5f31425cde0993008a594460",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
     "title": "The theory of change",
     "displayTitle": "",
     "body": "",
@@ -124,6 +161,43 @@
     "_ariaLevel": 0,
     "_id": "5f22d3ebd9139d00c79a75ff",
     "_parentId": "5f22bcf6d9139d00c79a75de",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Common constraints",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-three invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594463",
+    "_parentId": "5f31425cde0993008a594460",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -222,6 +296,43 @@
     }
   },
   {
+    "title": "Roles and responsibilities",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594465",
+    "_parentId": "5f31425cde0993008a594460",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
     "title": "Footer",
     "displayTitle": "",
     "body": "",
@@ -272,6 +383,43 @@
     "_ariaLevel": 0,
     "_id": "5f22d756d9139d00c79a7627",
     "_parentId": "5f22bcf6d9139d00c79a75de",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Footer",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two invert-odd",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a594464",
+    "_parentId": "5f31425cde0993008a594460",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

@@ -1,8 +1,8 @@
 [
   {
-    "title": "Delivering data transformative investments",
-    "displayTitle": "Delivering data transformative investments",
-    "body": "<p>At the heart of data transformative grants is FAIR and Safeguarded data. That is, data that is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable to as many people as possible.&nbsp;</p><p>The aim of this module is to enable the identification of data rich investments and understand the challenges that need to be overcome in order to deliver data transformative investments.</p>",
+    "title": "Delivering FAIR and safeguarded data within investments",
+    "displayTitle": "Delivering FAIR and safeguarded data within investments",
+    "body": "<p>The Bill and Melinda Gates Foundation is committed to information sharing and transparency. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded. That is, data that is Findable, Accessible, Interoperable and Reusable to as many people as possible.</p><p>For both Program Officers (POs) and grantees this module is designed to help understanding of the requirements for integrating FAIR and safeguarded data within an investment, making the grant process smoother and results more impactful.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "",
@@ -18,7 +18,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f203b30649ca8005e769a10",
+    "_id": "5f31425cde0993008a594460",
     "_type": "page",
     "_parentId": "course",
     "_graphic": {
@@ -99,6 +99,81 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/b20a5314f3a93f49b8e949c2674305af33c32179.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Delivering data transformative investments [V1]",
+    "displayTitle": "Delivering data transformative investments",
+    "body": "<p>At the heart of data transformative grants is FAIR and Safeguarded data. That is, data that is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable to as many people as possible.&nbsp;</p><p>The aim of this module is to enable the identification of data rich investments and understand the challenges that need to be overcome in order to deliver data transformative investments.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f203b30649ca8005e769a10",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/abef6d2100174b0451a9583dbcc7566426b8c88d.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,

@@ -2706,5 +2706,1479 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>The Bill and Melinda Gates Foundation is committed to information sharing and transparency. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded. That is, data that is Findable, Accessible, Interoperable and Reusable to as many people as possible.&nbsp;</p><p>The aim of this module is to enable the identification of activities that are likely to generate and use data and understand the challenges that need to be overcome in order to deliver FAIR and safeguarded data within investments.</p><p>For both Program Officers (POs) and grantees this module is designed to help understanding of the requirements for integrating FAIR and safeguarded data within an investment, making the grant process smoother and results more impactful.</p>",
+    "_id": "5f31425dde0993008a594478",
+    "_parentId": "5f31425cde0993008a594466",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a594479",
+    "_parentId": "5f31425cde0993008a594466",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why FAIR and safeguarded data?",
+    "displayTitle": "",
+    "body": "<p>The aim of FAIR and safeguarded data within investments is to…?</p>",
+    "_id": "5f31425dde0993008a59447c",
+    "_parentId": "5f31425cde0993008a594467",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Ensure fair and equitable access to data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Boost return on investment in data rich grants through wider data sharing",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Protect the rights and interests of individuals affected by the collection, use and sharing of data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>FAIR and safeguarded data within an investment focuses on making data as open as possible, while minimising harmful impacts.&nbsp;</p><p>Access to data is not always equitable and the rights and interests of individuals affected by the collection, use and sharing of data are not always considered. This restricts the value that can be created from data, limiting its use in decision making, and the potential return on investments.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>FAIR and safeguarded data within an investment focuses on making data as open as possible, while minimising harmful impacts.&nbsp;</p><p>Access to data is not always equitable and the rights and interests of individuals affected by the collection, use and sharing of data are not always considered. This restricts the value that can be created from data, limiting its use in decision making, and the potential return on investments.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why FAIR and safeguarded data?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a59447d",
+    "_parentId": "5f31425cde0993008a594467",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a594480",
+    "_parentId": "5f31425cde0993008a594468",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why data transformation is critical to realise wider BMGF aims",
+    "displayTitle": "",
+    "body": "<p><strong>The Bill and Melinda Gates Foundation is committed to information sharing and transparency</strong>. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded.</p><p>Currently, digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and use to reduce risk and improve decisions. Data is often not shared or managed well, which means that the Gates Foundation does not receive the highest possible return from investments and the value that can be created from data is not realised.</p>",
+    "_id": "5f31425dde0993008a594483",
+    "_parentId": "5f31425cde0993008a594468",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What makes data FAIR and safeguarded?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a594484",
+    "_parentId": "5f31425cde0993008a594469",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What makes data FAIR and safeguarded?",
+    "displayTitle": "",
+    "body": "<p>Value can be created from data when it is <strong>collected</strong>, <strong>accessed</strong>, <strong>used </strong>and <strong>shared</strong>. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p><strong>FAIR </strong>data is that which is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable by others.&nbsp;</p><p><strong>Safeguarded </strong>data is managed and sustained <strong>equitably </strong>and <strong>ethically</strong>; making it as open as possible while reducing harmful impacts.</p>",
+    "_id": "5f31425dde0993008a594487",
+    "_parentId": "5f31425cde0993008a594469",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Delivering FAIR and safeguarded data within investments",
+    "displayTitle": "",
+    "body": "<p>What is required to support delivery of FAIR and safeguarded data within investments?</p>",
+    "_id": "5f31425dde0993008a594488",
+    "_parentId": "5f31425cde0993008a59446a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "A set of technologies, standards and platforms",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Well defined processes and policies around data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "People to lead, support and advocate for FAIR and transformative data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies </strong>and <strong>processes </strong>that support the use of <strong>technology</strong>; you need to maintain equal focus on all aspects to maximise the utility of data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies </strong>and <strong>processes </strong>that support the use of <strong>technology</strong>; you need to maintain equal focus on all aspects to maximise the utility of data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Delivering FAIR and safeguarded data within investments",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a594489",
+    "_parentId": "5f31425cde0993008a59446a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>Why FAIR and safeguarded data within investments is critical to realise wider BMGF aims</li><li>What makes data FAIR and safeguarded</li><li>Common constraints in delivering FAIR and safeguarded data investments</li><li>Examples of FAIR and safeguarded data investments</li><li>How to identify investments that should integrate FAIR and safeguarded data&nbsp;</li><li>The roles and responsibilities of BMGF project officers and grantees in delivering FAIR and safeguarded data investments</li><li>Resources to help deliver FAIR and safeguarded data investments investments</li></ul>",
+    "_id": "5f31425dde0993008a59448c",
+    "_parentId": "5f31425cde0993008a59446b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "People, Process and Technology",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a59448d",
+    "_parentId": "5f31425cde0993008a59446c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1f43f5995a5725b67d48cd11e8d5751d292cce6a.png",
+      "small": "course/en/assets/1f43f5995a5725b67d48cd11e8d5751d292cce6a.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">CABI/ODI</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "People, Process and Technology",
+    "displayTitle": "People, Process and Technology",
+    "body": "<p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies and processes</strong> that support the use of <strong>technology</strong>; you need to maintain equal focus on all aspects to maximise the utility of data.</p>",
+    "_id": "5f31425dde0993008a594490",
+    "_parentId": "5f31425cde0993008a59446c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common barriers",
+    "displayTitle": "",
+    "body": "<p>Which of the following are common barriers to delivering FAIR and safeguarded data within investments?</p>",
+    "_id": "5f31425dde0993008a594491",
+    "_parentId": "5f31425cde0993008a59446d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Concerns over data security and privacy",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A mis-trust in data or others use of data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "No suitable technology to make use of data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "No data available",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and fear of data misuse are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and fear of data misuse are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common barriers",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a594492",
+    "_parentId": "5f31425cde0993008a59446d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common constraints (1): Data sharing and access",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a594495",
+    "_parentId": "5f31425cde0993008a59446e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e8b1276f45e39abae879cb84fef453b8ebda969e.png",
+      "small": "course/en/assets/e8b1276f45e39abae879cb84fef453b8ebda969e.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">CABI/ODI</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common constraints (1): Data sharing and access",
+    "displayTitle": "",
+    "body": "<p>One of the biggest barriers is the lack of cultural willingness to share data. This scenario is common where <strong>policies and process</strong> are not equal in focus to <strong>technology</strong>.&nbsp;</p><p>Within grants this could look like; no data sharing mechanisms or a lack of confidence in them, silo’s within organisations or governments meaning processes and approaches differ or changes in leadership impacting investment in sharing.&nbsp;</p><p>In this scenario, <strong>policies and processes</strong> are restrictive and do not support the sharing and reuse of data. This results in a closed (or walled garden) environment which can greatly reduce innovation capabilities and prevent data reaching those who can benefit from fair and equitable access.&nbsp;</p><p>Developing, enforcing and adhering to policies and processes that support <strong>data sharing and access</strong> is key to overcome this constraint.</p>",
+    "_id": "5f31425dde0993008a594499",
+    "_parentId": "5f31425cde0993008a59446e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "white",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common constraints (2): Security and privacy",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a59449a",
+    "_parentId": "5f31425cde0993008a59446f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d835fe2fcb352bc98af3f80548a3e4fc1a294681.png",
+      "small": "course/en/assets/d835fe2fcb352bc98af3f80548a3e4fc1a294681.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">CABI/ODI</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common constraints (2): Security and privacy",
+    "displayTitle": "",
+    "body": "<p>Another common barrier is fear. This scenario is common where <strong>people </strong>are not equal in focus to <strong>technology</strong>.&nbsp;</p><p>Within grants this could look like; a lack of trust and understanding among stakeholders, limited understanding of key data concepts, or a lack of understanding of national, regional or international data policies or legislation.</p><p>This is most prevalent in situations where <strong>people </strong>have unaddressed fears arising from legitimate concerns – such as data security, privacy and trust over who has access to data and how it might be used.&nbsp;</p><p>Supporting <strong>people </strong>with key data literacy skills is critical to help people overcome their fears and show how aspects such as data protection regulations, data security and licensing can in fact support the wider sharing of data.</p>",
+    "_id": "5f31425dde0993008a59449e",
+    "_parentId": "5f31425cde0993008a59446f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common constraints (3): Trust and benefits",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a59449f",
+    "_parentId": "5f31425dde0993008a594470",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1bbe3568ed3f9e5ac3aa66119166a68afe2d680c.png",
+      "small": "course/en/assets/1bbe3568ed3f9e5ac3aa66119166a68afe2d680c.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">CABI/ODI</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Showcasing benefits: Examples of FAIR and safeguarded data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a5944a3",
+    "_parentId": "5f31425dde0993008a594471",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data sharing in India",
+        "_ariaLevel": 0,
+        "body": "<p>The Cereal Systems Initiative for South Asia (CSISA) intended to embed FAIR data in activities, but found challenges in both putting in place the right data sharing agreements and getting support from those who had fears of data security, privacy and trust. Through a series of training courses, accompanied by policy advice, CABI/ODI have supported CSISA and its community to help overcome fears, realise benefits and to put in place new data sharing agreements that ensure data is made as open as possible, while minimising harmful impacts.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3c4d2a472690b3e7732a6f7a11b7a01e19a3a16c.png",
+          "alt": "",
+          "attribution": "<a href=\"https://csisa.org/\" target=\"_blank\">CSISA</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Data sharing in India"
+      },
+      {
+        "title": "Case study 2",
+        "_ariaLevel": 0,
+        "body": "<p>TBC</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 2"
+      },
+      {
+        "title": "Case study 3",
+        "_ariaLevel": 0,
+        "body": "<p>TBC</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Case study 3"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary clipboard",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a5944a7",
+    "_parentId": "5f31425dde0993008a594472",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>The Bill and Melinda Gates Foundation is committed to information sharing and transparency. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded. That is, data is Findable, Accessible, Interoperable and Reusable to as many people as possible while minimising harmful impact</p><p>Key to supporting FAIR and safeguarded data within investments are the people, policies and processes that make use of technology. Maintaining equal focus on all aspects is key to maximize the utility of data.&nbsp;</p><p>The FAIR data toolbox contains key resources that can help everyone deliver FAIR and safeguarded data within investments.&nbsp;</p>",
+    "_id": "5f31425dde0993008a5944aa",
+    "_parentId": "5f31425dde0993008a594472",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying activities",
+    "displayTitle": "",
+    "body": "<p>Which types of activities will require FAIR and safeguarded data within investments?</p>",
+    "_id": "5f31425dde0993008a5944ab",
+    "_parentId": "5f31425dde0993008a594473",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Those that plan to collect, access, use or share data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Those that plan to use data to inform and drive research and decision making",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Those that plan to create or use a digital service (e.g. a platform)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>In today’s digital world, it is highly likely that projects will involve data at some level, and those that don’t will be very rare. This is especially true in research based initiatives that collect and analyse data to discover insight.&nbsp;</p><p>The toolbox contains a checklist that helps identify which investments will require FAIR and safeguarded data within them. The next section introduces this.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>In today’s digital world, it is highly likely that projects will involve data at some level, and those that don’t will be very rare. This is especially true in research based initiatives that collect and analyse data to discover insight.&nbsp;</p><p>The toolbox contains a checklist that helps identify which investments will require FAIR and safeguarded data within them. The next section introduces this.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying data rich grants",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a5944ac",
+    "_parentId": "5f31425dde0993008a594473",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying investments requiring FAIR and safeguarded data",
+    "displayTitle": "",
+    "body": "<p>The types of investments that will require FAIR and safeguarded data are those with activities including:</p><ol><li><strong>Collecting new data or information</strong> - for example, for analysis</li><li><strong>Stakeholder collaboration</strong> - collaboration between actors often relies on the ability to share data and information between them &nbsp;</li><li><strong>Developing digital services</strong> - creating services or applications from data derived from third party sources and transformed in some way to generate insights&nbsp;</li><li><strong>Providing tailored services or insights</strong> - tailoring services are like to include personal or sensitive information and will depend on high quality data and evidence and to be able to trust and reuse that data</li><li><strong>Sharing or publishing data</strong> - an investment may be focussed entirely on improving sharing of data, for example via Soil Information Systems.</li></ol><p>The toolbox contains a checklist that helps identify which investments will require FAIR and safeguarded data within them. The checklist builds on the 5 points above, providing examples of activities within each theme.<br />&nbsp;</p>",
+    "_id": "5f31425dde0993008a5944af",
+    "_parentId": "5f31425dde0993008a594474",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (Program Officers)",
+    "displayTitle": "",
+    "body": "<p>What is the role of a Program Officer in delivering FAIR and safeguarded data within investments?</p>",
+    "_id": "5f31425dde0993008a5944b0",
+    "_parentId": "5f31425dde0993008a594475",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Identify actions and provide support to ensure data is FAIR and safeguarded within investments.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Regularly benchmark FAIR and safeguarded data within investments to demonstrate progress.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To advise grantees on practical steps to improve data security and privacy",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To support grantees to write data sharing agreements",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Whether designing an intervention, technology, product or research study, integrating data</p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (POs)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a5944b1",
+    "_parentId": "5f31425dde0993008a594475",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (Grantees)",
+    "displayTitle": "",
+    "body": "<p>What is the role of a grantee in ensuring that grants are data transformative?</p>",
+    "_id": "5f31425dde0993008a5944b4",
+    "_parentId": "5f31425dde0993008a594476",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "To take responsibility for data transformation in their grants",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To ensure compliance with national and international stakeholder and funder policies in delivering data transformation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To ensure activities balance focus on technology with process and capacity building for people",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Grantees need to take a key role in delivering FAIR and safeguarded data within investments. Primarily this involves addressing the core constraints, considering and planning for data access, use and sharing from the outset, educating themselves and others to overcome fears and putting in place the policies and processes that will not only support their grant, but lead to increased data utility and return of value from the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Grantees need to take a key role in delivering FAIR and safeguarded data within investments. Primarily this involves addressing the core constraints, considering and planning for data access, use and sharing from the outset, educating themselves and others to overcome fears and putting in place the policies and processes that will not only support their grant, but lead to increased data utility and return of value from the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Roles and responsibilities (Grantees)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f31425dde0993008a5944b5",
+    "_parentId": "5f31425dde0993008a594476",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Delivering FAIR and safeguarded data within investments",
+    "displayTitle": "",
+    "body": "<p>The FAIR data toolbox contains key resources that can help everyone deliver FAIR and safeguarded data within investments. Discover more about each below:</p>",
+    "_id": "5f31425ede0993008a5944bb",
+    "_parentId": "5f31425dde0993008a594477",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The FAIR and safeguarded data progress marker",
+        "body": "<p>The FAIR and safeguarded data progress marker presents key questions and an accompanying mark scheme. This key tool can help understand progress towards the Foundations commitment to information sharing and transparency, and implementation of the <a href=\"https://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy\" target=\"_blank\">open access policy.</a> It measures progress in delivering FAIR and safeguarded data within investments, while minimising harmful impacts.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Learning resources",
+        "body": "<p>The toolbox also contains a number of eLearning modules that anyone can access to increase level of understand in how to deliver FAIR and safeguarded data within investments;&nbsp;</p><p>These include:</p><ul><li>Delivering data enabling investments (this one)</li><li>Assessing in country policies and laws to support data sharing</li><li>Working with data from multiple sources</li><li>Protecting rights of individuals while maximising the utility of data</li><li>Maximising reuse of data through licensing and sharing</li><li>Minimising harmful impacts from data</li><li>Building sustainable data ecosystems</li></ul><p>Each is available to everyone, both POs and Grantees, in the toolbox.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tools and checklists to support investments",
+        "body": "<p>To support practical implementation and delivery of FAIR and safeguarded data within investments a set of checklists, practical guides and tools are also available in the toolbox. Examples include:</p><ul><li>Cheat sheet - key pieces of information to reference from the eLearning</li><li>Checklist: Identifying investments that require FAIR and safeguarded data</li><li>FAIR data in investments - mark scheme (what does good look like)</li><li>Case study - FAIR data implementation in real projects</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Case studies",
+        "body": "<p>Being able to demonstrate the benefits of FAIR and safeguarded data is key to supporting everyone. The toolbox contains a number of case studies on initiatives from around the world.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Specialist support",
+        "body": "<p>While the FAIR data toolbox is self-serve, we have also listed a set of external support organisations and individuals that can help with all aspects of delivering FAIR and safeguarded data within investments.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Common constraints (3): Trust and benefits",
+    "displayTitle": "Common constraints (3): Trust and benefits",
+    "body": "<p>In addition to the two challenges we have introduced already, there is a third; <strong>trust &amp; benefits</strong>. Again this is about <strong>people</strong>.&nbsp;</p><p>Within investments this could look like; a lack of trust in the data produced, a lack of incentives to collect quality data, data being used as a ‘bargaining chip’, benefits of sharing not well understood or concerns others will unfairly benefit from data collected and shared.</p><p><strong>People </strong>need to have access to examples of where FAIR and safeguarded data has delivered benefits to all involved.</p>",
+    "_id": "5f3d048c4d9d0f006498183d",
+    "_parentId": "5f31425dde0993008a594470",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
   }
 ]

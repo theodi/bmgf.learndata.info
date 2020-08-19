@@ -86,5 +86,37 @@
     "licence": "All rights reserved",
     "attribution": "Bill & Melinda Gates Foundation",
     "tags": []
+  },
+  "e8b1276f45e39abae879cb84fef453b8ebda969e.png": {
+    "title": "Data Sharing and Access",
+    "description": "Data Sharing and Access",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "CABI/ODI",
+    "tags": []
+  },
+  "d835fe2fcb352bc98af3f80548a3e4fc1a294681.png": {
+    "title": "Security & privacy",
+    "description": "https://theodi.org",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "CABI/ODI",
+    "tags": []
+  },
+  "1bbe3568ed3f9e5ac3aa66119166a68afe2d680c.png": {
+    "title": "Trust & Benefits",
+    "description": "Trust & Benefits",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "CABI/ODI",
+    "tags": []
+  },
+  "1f43f5995a5725b67d48cd11e8d5751d292cce6a.png": {
+    "title": "People, Process, Technology triangle",
+    "description": "People, Process, Technology triangle",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "CABI/ODI",
+    "tags": []
   }
 }
