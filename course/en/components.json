@@ -3301,9 +3301,9 @@
     "_selectable": 2,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and fear of data misuse are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and mis-trust in data or others use of data are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and fear of data misuse are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and mis-trust in data or others use of data are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3365,9 +3365,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/11312a0e03cd3c33c1fd031cad11748368da7cc3.png",
+      "small": "course/en/assets/11312a0e03cd3c33c1fd031cad11748368da7cc3.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Designed by macrovector / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -3478,7 +3478,7 @@
     "_disableAccessibilityState": false,
     "title": "Common constraints (2): Security and privacy",
     "displayTitle": "",
-    "body": "<p>Another common barrier is fear. This scenario is common where <strong>people </strong>are not equal in focus to <strong>technology</strong>.&nbsp;</p><p>Within grants this could look like; a lack of trust and understanding among stakeholders, limited understanding of key data concepts, or a lack of understanding of national, regional or international data policies or legislation.</p><p>This is most prevalent in situations where <strong>people </strong>have unaddressed fears arising from legitimate concerns – such as data security, privacy and trust over who has access to data and how it might be used.&nbsp;</p><p>Supporting <strong>people </strong>with key data literacy skills is critical to help people overcome their fears and show how aspects such as data protection regulations, data security and licensing can in fact support the wider sharing of data.</p>",
+    "body": "<p>Another common barrier is a lack of trust in others' use of data.&nbsp;This scenario is common where <strong>people </strong>are not equal in focus to <strong>technology</strong>.&nbsp;</p><p>Within grants this could look like; a lack of trust and understanding among stakeholders, limited understanding of key data concepts, or a lack of understanding of national, regional or international data policies or legislation.</p><p>This is most prevalent in situations where <strong>people </strong>have unaddressed fears arising from legitimate concerns – such as data security, privacy and trust over who has access to data and how it might be used.&nbsp;</p><p>Supporting <strong>people </strong>with key data literacy skills is critical to help people overcome their fears and show how aspects such as data protection regulations, data security and licensing can in fact support the wider sharing of data.</p>",
     "_id": "5f31425dde0993008a59449e",
     "_parentId": "5f31425cde0993008a59446f",
     "_type": "component",
@@ -3540,7 +3540,7 @@
     "_disableAccessibilityState": false,
     "title": "Showcasing benefits: Examples of FAIR and safeguarded data",
     "displayTitle": "",
-    "body": "",
+    "body": "<p>The following are a selection of projects implementing or moving towards implementation of FAIR and safeguarded data in the agricultural sector. You can read more about each in the associated case study document.</p>",
     "_id": "5f31425dde0993008a5944a3",
     "_parentId": "5f31425dde0993008a594471",
     "_type": "component",
@@ -3571,9 +3571,9 @@
         "strapline": "Data sharing in India"
       },
       {
-        "title": "Case study 2",
+        "title": "The BonaRes Repository",
         "_ariaLevel": 0,
-        "body": "<p>TBC</p>",
+        "body": "<p>BonaRes bring together experts in soil from over 50 institutions to research ways to balance efficient use of soils with protecting the environment with the end goal of supporting farmers to improve decision making.&nbsp;</p><p>To ensure data is findable the team published an open inventory of data they hold using a consistent vocabulary. They also tag all dataset with a licence that clearly outlines reuse rights.</p><p>Challenges are still being faced around fears of misuse and trust in the benefits of allow commercial reuse of the data.</p>",
         "_graphic": {
           "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",

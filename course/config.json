@@ -53,22 +53,5 @@
   },
   "_devtools": {
     "_isEnabled": true
-  },
-  "build": {
-    "includes": [
-      "adapt-contrib-boxMenu",
-      "5ee351b2d140fe35be130b76",
-      "adapt-contrib-text",
-      "adapt-contrib-mcq",
-      "adapt-contrib-graphic",
-      "adapt-contrib-narrative",
-      "adapt-contrib-accordion",
-      "adapt-contrib-matching",
-      "adapt-devtools",
-      "adapt-odi-licence",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-tutor"
-    ]
   }
 }
