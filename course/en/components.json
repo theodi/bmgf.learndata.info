@@ -4180,5 +4180,1283 @@
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; people, policies and processes and technology.&nbsp;</p><p>A broad set of stakeholders, many within the wider data ecosystem, may also have to be engaged to ensure appropriate political, social, legal and technological frameworks are in place in-country to support FAIR and safeguarded data within investments.&nbsp;</p><p>In some situations, activities might have to focus exclusively on the enabling environment alongside or prior to investing in projects that seek to benefit from FAIR and safeguarded data in domains such as agriculture and health.&nbsp;</p>",
+    "_id": "5f522138e8f6db433574b25a",
+    "_parentId": "5f522138e8f6db433574b24d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522138e8f6db433574b25b",
+    "_parentId": "5f522138e8f6db433574b24d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "<p>The aim of this module is to help ensure that investments are well scoped with respect to the enabling environment.</p><p>This module introduces:</p><ul><li>Factors that contribute to an enabling environment</li><li>Examples of where activities to support an enabling environment have bought benefit to FAIR and safeguarded data</li><li>Stakeholders in an enabling environment</li><li>The role of the Foundation as a stakeholder</li><li>How to evaluate the enabling environment</li><li>Choosing actions to support the enabling environment in regards to FAIR and safeguarded data.&nbsp;</li></ul>",
+    "_id": "5f522138e8f6db433574b25e",
+    "_parentId": "5f522138e8f6db433574b24e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The enabling environment",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522138e8f6db433574b260",
+    "_parentId": "5f522138e8f6db433574b24f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Factors that contribute to an enabling environment",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522138e8f6db433574b264",
+    "_parentId": "5f522138e8f6db433574b250",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Factors that disrupt the enabling environment",
+    "displayTitle": "",
+    "body": "<p>Factors that could disrupt the enabling environment are the same as common constraints to data use; politics, culture and technological capacity.&nbsp;</p><p>Political tensions, for example over land or borders could restrict data collection in those geographies. Technological capacity can also be impacted by politics, for example internet outages in response to social unrest, restricts communication and the exchange of data and information.&nbsp;</p><p>Cultural sensitivities and/or outdated practices in communities is also a factor. These are often driven by concerns of security and fear of data misuse. In turn this can restrict enabling policies and legislative frameworks from being created.</p>",
+    "_id": "5f522138e8f6db433574b26b",
+    "_parentId": "5f522138e8f6db433574b252",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Factors that disrupt the enabling environment",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522138e8f6db433574b26c",
+    "_parentId": "5f522138e8f6db433574b252",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Stakeholders in enabling environment",
+    "displayTitle": "",
+    "body": "<p>Which stakeholders have significant influence on the enabling environment?</p>",
+    "_id": "5f522138e8f6db433574b26f",
+    "_parentId": "5f522138e8f6db433574b253",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select three answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Community leaders, strategists and domain experts",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Governments and regulators",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Individual business owners e.g. farmers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Suppliers/managers of tools, technologies and services",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "University students",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>The enabling environment is influenced by the organisations and communities that set the laws, policies and social norms. These include those who create the policies and legislative frameworks, those that encourage particular behaviours, those who advise on best practice, those who supply tools and services using data and those who provide evidence and analyses to help support and refine arguments and approach.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The enabling environment is influenced by the organisations and communities that set the laws, policies and social norms. These include those who create the policies and legislative frameworks, those that encourage particular behaviours, those who advise on best practice, those who supply tools and services using data and those who provide evidence and analyses to help support and refine arguments and approach.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522138e8f6db433574b270",
+    "_parentId": "5f522138e8f6db433574b253",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Stakeholders roles",
+    "displayTitle": "Stakeholders roles",
+    "body": "<p>The enabling environment is influenced by a range of stakeholders, and in particular, the organisations and communities that set the laws, policies and social norms.&nbsp;</p><p>These include;&nbsp;</p><ul><li>regulators who create the policies and legislative frameworks, e.g. governments and funders</li><li>advocates, such as think tanks and civil society, that encourage particular behaviours</li><li>international bodies and experts who advise on best practice</li><li>companies and departments that supply tools and services for working with data e.g. cloud service providers as well as local IT departments &nbsp;&nbsp;</li><li>researchers who provide evidence to help support and refine arguments and approach e.g universities</li><li>citizens and local communities, like business owners and smallholders, whom the laws and policies are shaped to benefit</li></ul><p>The laws and policies set by those in a position of influence will affect everyone in the data ecosystem. Consulting or engaging those that may not be more directly involved (e.g. individual business owners, smallholders) in policy development can help ensure those laws and policies comply with social norms and are adopted by the community.</p>",
+    "_id": "5f522138e8f6db433574b274",
+    "_parentId": "5f522138e8f6db433574b254",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " The role of the Foundation as a stakeholder",
+    "displayTitle": "",
+    "body": "<p>The Foundation can support the enabling environment by;</p><ul><li>Supporting the <strong>people </strong>- by improving data literacy and skills, and facilitating engagement with communities that create or are impacted by the data.</li><li>Supporting the creation of <strong>policy and process</strong> - by encouraging and facilitating collaboration with domain experts,community leaders and governments to help them chart their own path.</li><li>Support access, use and sharing of data by investing in <strong>standards and technologies</strong> to ensure its long-term sustainability.</li></ul>",
+    "_id": "5f522138e8f6db433574b275",
+    "_parentId": "5f522138e8f6db433574b255",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Evaluating the enabling environment",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522138e8f6db433574b279",
+    "_parentId": "5f522138e8f6db433574b257",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; people, policies and processes and technology.</p><p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
+    "_id": "5f522139e8f6db433574b280",
+    "_parentId": "5f522138e8f6db433574b259",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f522139e8f6db433574b281",
+    "_parentId": "5f522138e8f6db433574b259",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The enabling environment",
+    "displayTitle": "",
+    "body": "<p>Which of these factors contribute to an enabling environment to support FAIR and safeguarded data?</p>",
+    "_id": "5f5221eee8f6db433574b284",
+    "_parentId": "5f522138e8f6db433574b24f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Policies, legal and regulatory frameworks relevant internationally or to the country, region or domain",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Community norms and practices",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Access to technologies to collect, access, use and share data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>An enabling environment is primarily supported by the policies, legal and regulatory frameworks relevant to the country or domain (e.g. medicine). Understanding and engaging with communities norms is important both to ensure the expectations of those represented by or impacted by the data are met, and to ensure processes that support FAIR and safeguarded data are appropriate for the communities collecting, accessing, using or sharing the data. Collectively the policies and processes, communities of people and access to technology shape how data is collected, accessed, used and shared. Together these make up the enabling environment.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>An enabling environment is primarily supported by the policies, legal and regulatory frameworks relevant to the country or domain (e.g. medicine). Understanding and engaging with communities norms is important both to ensure the expectations of those represented by or impacted by the data are met, and to ensure processes that support FAIR and safeguarded data are appropriate for the communities collecting, accessing, using or sharing the data. Collectively the policies and processes, communities of people and access to technology shape how data is collected, accessed, used and shared. Together these make up the enabling environment.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Factors that contribute to an enabling environment",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">There may be good reasons that some communities are resistant to sharing data. Common considerations include concerns of security and fear of data misuse. These and other considerations can restrict enabling policies, processes and legislative frameworks from being created.</p>",
+    "_id": "5f52447ee8f6db433574b285",
+    "_parentId": "5f522138e8f6db433574b250",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "There are many factors that contribute to an enabling environment, common ones include;",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Policies, legal and regulatory frameworks",
+        "body": "<p dir=\"ltr\">Open data or data sharing and access policies</p><p dir=\"ltr\">Data protection laws</p><p dir=\"ltr\">Rights and freedoms of citizens to make use of data</p><p dir=\"ltr\">Regulations on transparency and data sharing (for example tensions over land or borders could restrict data collection in those geographies)</p><p dir=\"ltr\">Competition laws</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Community norms and practices",
+        "body": "<p>Adoption/misinterpretation of legal and regulatory frameworks</p><p>Domain specific policies (e.g. professional codes of conduct)</p><p>Ethical codes of practice</p><p>Adoption of standards and common practices for collection, storage and sharing of data</p><p>Embargo periods</p><p>Cultural considerations<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Access to technology",
+        "body": "<p>Availability or reliability of the internet&nbsp;</p><p>Availability of technology (nationally or institutionally)&nbsp;</p><p>Level of access to procure and pay for technology<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Examples of supporting an enabling environment ",
+    "displayTitle": "Examples of supporting an enabling environment ",
+    "body": "<p>Explore the following examples of where activities have focussed on supporting an enabling environment to unlock value from FAIR and safeguarded data:</p>",
+    "_id": "5f5245b2e8f6db433574b287",
+    "_parentId": "5f5245a4e8f6db433574b286",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supporting the Government in Ethiopia",
+        "_ariaLevel": 0,
+        "body": "<p>In Ethiopia, the Ministry of Agriculture is attempting to achieve an ambitious goal to map the country’s soil and compile in-depth soil fertility information. However, the enabling environment is complex due to the existence of multiple organisations with overlapping remits and no regulatory framework for sharing data.&nbsp;</p><p>Enabled by positive changes in the government’s attitude to the sharing of geospatial data, the Ministry of Agriculture engaged international development agencies, including the Foundation, and external data experts to support the development of a data sharing policy to address these issues.&nbsp;<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Supporting the Government in Ethiopia"
+      },
+      {
+        "title": "Tackling fears in India",
+        "_ariaLevel": 0,
+        "body": "<p>Funded by the Foundation and USAID, the Cereal Systems Initiative for South Asia (CSISA) was established in 2009 with goals including improving farmers’ access to market information.&nbsp;</p><p>The enabling environment here was impacted by a widespread concern around misuse of data and lack of data management processes. CSISA convened domain experts, research institutions and public sector bodies to establish a steering committee to connect institutions together to start to unlock the benefits of wider data sharing for everyone. Assisted by the foundation, this community was able to improve their data knowledge and skills to tackle barriers and fears &nbsp;and develop community norms and practices to ensure data is accessible and reusable for as many people as possible.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Tackling fears in India"
+      },
+      {
+        "title": "Building skills in Tanzania",
+        "_ariaLevel": 0,
+        "body": "<p>In Tanzania, the Ramini Huria project trained local stakeholders in how to create highly accurate maps of the most flood-prone areas of the city.</p><p>In order to address concerns over data stewardship and ownership, those involved in the project were trained in the benefits of working with open platforms including OpenStreetMap, ensuring that data remains available and usable by everyone, including local governments and authorities, beyond the end of the project.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Building skills in Tanzania"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The role of the Foundation as a stakeholder",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f52471be8f6db433574b28b",
+    "_parentId": "5f522138e8f6db433574b255",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Evaluating the enabling environment",
+    "displayTitle": "",
+    "body": "<p>Conducting a broad landscape review of data policies and legislative frameworks relevant to the geography, relationships with state governments and technological capacity can provide insight into the feasibility of an investment involving FAIR and safeguarded data. It can help by;</p><ul><li>flagging any major legal or regulatory barriers to the use of data in projects</li><li>flagging cultural considerations and norms when starting a new investment process in a country or region</li><li>maximising the impact &nbsp;by ensuring investments are designed in respect to the enabling environment</li><li>Identify opportunities for investments that directly support the wider enabling environment</li></ul>",
+    "_id": "5f5247b2e8f6db433574b28e",
+    "_parentId": "5f522138e8f6db433574b257",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Completing a data country profile",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f5258d5e8f6db433574b291",
+    "_parentId": "5f5258d5e8f6db433574b290",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Completing a data country profile",
+    "displayTitle": "",
+    "body": "<p>Grantees should be evaluating the enabling environment and developing their own understanding of how the environment enables their specific grant. A &nbsp;template guide to help conduct such a landscape review and create a ‘Country Data Profile’ is available in the toolbox.&nbsp;</p><p>A country data profile can be completed by a Program Officer, grantee, the Foundation in-country team or a third party. It is likely to require desk research and engagement with stakeholders in-country, especially if availability of information online is sparse.&nbsp;<br /><br /><a href=\"course/en/assets/92c7b06e46c8c8301f5db309b498882bca42455e.pdf\" target=\"_blank\">Click here to&nbsp;download the country data profile guide</a></p>",
+    "_id": "5f5258d5e8f6db433574b294",
+    "_parentId": "5f5258d5e8f6db433574b290",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying next steps",
+    "displayTitle": "",
+    "body": "<p>Which actions do you take if the enabling environment in-country is not compatible at all, or in part, with the needs of FAIR and safeguarded data?</p>",
+    "_id": "5f525908e8f6db433574b297",
+    "_parentId": "5f525908e8f6db433574b296",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Pause the proposal until the enabling environment is suitable",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Amend proposal so it works with in the constraints of the enabling environment",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Engage relevant stakeholders to consider how to overcome the challenges",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Highlight where there are structural issues that can't be addressed within the investment and may need other, more strategic interventions",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>The reason that data is not FAIR and safeguarded is not always obvious; it may not be simply because a platform to hold data does not exist. Following an evaluation of the enabling environment it may be necessary to pause or amend a proposal in order to focus on building an enabling environment. &nbsp;The Foundation has a role in influencing the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path. This may involve engaging more widely, or with different sets of stakeholders, making strategic interventions in areas to enable successful investments in others.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The reason that data is not FAIR and safeguarded is not always obvious; it may not be simply because a platform to hold data does not exist. Following an evaluation of the enabling environment it may be necessary to pause or amend a proposal in order to focus on building an enabling environment. &nbsp;The Foundation has a role in influencing the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path. This may involve engaging more widely, or with different sets of stakeholders, making strategic interventions in areas to enable successful investments in others.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying next steps",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f525908e8f6db433574b298",
+    "_parentId": "5f525908e8f6db433574b296",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "When to evaluate",
+    "displayTitle": "When to evaluate",
+    "body": "<p>During the INVEST process, when should the enabling environment be evaluated?</p>",
+    "_id": "5f525969e8f6db433574b29d",
+    "_parentId": "5f525969e8f6db433574b29c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select three answers then click 'submit'",
+    "_items": [
+      {
+        "text": "At concept stage only",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "At project proposal stage only",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Never",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Throughout the duration of the investment",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "When to evaluate",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f525969e8f6db433574b29e",
+    "_parentId": "5f525969e8f6db433574b29c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Enabling environments: Evaluate, engage, enable",
+    "displayTitle": "Enabling environments: Evaluate, engage, enable",
+    "body": "<p><strong>Evaluate and monitor</strong><br />Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue. Regardless of this, it is important to evaluate and monitor the enabling environment for any changes in the political, legal, institutional and technological landscape, during proposal development and when the grant is active.&nbsp;</p><p><strong>Engage and support</strong><br />When there are issues that can't be addressed within the investment (for example a lack of frameworks governing use of data) other, more strategic interventions like engaging and supporting governments, may be needed. In this instance it may be sensible to pause the proposal or amend it to work within the constraints of the enabling environment.&nbsp;</p><p><strong>Enable investments</strong><br />When parts of the enabling environment are compatible with the proposal, but others aren’t it may be possible to amend the proposal so it works within the constraints of the enabling environment.<br />&nbsp;</p>",
+    "_id": "5f525a17e8f6db433574b2a4",
+    "_parentId": "5f525a17e8f6db433574b2a3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who can help",
+    "displayTitle": "Who can help",
+    "body": "<p>Evaluating and continually monitoring the enabling environment can be a complex, time demanding task. Who can help with the process?</p>",
+    "_id": "5f525bb1e8f6db433574b2a9",
+    "_parentId": "5f525bb1e8f6db433574b2a8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select three answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Foundation business partners",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Grantees",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "In-country staff and associates",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "External experts",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>The same list of stakeholders from before are just some of the people who can help you understand the enabling environment. These are the regulators, advocates, international bodies and experts, companies that provide services, researchers, citizens and local communities.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The same list of stakeholders from before are just some of the people who can help you understand the enabling environment. These are the regulators, advocates, international bodies and experts, companies that provide services, researchers, citizens and local communities.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who can help",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f525bb1e8f6db433574b2aa",
+    "_parentId": "5f525bb1e8f6db433574b2a8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
   }
 ]

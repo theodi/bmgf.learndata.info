@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 49,
+  "_latestTrackingId": 65,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -100,9 +100,6 @@
       "_gmcq": {
         "ariaRegion": "Multiple choice question. Select your option and then submit."
       },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
-      },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
         "labelStart": "Start of the scale",
@@ -114,6 +111,9 @@
       },
       "_graphic": {
         "ariaRegion": ""
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
       }
     },
     "_extensions": {
@@ -123,6 +123,9 @@
         "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
       },
       "_aboutPage": {
         "linkText": "About",
@@ -306,16 +309,44 @@
       "shadow-inverted": "#ffffff"
     }
   },
-  "_ODILicence": {
-    "_items": []
-  },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
   },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Agriculture data country profile",
+        "filename": "ag_country_profile.pdf",
+        "description": "",
+        "_link": "course/en/assets/92c7b06e46c8c8301f5db309b498882bca42455e.pdf"
+      }
+    ]
+  },
   "_aboutPage": {
+    "_items": []
+  },
+  "_ODILicence": {
     "_items": []
   },
   "_boxMenu": {

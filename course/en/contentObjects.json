@@ -75,6 +75,81 @@
     }
   },
   {
+    "title": "Assessing the enabling environment in-country to support data sharing",
+    "displayTitle": "Assessing the enabling environment in-country to support data sharing",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit.&nbsp;</p><p>The aim of this module is to help ensure that investments are well scoped with respect to the enabling environment.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f522137e8f6db433574b247",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/971114f2437918ffad149b2cbbb63e06ed5d1d6f.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Protecting the rights of individuals while maximising the utility of data",
     "displayTitle": "Protecting the rights of individuals while maximising the utility of data",
     "body": "<p>One of the common challenges faced in projects is how to handle personal data. Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial and the role of data protection regulations which many see as a blocker to sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure data transformative investments protect the rights of individuals while maximising the utility of data.</p>",
