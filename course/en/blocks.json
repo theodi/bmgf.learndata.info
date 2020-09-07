@@ -616,11 +616,231 @@
     }
   },
   {
+    "title": "A spectrum of data rights",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4b8",
+    "_parentId": "5f55e15dc195b3005eb2c4b1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Obtaining rights to reuse third party data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4bd",
+    "_parentId": "5f55e15dc195b3005eb2c4b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4be",
+    "_parentId": "5f55e15dc195b3005eb2c4b3",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Understanding the stakeholders and roles within a data ecosystem",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4bf",
+    "_parentId": "5f55e15dc195b3005eb2c4b4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Working with data from third party sources",
+    "displayTitle": "Working with data from third party sources",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55f052e3e277005c8a90ba",
+    "_parentId": "5f55f052e3e277005c8a90b9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q3 - Common constraints in delivering data transformative grants",
     "displayTitle": "Common constraints in delivering data transformative grants",
     "body": "",
     "_classes": "",
-    "_trackingId": 15,
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -664,7 +884,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 16,
+    "_trackingId": 21,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -708,7 +928,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 17,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -752,7 +972,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 18,
+    "_trackingId": 23,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -796,7 +1016,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 19,
+    "_trackingId": 24,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -840,7 +1060,7 @@
     "displayTitle": "The rights of individuals over personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 20,
+    "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -884,7 +1104,7 @@
     "displayTitle": "Data protection and anonymised/synthentic data",
     "body": "",
     "_classes": "",
-    "_trackingId": 21,
+    "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -928,7 +1148,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 22,
+    "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -972,7 +1192,7 @@
     "displayTitle": "Common barriers",
     "body": "",
     "_classes": "",
-    "_trackingId": 23,
+    "_trackingId": 28,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1016,7 +1236,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 24,
+    "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1060,7 +1280,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 25,
+    "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1104,7 +1324,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 26,
+    "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1148,7 +1368,7 @@
     "displayTitle": "Stakeholders in enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 27,
+    "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1192,7 +1412,7 @@
     "displayTitle": "Completing a data country profile",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1232,11 +1452,143 @@
     }
   },
   {
+    "title": "A data spectrum for agriculture",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4b9",
+    "_parentId": "5f55e15dc195b3005eb2c4b1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "What to do when things are unclear",
+    "displayTitle": "What to do when things are unclear",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4ba",
+    "_parentId": "5f55e15dc195b3005eb2c4b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55f052e3e277005c8a90bb",
+    "_parentId": "5f55f052e3e277005c8a90b9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q1: Introducing data transformation",
     "displayTitle": "Introducing data transformation",
     "body": "",
     "_classes": "",
-    "_trackingId": 29,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1280,7 +1632,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1324,7 +1676,7 @@
     "displayTitle": "Roles and responsibilities (Project Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1368,7 +1720,7 @@
     "displayTitle": "Classifying personal and sensitive data",
     "body": "<p>See if you can classify the following types of data into personal, sensitive personal, sensitive commercial or neither personal nor commercial.</p>",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1412,7 +1764,7 @@
     "displayTitle": "The role of data protection regulations",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1456,7 +1808,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1500,7 +1852,7 @@
     "displayTitle": "What makes data FAIR and safeguarded?",
     "body": "",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1544,7 +1896,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1588,7 +1940,7 @@
     "displayTitle": "Roles and responsibilities (Program Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 37,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1632,7 +1984,7 @@
     "displayTitle": "The enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 46,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1676,7 +2028,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 47,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1720,7 +2072,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 40,
+    "_trackingId": 48,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1760,11 +2112,187 @@
     }
   },
   {
+    "title": "Considering compatibility with existing national, regional, local and funder policies",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 49,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4bb",
+    "_parentId": "5f55e15dc195b3005eb2c4b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying open, shared and closed data",
+    "displayTitle": "Identifying open, shared and closed data",
+    "body": "<p>Can you match the descriptions below to the types of data on the spectrum.</p>",
+    "_classes": "",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55ebcbe3e277005c8a909c",
+    "_parentId": "5f55e15dc195b3005eb2c4b1",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Mapping data ecosystems",
+    "displayTitle": "Mapping data ecosystems",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 51,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55efb4e3e277005c8a90ac",
+    "_parentId": "5f55e15dc195b3005eb2c4b4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The value of reusing data from third party sources",
+    "displayTitle": "The value of reusing data from third party sources",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 52,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55f052e3e277005c8a90bc",
+    "_parentId": "5f55f052e3e277005c8a90b9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Why data transformation is critical to realise wider BMGF aims",
     "displayTitle": "Why data transformation is critical to realise wider BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 53,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1808,7 +2336,7 @@
     "displayTitle": "Common constraints (2): Security, privacy and trust",
     "body": "",
     "_classes": "",
-    "_trackingId": 42,
+    "_trackingId": 54,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1852,7 +2380,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 43,
+    "_trackingId": 55,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1896,7 +2424,7 @@
     "displayTitle": "Defining personal, sensitive personal and sensitive commercial data",
     "body": "",
     "_classes": "",
-    "_trackingId": 44,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1940,7 +2468,7 @@
     "displayTitle": "Why FAIR and safeguarded data?",
     "body": "",
     "_classes": "",
-    "_trackingId": 45,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1984,7 +2512,7 @@
     "displayTitle": "Common constraints (2): Security and privacy",
     "body": "",
     "_classes": "",
-    "_trackingId": 46,
+    "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2028,7 +2556,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 47,
+    "_trackingId": 59,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2072,7 +2600,7 @@
     "displayTitle": "Factors that contribute to an enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 48,
+    "_trackingId": 60,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2116,7 +2644,7 @@
     "displayTitle": "The role of the Foundation as a stakeholder",
     "body": "<p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>These include investing in technical infrastructure, improving skills and knowledge and the creation of policies and processes to support FAIR and safeguarded data practices.</p>",
     "_classes": "",
-    "_trackingId": 49,
+    "_trackingId": 61,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2160,7 +2688,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 50,
+    "_trackingId": 62,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2200,11 +2728,143 @@
     }
   },
   {
+    "title": "Considering reusability of data from third party sources",
+    "displayTitle": "Considering reusability of data from third party sources",
+    "body": "<p>As a user of the third party data, beyond obtaining rights to reuse the data, you will need to check the practical reusability of the data.</p><p>The FAIR data toolbox includes a case study on harmonising data from third party sources.&nbsp;</p>",
+    "_classes": "",
+    "_trackingId": 63,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4bc",
+    "_parentId": "5f55e15dc195b3005eb2c4b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Mapping data spectrums",
+    "displayTitle": "Mapping data spectrums",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 64,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55f001e3e277005c8a90b3",
+    "_parentId": "5f55e15dc195b3005eb2c4b4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Barriers in reusing data from third party sources",
+    "displayTitle": "Barriers in reusing data from third party sources",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 65,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55f052e3e277005c8a90bf",
+    "_parentId": "5f55f052e3e277005c8a90b9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "What makes data FAIR and transformative?",
     "displayTitle": "What makes data FAIR and transformative?",
     "body": "",
     "_classes": "",
-    "_trackingId": 51,
+    "_trackingId": 66,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2248,7 +2908,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 52,
+    "_trackingId": 67,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2292,7 +2952,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 53,
+    "_trackingId": 68,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2336,7 +2996,7 @@
     "displayTitle": "Who owns personal data?",
     "body": "<p>When you put intellectual effort (thought) into creating something, you own that work and you have certain Intellectual property rights. Intellectual property rights are of critical importance to understand when you are seeking to collect, use and share data.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 54,
+    "_trackingId": 69,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2380,7 +3040,7 @@
     "displayTitle": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 55,
+    "_trackingId": 70,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2424,7 +3084,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 56,
+    "_trackingId": 71,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2468,7 +3128,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 57,
+    "_trackingId": 72,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2512,7 +3172,7 @@
     "displayTitle": "Factors that disrupt the enabling environment ",
     "body": "",
     "_classes": "",
-    "_trackingId": 58,
+    "_trackingId": 73,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2556,7 +3216,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 59,
+    "_trackingId": 74,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2596,11 +3256,99 @@
     }
   },
   {
+    "title": "A decision making flowchart for using data from third party sources",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 75,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55ee60e3e277005c8a90a5",
+    "_parentId": "5f55e15dc195b3005eb2c4b2",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The importance of rights and permissions in data",
+    "displayTitle": "The importance of rights and permissions in data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 76,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55f052e3e277005c8a90c0",
+    "_parentId": "5f55f052e3e277005c8a90b9",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q2 - What makes data FAIR and transformative",
     "displayTitle": "Supporting FAIR and transformative data",
     "body": "",
     "_classes": "",
-    "_trackingId": 60,
+    "_trackingId": 77,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2644,7 +3392,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 61,
+    "_trackingId": 78,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2688,7 +3436,7 @@
     "displayTitle": "The importance of understanding who owns personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 62,
+    "_trackingId": 79,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2732,7 +3480,7 @@
     "displayTitle": "Delivering FAIR and safeguarded data within investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 63,
+    "_trackingId": 80,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2776,7 +3524,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 64,
+    "_trackingId": 81,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2820,7 +3568,7 @@
     "displayTitle": "Identifying next steps",
     "body": "",
     "_classes": "",
-    "_trackingId": 65,
+    "_trackingId": 82,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

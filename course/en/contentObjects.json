@@ -150,6 +150,81 @@
     }
   },
   {
+    "title": "Working with data from third party sources",
+    "displayTitle": "Working with data from third party sources",
+    "body": "<p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Such services often require data from multiple third parties to even function, such as geographic data, population and socioeconomic data or sample data from previous projects.&nbsp;</p><p>However, reusing data from existing third party sources can be complex and face many challenges. Grant proposals that set out with good intentions to reuse existing data often encounter many barriers which should be addressed as soon as possible.&nbsp;</p><p>This module looks at the different barriers and techniques to address each.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55e15dc195b3005eb2c4af",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/086d590adc5602c7168c737177498a144d858200.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Protecting the rights of individuals while maximising the utility of data",
     "displayTitle": "Protecting the rights of individuals while maximising the utility of data",
     "body": "<p>One of the common challenges faced in projects is how to handle personal data. Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial and the role of data protection regulations which many see as a blocker to sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure data transformative investments protect the rights of individuals while maximising the utility of data.</p>",

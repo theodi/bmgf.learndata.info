@@ -31,6 +31,70 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
+  "ed7b55ee96ce4f250a50007d5173ab1df16685c5.png": {
+    "title": "WPP Spectrum",
+    "description": "WPP Spectrum",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "c653a75c0723450d17c04f8cf8a25ca22c7fb377.png": {
+    "title": "WPP-Spectrum - Closed",
+    "description": "WPP-Spectrum - Closed",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "fd837fbc66bc4380b0b558e3c522f0743a010a71.png": {
+    "title": "WPP Spectrum - Shared",
+    "description": "WPP Spectrum - Shared",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "60ed051578a0c26b44b280c2870416639e19c13a.png": {
+    "title": "WPP Spectrum - Open",
+    "description": "WPP Spectrum - Open",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "9e39c4c6fdf8f5a7df0211a669fb5d42171432f6.png": {
+    "title": "Marker closed",
+    "description": "Marker closed",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "79956be7b80ab0a817e84c4e2881db990ee3356d.png": {
+    "title": "Marker open",
+    "description": "Marker open",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "42c72b8e96ed93af8487939961df6e625478b5bf.png": {
+    "title": "Marker shared",
+    "description": "Marker shared",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png": {
+    "title": "WPP Spectrum - Public",
+    "description": "WPP Spectrum - Public",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
   "ef45514b3064a2015863efbb2490b695c819ee31.png": {
     "title": "BMGF Banner",
     "description": "BMGF Banner",
@@ -141,6 +205,30 @@
     "source": "https://www.pexels.com/photo/man-planting-plant-169523/",
     "licence": "CC-BY",
     "attribution": "Binyamin Mellish",
+    "tags": []
+  },
+  "0c817d20537fdbe42200a9ae5433e15c62aa8567.jpg": {
+    "title": "Agriculture Data Spectrum - 1100x784.jpg",
+    "description": "Agriculture Data Spectrum - 1100x784.jpg",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "6352703227d5a31871cfa27c856ec34c0bea876b.jpg": {
+    "title": "BMGF - Working with 3rd party data flowchart",
+    "description": "BMGF - Working with 3rd party data flowchart",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "ODI/CABI",
+    "tags": []
+  },
+  "086d590adc5602c7168c737177498a144d858200.jpg": {
+    "title": "Data ecosystems",
+    "description": "Data ecosystems",
+    "source": "https://www.pexels.com/photo/chart-close-up-data-desk-590022/",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute / Lukas from Pexels",
     "tags": []
   }
 }

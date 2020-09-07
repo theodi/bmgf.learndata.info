@@ -4193,7 +4193,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction",
     "displayTitle": "",
-    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; people, policies and processes and technology.&nbsp;</p><p>A broad set of stakeholders, many within the wider data ecosystem, may also have to be engaged to ensure appropriate political, social, legal and technological frameworks are in place in-country to support FAIR and safeguarded data within investments.&nbsp;</p><p>In some situations, activities might have to focus exclusively on the enabling environment alongside or prior to investing in projects that seek to benefit from FAIR and safeguarded data in domains such as agriculture and health.&nbsp;</p>",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; <strong>people</strong>, <strong>policies and processes </strong>and <strong>technology</strong>.&nbsp;</p><p>A broad set of stakeholders, many within the wider data ecosystem, may also have to be engaged to ensure appropriate political, social, legal and technological frameworks are in place in-country to support FAIR and safeguarded data within investments.&nbsp;</p><p>In some situations, activities might have to focus exclusively on the enabling environment alongside or prior to investing in projects that seek to benefit from FAIR and safeguarded data in domains such as agriculture and health.&nbsp;</p>",
     "_id": "5f522138e8f6db433574b25a",
     "_parentId": "5f522138e8f6db433574b24d",
     "_type": "component",
@@ -4351,7 +4351,7 @@
     "_disableAccessibilityState": false,
     "title": "Factors that disrupt the enabling environment",
     "displayTitle": "",
-    "body": "<p>Factors that could disrupt the enabling environment are the same as common constraints to data use; politics, culture and technological capacity.&nbsp;</p><p>Political tensions, for example over land or borders could restrict data collection in those geographies. Technological capacity can also be impacted by politics, for example internet outages in response to social unrest, restricts communication and the exchange of data and information.&nbsp;</p><p>Cultural sensitivities and/or outdated practices in communities is also a factor. These are often driven by concerns of security and fear of data misuse. In turn this can restrict enabling policies and legislative frameworks from being created.</p>",
+    "body": "<p>Factors that could disrupt the enabling environment are the same as common constraints to data use; politics, culture and technological capacity.&nbsp;</p><p>Political tensions, for example over land or borders could restrict data collection in those geographies. Technological capacity can also be impacted by politics, for example internet outages in response to social unrest, restricts communication and the exchange of data and information.&nbsp;</p><p>Cultural sensitivities and/or outdated practices in communities is also a factor. These are often driven by concerns of security and mis-trust in others' use of data. In turn this can restrict enabling policies and legislative frameworks from being created.</p>",
     "_id": "5f522138e8f6db433574b26b",
     "_parentId": "5f522138e8f6db433574b252",
     "_type": "component",
@@ -4637,7 +4637,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; people, policies and processes and technology.</p><p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; <strong>people</strong>, <strong>policies and processes</strong> and <strong>technology</strong>.</p><p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
     "_id": "5f522139e8f6db433574b280",
     "_parentId": "5f522138e8f6db433574b259",
     "_type": "component",
@@ -4794,7 +4794,7 @@
     "_disableAccessibilityState": false,
     "title": "Factors that contribute to an enabling environment",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">There may be good reasons that some communities are resistant to sharing data. Common considerations include concerns of security and fear of data misuse. These and other considerations can restrict enabling policies, processes and legislative frameworks from being created.</p>",
+    "body": "<p dir=\"ltr\">There may be good reasons that some communities are resistant to sharing data. Common considerations include concerns of security and mis-trust in others' use of data. These and other considerations can restrict enabling policies, processes and legislative frameworks from being created.</p>",
     "_id": "5f52447ee8f6db433574b285",
     "_parentId": "5f522138e8f6db433574b250",
     "_type": "component",
@@ -4889,7 +4889,7 @@
       {
         "title": "Tackling fears in India",
         "_ariaLevel": 0,
-        "body": "<p>Funded by the Foundation and USAID, the Cereal Systems Initiative for South Asia (CSISA) was established in 2009 with goals including improving farmers’ access to market information.&nbsp;</p><p>The enabling environment here was impacted by a widespread concern around misuse of data and lack of data management processes. CSISA convened domain experts, research institutions and public sector bodies to establish a steering committee to connect institutions together to start to unlock the benefits of wider data sharing for everyone. Assisted by the foundation, this community was able to improve their data knowledge and skills to tackle barriers and fears &nbsp;and develop community norms and practices to ensure data is accessible and reusable for as many people as possible.</p>",
+        "body": "<p>Funded by the Foundation and USAID, the Cereal Systems Initiative for South Asia (CSISA) was established in 2009 with goals including improving farmers’ access to market information.&nbsp;</p><p>The enabling environment here was impacted by a widespread concern around misuse of data and lack of data management processes. CSISA convened domain experts, research institutions and public sector bodies to establish a steering committee to connect institutions together to start to unlock the benefits of wider data sharing for everyone. Assisted by the foundation, this community was able to improve their data knowledge and skills to tackle barriers and fears&nbsp;and develop community norms and practices to ensure data is accessible and reusable for as many people as possible.</p>",
         "_graphic": {
           "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",
@@ -5457,6 +5457,1463 @@
       "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
       "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
       "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What to do when things are unclear",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55e15ec195b3005eb2c4d7",
+    "_parentId": "5f55e15dc195b3005eb2c4ba",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Considering compatibility with existing national, regional, local and funder policies",
+    "displayTitle": "Considering compatibility with existing national, regional, local and funder policies",
+    "body": "<p>Even when you have established what permissions you have to reuse a single dataset, things can get complex when you wish to combine datasets together, or you have existing in-country policies or funder policies (such as the BMGF open access policy) that also set conditions related to FAIR and safeguarded data.&nbsp;</p><p>For example, such policies might set out incompatible terms and conditions, for example requiring data to be available for commercial reuse or explicitly blocking it. Other conflicts may be related to embargo periods either being required or not.</p><p>Concessions may have to be sought from one or more of the parties involved. &nbsp;The Foundation has a role in influencing the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>The FAIR data toolbox contains a guide on considering data rights &amp; permissions in investments to help with this.</p>",
+    "_id": "5f55e15ec195b3005eb2c4da",
+    "_parentId": "5f55e15dc195b3005eb2c4bb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " The role of the Foundation as a stakeholder",
+    "displayTitle": "",
+    "body": "<p>Following these checks, further processing will likely be required to:</p><ul><li>Check the data for, and deal with, any errors</li><li>Remove unneeded data</li><li>Transform the format or structure of the data</li><li>Apply techniques such as anonymisation and suppression to minimise harmful impacts in the data prior to use</li><li>Combining or enriching the data with other data sources.&nbsp;</li></ul>",
+    "_id": "5f55e15ec195b3005eb2c4db",
+    "_parentId": "5f55e15dc195b3005eb2c4bc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Building on top of existing data saves significant time in collecting data that already exists.&nbsp;</p><p>Even if the data exists and is well maintained, often those who hold it will not have clear <strong>policies and processes</strong> in place to support the sharing and reuse of data. Working with stakeholders who hold data, or have a wider role in putting in place policies and processes for data sharing, from early on in proposal development is essential to ensure the appropriate mechanisms are put in place (or enforced) to support the access to and sharing of data.</p>",
+    "_id": "5f55e15ec195b3005eb2c4e3",
+    "_parentId": "5f55e15dc195b3005eb2c4be",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55e15ec195b3005eb2c4e4",
+    "_parentId": "5f55e15dc195b3005eb2c4be",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A spectrum of data rights",
+    "displayTitle": "A spectrum of data rights",
+    "body": "<p>To help explain the complex landscape of data rights, the Open Data Institute has produced the Data Spectrum which neatly illustrates the different types of data, from closed, through shared to open.</p>",
+    "_id": "5f55e822e3e277005c8a9089",
+    "_parentId": "5f55e15dc195b3005eb2c4b8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the pins to find out more about each type of data",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/ed7b55ee96ce4f250a50007d5173ab1df16685c5.png",
+      "alt": "",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Closed / Limited data",
+        "_ariaLevel": 0,
+        "body": "<p>Closed data covers data that is only available to a few individuals. Data should be closed if it is necessary to minimise harmful impacts. Examples of closed data include sensitive legal documents, employment contracts and personal health records. Conditions attached to reusing closed data are likely to be very restrictive in order to ensure harmful impacts are minimised.</p><p>Examples of closed data: Smallholder finances and pesticide application permits.</p>",
+        "strapline": "Closed / Limited data",
+        "_graphic": {
+          "src": "course/en/assets/c653a75c0723450d17c04f8cf8a25ca22c7fb377.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/9e39c4c6fdf8f5a7df0211a669fb5d42171432f6.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 13.8,
+        "_top": 53
+      },
+      {
+        "title": "Shared data",
+        "_ariaLevel": 0,
+        "body": "<p>Shared data is the largest category and covers everything from medical research data to social network data. In this category, there are often restrictions on who can access and use data. These restrictions can again be necessary to minimise harmful impacts or may be in place to preserve commercial advantage. Reusing shared data will often come with the same restrictions and limit potential reuse and subsequent sharing.&nbsp;</p><p>Examples of shared data: Reports of crop disease.</p>",
+        "strapline": "Shared data",
+        "_graphic": {
+          "src": "course/en/assets/fd837fbc66bc4380b0b558e3c522f0743a010a71.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/42c72b8e96ed93af8487939961df6e625478b5bf.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 38.4,
+        "_top": 53
+      },
+      {
+        "title": "Public data",
+        "_ariaLevel": 0,
+        "body": "<p>Public data covers all data that is visible to everyone but with limited or unclear rights. &nbsp;As with the question previously, just because something is visible online, that doesn't mean you can freely make use of it. To reuse public data, it may be necessary to approach the rights holder to establish if it can be reused freely or if there will be restrictions as per shared data.&nbsp;</p><p>Examples of public data: Patented pesticide formulas.</p>",
+        "strapline": "Public data",
+        "_graphic": {
+          "src": "course/en/assets/77a03d871f7cea023d2fb6e752f5afddd5e2b2c7.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/42c72b8e96ed93af8487939961df6e625478b5bf.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 57.2,
+        "_top": 53
+      },
+      {
+        "title": "Open data",
+        "_ariaLevel": 0,
+        "body": "<p>Open data is data that anyone can access, use and share. Providing the reuse is legal, open data can be reused without restriction and shared forward with others.</p><p>Examples of public data: Earth observations</p>",
+        "strapline": "Open data",
+        "_graphic": {
+          "src": "course/en/assets/60ed051578a0c26b44b280c2870416639e19c13a.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>",
+          "_classes": "spectrum-marker"
+        },
+        "_pin": {
+          "src": "course/en/assets/79956be7b80ab0a817e84c4e2881db990ee3356d.png",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 78,
+        "_top": 53
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A data spectrum for agriculture",
+    "displayTitle": "A data spectrum for agriculture",
+    "body": "<p>The Open Data Institute has produced a version of its popular data spectrum for agriculture. You can access, download and reuse this by clicking here. The FAIR data toolbox also contains an explainer for this data spectrum to help understand how to use and interpret it.</p>",
+    "_id": "5f55ea46e3e277005c8a9097",
+    "_parentId": "5f55e15dc195b3005eb2c4b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0c817d20537fdbe42200a9ae5433e15c62aa8567.jpg",
+      "small": "course/en/assets/0c817d20537fdbe42200a9ae5433e15c62aa8567.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying open, shared and closed data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55ebcbe3e277005c8a909d",
+    "_parentId": "5f55ebcbe3e277005c8a909c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying open, shared and closed data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55ec09e3e277005c8a90a1",
+    "_parentId": "5f55ebcbe3e277005c8a909c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Dataset available for research purposes only, cannot be used commercially",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": false
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": true
+          },
+          {
+            "text": "Public",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Data available to original research team only",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": true
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": false
+          },
+          {
+            "text": "Public",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dataset available to download as an excel file",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": false
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": false
+          },
+          {
+            "text": "Public",
+            "_isCorrect": true
+          },
+          {
+            "text": "Open",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dataset available for anyone to download and use, can even be used to develop revenue generating applications",
+        "_options": [
+          {
+            "text": "Closed / Limited",
+            "_isCorrect": false
+          },
+          {
+            "text": "Shared",
+            "_isCorrect": false
+          },
+          {
+            "text": "Public",
+            "_isCorrect": false
+          },
+          {
+            "text": "Open",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p dir=\"ltr\">The more open the dataset, the less barriers there are to reuse. If datasets are not open, then some negotiation may be required with the owner to see what can be done to ensure third party data can be used in a way compatible with the policies and processes set out in the conditions of the grant or those in country. This could include helping data owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from&nbsp; a third party. For example if you combine two open datasets with one available under a non-commercial restriction then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible and as closed as necessary to minimise harmful impacts.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The more open the dataset, the less barriers there are to reuse. If datasets are not open, then some negotiation may be required with the owner to see what can be done to ensure third party data can be used in a way compatible with the policies and processes set out in the conditions of the grant or those in country. This could include helping data owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.&nbsp;</p><p dir=\"ltr\">Additionally, reuse is highly likely to be impacted by the most restrictive licence under which data is obtained from&nbsp; a third party. For example if you combine two open datasets with one available under a non-commercial restriction then the reuse of the resultant combined data is limited to non-commercial use. Care should be taken to ensure source datasets are as open as possible and as closed as necessary to minimise harmful impacts.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Obtaining rights to reuse third party data",
+    "displayTitle": "Obtaining rights to reuse third party data",
+    "body": "<p dir=\"ltr\">By default, anything that involves an ‘intellectual effort’ in its creation is copyright protected; the creator has exclusive rights to that creation. In order for anyone else to reuse that creation they must be given permission from the rights holder (in this case the creator).</p><p dir=\"ltr\">Such permissions usually come in the form of data sharing agreements or licences. It is important to ensure that permissions to access, use and share data are clear. Clarity comes from having explicit licences and agreements to use third-party content, understanding relevant legal restrictions or permissions.<br /><br />If datasets are not open, then some negotiation may be required with the owner to see what can be done to ensure third party data can be used in a way compatible with the policies and processes set out in the conditions of the grant or those in country. This could include helping data owners to address any concerns they have related to data sharing or to set up a <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a>.</p>",
+    "_id": "5f55ed21e3e277005c8a90a2",
+    "_parentId": "5f55e15dc195b3005eb2c4bd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What to do when things are unclear",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">In some cases, the rights and permissions related to a dataset might be unclear and an owner not listed. Following investigation you might even be bounced between people and get nowhere.</p><p dir=\"ltr\">In this situation, data may still be usable and this use covered by a <a href=\"https://en.wikipedia.org/wiki/Fair_use\" target=\"_blank\">fair use</a> (or <a href=\"https://en.wikipedia.org/wiki/Fair_dealing\" target=\"_blank\">fair dealing</a>) exception or other local law.</p><p dir=\"ltr\">If this is not the case, then a risk based decision could be made over the collection, use and sharing of the data. This is done with the understanding that the owner could reemerge and it may be necessary to backtrack, negotiate continued use, or potentially face a legal challenge.</p>",
+    "_id": "5f55ed6ee3e277005c8a90a3",
+    "_parentId": "5f55e15dc195b3005eb2c4ba",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Considering reusability of data from third party sources",
+    "displayTitle": "",
+    "body": "<p>This may involve:</p><ul><li>Ensuring third party data is using standards compatible with your needs. This might include standards for how the data is collected, the units of collection as well as how the data is represented and exchanged</li><li>Checking coverage. Does the data actually relate to what you require.&nbsp;</li><li>The timeliness of the data: &nbsp;Does it cover the right period, is it up to date?</li><li>The granularity of the data. Is it as precise and include enough detail to be used in the ways intended?<br />&nbsp;</li></ul>",
+    "_id": "5f55edf5e3e277005c8a90a4",
+    "_parentId": "5f55e15dc195b3005eb2c4bc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A decision making flowchart for using data from third party sources",
+    "displayTitle": "A decision making flowchart for using data from third party sources",
+    "body": "",
+    "_id": "5f55ee6de3e277005c8a90a6",
+    "_parentId": "5f55ee60e3e277005c8a90a5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6352703227d5a31871cfa27c856ec34c0bea876b.jpg",
+      "small": "course/en/assets/6352703227d5a31871cfa27c856ec34c0bea876b.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">ODI/CABI</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Understanding the stakeholders and roles within a data ecosystem",
+    "displayTitle": "Understanding the stakeholders and roles within a data ecosystem",
+    "body": "<p>Can you match the following descriptions with the right stakeholders within the ecosystem in relation to reuse of data from third party sources?</p>",
+    "_id": "5f55eec8e3e277005c8a90a9",
+    "_parentId": "5f55e15dc195b3005eb2c4bf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers then click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Reuser of data to help develop and scale solutions based upon insights for consumers, needs to ensure rights and permissions to use data within solutions.",
+        "_options": [
+          {
+            "text": "Innovators",
+            "_isCorrect": true
+          },
+          {
+            "text": "Grantee",
+            "_isCorrect": false
+          },
+          {
+            "text": "Researcher",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government agency",
+            "_isCorrect": false
+          },
+          {
+            "text": "Program officer",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Responsible for ensuring everyone in the grant ecosystem has the appropriate rights and permission to access, use and share data, to ensure success of the grant.",
+        "_options": [
+          {
+            "text": "Innovators",
+            "_isCorrect": false
+          },
+          {
+            "text": "Grantee",
+            "_isCorrect": true
+          },
+          {
+            "text": "Researcher",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government agency",
+            "_isCorrect": false
+          },
+          {
+            "text": "Program officer",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Collector and reuser of data. Collects and analyses raw data, needs to ensure that rights and permissions are obtained and provided that allow the storage, use and sharing of the data with others. ",
+        "_options": [
+          {
+            "text": "Innovators",
+            "_isCorrect": false
+          },
+          {
+            "text": "Grantee",
+            "_isCorrect": false
+          },
+          {
+            "text": "Researcher",
+            "_isCorrect": true
+          },
+          {
+            "text": "Central government agency",
+            "_isCorrect": false
+          },
+          {
+            "text": "Program officer",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Data steward. In charge of managing a number of key national datasets, needs to provide permissions for others to use the data and protect the rights of those the data is about.",
+        "_options": [
+          {
+            "text": "Innovators",
+            "_isCorrect": false
+          },
+          {
+            "text": "Grantee",
+            "_isCorrect": false
+          },
+          {
+            "text": "Researcher",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government agency",
+            "_isCorrect": true
+          },
+          {
+            "text": "Program officer",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Responsible for delivering FAIR and safeguarded data within investments. This includes ensuring that investments deliver impact and are in line with objectives and policies, and supporting the grantee through capacity building and facilitating conversations with other stakeholders in the data ecosystem where necessary.",
+        "_options": [
+          {
+            "text": "Innovators",
+            "_isCorrect": false
+          },
+          {
+            "text": "Grantee",
+            "_isCorrect": false
+          },
+          {
+            "text": "Researcher",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government agency",
+            "_isCorrect": false
+          },
+          {
+            "text": "Program officer",
+            "_isCorrect": true
+          },
+          {
+            "text": "Central government",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Responsible for national policies on data and information. These contribute to the enabling environment in-country and set expectations on access, use and sharing of data.",
+        "_options": [
+          {
+            "text": "Innovators",
+            "_isCorrect": false
+          },
+          {
+            "text": "Grantee",
+            "_isCorrect": false
+          },
+          {
+            "text": "Researcher",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government agency",
+            "_isCorrect": false
+          },
+          {
+            "text": "Program officer",
+            "_isCorrect": false
+          },
+          {
+            "text": "Central government",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>There are many stakeholders in a data ecosystem, some will be directly involved in an investment while many important stakeholders will be external or even international. It is the responsibility of the lead organisation to understand the environment, engage stakeholders and work with program officers to ensure that the best possible outcomes are achieved and that data is FAIR and safeguarded.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are many stakeholders in a data ecosystem, some will be directly involved in an investment while many important stakeholders will be external or even international. It is the responsibility of the lead organisation to understand the environment, engage stakeholders and work with program officers to ensure that the best possible outcomes are achieved and that data is FAIR and safeguarded.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mapping data ecosystems",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55efb4e3e277005c8a90ae",
+    "_parentId": "5f55efb4e3e277005c8a90ac",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mapping data ecosystems",
+    "displayTitle": "",
+    "body": "<p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies and processes</strong> that support the use of <strong>technology</strong>. Many of the people are likely to be third party stakeholders and understanding the roles they play can be complex. Creating a map of a data ecosystem can help us to identify the key people, the relationships between them and the different roles they play.&nbsp;</p><p>Representing ecosystems visually can be particularly useful when contexts are complex, not well understood or not yet fully developed.</p>",
+    "_id": "5f55efdee3e277005c8a90b1",
+    "_parentId": "5f55efb4e3e277005c8a90ac",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mapping data spectrums",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55f001e3e277005c8a90b4",
+    "_parentId": "5f55f001e3e277005c8a90b3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Mapping data spectrums",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">A data ecosystem map also can be used to describe how data is being shared across The Data Spectrum. A map can show how data is being used to deliver a service, or show where data is not being shared. Understanding where value is or may be created from shared data will inform conversations with third parties on rights and permissions to reuse data.</p><p dir=\"ltr\">The FAIR data toolbox contains a link to guides to help understand personas in agricultural ecosystems and a guide to mapping data ecosystems. The related materials on assessing the enabling environment should also be referred to when ensuring appropriate political, social, legal and technological frameworks are in place in-country to support FAIR and safeguarded data within investments.</p>",
+    "_id": "5f55f001e3e277005c8a90b7",
+    "_parentId": "5f55f001e3e277005c8a90b3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Such services often require data from multiple third parties to even function, such as geographic data, population and socioeconomic data or sample data from previous projects.&nbsp;</p><p>However, reusing data from existing third party sources can be complex and face many challenges. Grant proposals that set out with good intentions to reuse existing data often encounter many barriers which should be addressed as soon as possible.&nbsp;</p><p>This module looks at the different barriers and techniques to address each.&nbsp;</p>",
+    "_id": "5f55f052e3e277005c8a90c2",
+    "_parentId": "5f55f052e3e277005c8a90ba",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55f052e3e277005c8a90c3",
+    "_parentId": "5f55f052e3e277005c8a90ba",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>The value of reusing data from third party sources</li><li>Barriers in reusing data from third party sources</li><li>The importance of rights and permissions in data</li><li>A spectrum of data rights</li><li>Identifying open, shared and closed data</li><li>Obtaining rights to reuse third party data</li><li>Considering compatibility with existing country and funder policies</li><li>Considering reliability and interoperability of data from third party sources</li><li>A decision making flowchart for using data from third party sources</li><li>The roles of different stakeholders in the data ecosystem</li><li>How to map a data ecosystem</li></ul>",
+    "_id": "5f55f052e3e277005c8a90c6",
+    "_parentId": "5f55f052e3e277005c8a90bb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The value of reusing data from third party sources",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55f052e3e277005c8a90c7",
+    "_parentId": "5f55f052e3e277005c8a90bc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The value of reusing data from third party sources",
+    "displayTitle": "",
+    "body": "<p>Why use data from third party sources?</p>",
+    "_id": "5f55f052e3e277005c8a90ca",
+    "_parentId": "5f55f052e3e277005c8a90bc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Saves time in collecting data that already exists",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Allows you to build upon and take advantage of existing investment in data collection",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Allows you to benefit from investment in data governance & allows faster prototyping or research, by reducing time required to source necessary data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. More than this, building on top of existing data saves significant time in collecting data that already exists. Building good relationships with data holders also means that you can build upon and take advantage of existing activities and communities around the data to support your aims. Furthermore, if the data is well maintained and of good quality, less of your own time will be required to prepare data prior to reuse. Encouraging reuse can help to reduce cost of investment and increase ROI from previous investment in data collection and platforms.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. More than this, building on top of existing data saves significant time in collecting data that already exists. Building good relationships with data holders also means that you can build upon and take advantage of existing activities and communities around the data to support your aims. Furthermore, if the data is well maintained and of good quality, less of your own time will be required to prepare data prior to reuse. Encouraging reuse can help to reduce cost of investment and increase ROI from previous investment in data collection and platforms.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Barriers in reusing data from third party sources",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55f052e3e277005c8a90d8",
+    "_parentId": "5f55f052e3e277005c8a90bf",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Barriers in reusing data from third party sources",
+    "displayTitle": "",
+    "body": "<p>The list below contains common barriers to reusing data from third party sources, which do you think is the most common?</p>",
+    "_id": "5f55f052e3e277005c8a90db",
+    "_parentId": "5f55f052e3e277005c8a90bf",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "A lack of processes and policies to share data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data is not maintained",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data in wrong format or structure",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data is incomplete",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Even if the data exists and is well maintained, often those who hold it will not have clear <strong>policies and processes</strong> in place to support the sharing and reuse of data. This is most commonly due to concerns about risks and impacts related to the sharing of data. Working with stakeholders who hold data from early on in proposal development is essential to ensure the appropriate mechanisms are put in place (or enforced) to support the access to and sharing of data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Even if the data exists and is well maintained, often those who hold it will not have clear <strong>policies and processes</strong> in place to support the sharing and reuse of data. This is most commonly due to concerns about risks and impacts related to the sharing of data. Working with stakeholders who hold data from early on in proposal development is essential to ensure the appropriate mechanisms are put in place (or enforced) to support the access to and sharing of data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of rights and permissions in data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f55f052e3e277005c8a90dc",
+    "_parentId": "5f55f052e3e277005c8a90c0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The importance of rights and permissions in data",
+    "displayTitle": "",
+    "body": "<p>All data available on the web is open and free to use. True or false?</p>",
+    "_id": "5f55f052e3e277005c8a90df",
+    "_parentId": "5f55f052e3e277005c8a90c0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Just because something can be accessed over the internet does not mean that it is free to use. For example, it is easy to screenshot or download company logos but these cannot then simply be used freely by anyone – the owner must grant permission for use. Unless it is published under a licence that allows reuse.</p><p>The same is true for data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Just because something can be accessed over the internet does not mean that it is free to use. For example, it is easy to screenshot or download company logos but these cannot then simply be used freely by anyone – the owner must grant permission for use. Unless it is published under a licence that allows reuse.</p><p>The same is true for data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   }
 ]
