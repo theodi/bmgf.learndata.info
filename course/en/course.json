@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 82,
+  "_latestTrackingId": 104,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -348,6 +348,10 @@
   },
   "_ODILicence": {
     "_items": []
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
   },
   "_boxMenu": {
     "_backgroundImage": {

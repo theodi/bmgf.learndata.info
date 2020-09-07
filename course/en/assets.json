@@ -1,4 +1,12 @@
 {
+  "91d7d44849aaa32d953399c315d3338572889c74.png": {
+    "title": "ODI Burst theme colour",
+    "description": "Takes the theme colour as it's background colour",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
   "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
     "title": "Rectangle placeholder image",
     "description": "Rectangle placeholder image",
@@ -229,6 +237,14 @@
     "source": "https://www.pexels.com/photo/chart-close-up-data-desk-590022/",
     "licence": "CC-BY",
     "attribution": "The Open Data Institute / Lukas from Pexels",
+    "tags": []
+  },
+  "d93d01b7a5723176b53fb5c3dff8428c51bf86b0.jpg": {
+    "title": "Green-Building (copyrighted)",
+    "description": "Green-Building (copyrighted)",
+    "source": "https://innodez.com/how-to-mitigate-the-negative-effects-of-construction-industry-on-global-environment-through-proper-design-practices/",
+    "licence": "All rights reserved",
+    "attribution": "unknown",
     "tags": []
   }
 }

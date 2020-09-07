@@ -6915,5 +6915,2260 @@
       "remainingAttemptsText": "",
       "remainingAttemptText": ""
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>Some of the biggest barriers to delivering FAIR and safeguarded data within investments can be concerns of data security and privacy along with a mis-trust in data or others use of data. Understanding risks and being able to evaluate the real and perceived impact is critical to overcoming these barriers, increasing confidence in wider sharing of data while minimising harmful impacts.</p><p>This module introduces:</p><ul><li>How to identify risks</li><li>Linking risks to impact</li><li>Analysing likelihood and severity</li><li>The impacts of NOT sharing data</li><li>Categories of risks and impact</li><li>Identifying risks in data</li><li>Strategies to help minimise risks</li><li>Tools to help identify and manage risk</li></ul>",
+    "_id": "5f56255be3e277005c8a90fd",
+    "_parentId": "5f56255ae3e277005c8a90f0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56255be3e277005c8a90fe",
+    "_parentId": "5f56255ae3e277005c8a90f0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks and concerns",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56255be3e277005c8a9103",
+    "_parentId": "5f56255ae3e277005c8a90f2",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What can you control?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56255be3e277005c8a910b",
+    "_parentId": "5f56255ae3e277005c8a90f4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Analysing likelihood and severity",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56255be3e277005c8a911c",
+    "_parentId": "5f56255ae3e277005c8a90fa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Common challenges to delivering FAIR and safeguarded data within investments are concerns of data security and privacy along with a mis-trust in data or other use of data. Understanding risks and being able to evaluate the real and perceived impact is critical to overcoming these challenges, increasing confidence in wider sharing of data while minimising harmful impacts.&nbsp;</p><p>There are many risks and impacts associated with data, such as low quality data leading to reputational damage. However when managed carefully the likelihood and severity of impact from these risks could in fact be very low. There are negative impacts that can result from not sharing data, so it is important to also carefully consider these when doing any form of risk assessment for data.&nbsp;</p><p>Key strategies to minimise impact from risks include:&nbsp;</p><ul><li>Supporting people with data literacy</li><li>Developing, enforcing and adhering to policies and processes for both data sharing as well as data protection.</li><li>Implementing data management plans</li><li>Being open in communication with stakeholders</li><li>Regularly reviewing risks and acting accordingly</li></ul>",
+    "_id": "5f56255be3e277005c8a9123",
+    "_parentId": "5f56255ae3e277005c8a90fc",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56255be3e277005c8a9124",
+    "_parentId": "5f56255ae3e277005c8a90fc",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks and concerns",
+    "displayTitle": "",
+    "body": "<p>Which of the following are risks or concerns associated with sharing data?</p>",
+    "_id": "5f5626c1e3e277005c8a9127",
+    "_parentId": "5f56255ae3e277005c8a90f2",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select you answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "Data being of bad quality",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data getting into the wrong hands (e.g. a competitor)",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Personal or sensitive information in the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>There are many risks or concerns that arise only when data is shared, such as data getting into the wrong hands. Others apply regardless of if the data is shared with others, such as bad quality data and handling of personal information. However while some concerns stem from real risks, such as reputational damage or breaking the law, the perceived and likely impact from others may be inflated.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>There are many risks or concerns that arise only when data is shared, such as data getting into the wrong hands. Others apply regardless of if the data is shared with others, such as bad quality data and handling of personal information. However while some concerns stem from real risks, such as reputational damage or breaking the law, the perceived and likely impact from others may be inflated.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The terminology of risks",
+    "displayTitle": "",
+    "body": "<p>Sometimes it’s hard to work out how we’re going to address and minimise risk. The most common reason for this is because we haven’t described the risk correctly. To decide how we’re going to minimise a risk, we first need to define some key elements. These are:</p><ul><li>An <strong>action</strong>: the thing we want to do</li><li>A <strong>concern</strong>: something that might go wrong</li><li>A <strong>cause</strong>: the reason it might go wrong</li><li>An <strong>impact</strong>: the result if it goes wrong</li></ul><p>All of these together make up the <strong>risk</strong>.</p>",
+    "_id": "5f562724e3e277005c8a9128",
+    "_parentId": "5f56255ae3e277005c8a90f3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Risks: What can you control?",
+    "displayTitle": "",
+    "body": "<p>These four elements make up the risk. If I want to minimise risk, which of these elements is something you can control or affect?</p>",
+    "_id": "5f562a52e3e277005c8a9129",
+    "_parentId": "5f56255ae3e277005c8a90f4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Action",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Concern",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Cause",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Impact",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>The impact is the only element of the risk that is <strong>NOT </strong>directly under &nbsp;your control. Many risks start as concerns about something that hasn’t yet happened, these concerns need to be evaluated to identify if they are (1) Genuine, (2) Likely and (3) Severe. Following this, causes can be addressed and appropriate actions taken to minimise negative impact.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The impact is the only element of the risk that is <strong>NOT </strong>directly under &nbsp;your control. Many risks start as concerns about something that hasn’t yet happened, these concerns need to be evaluated to identify if they are (1) Genuine, (2) Likely and (3) Severe. Following this, causes can be addressed and appropriate actions taken to minimise negative impact.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying actions, concerns, causes and impacts",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f562c12e3e277005c8a9130",
+    "_parentId": "5f562c06e3e277005c8a912b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers then click 'submit'.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Data getting to the wrong hands",
+        "_options": [
+          {
+            "text": "Action",
+            "_isCorrect": false
+          },
+          {
+            "text": "Concern",
+            "_isCorrect": true
+          },
+          {
+            "text": "Cause",
+            "_isCorrect": false
+          },
+          {
+            "text": "Impact",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Data not being validated when entered into a system",
+        "_options": [
+          {
+            "text": "Action",
+            "_isCorrect": false
+          },
+          {
+            "text": "Concern",
+            "_isCorrect": false
+          },
+          {
+            "text": "Cause",
+            "_isCorrect": true
+          },
+          {
+            "text": "Impact",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Someone using the data to harm another individual",
+        "_options": [
+          {
+            "text": "Action",
+            "_isCorrect": false
+          },
+          {
+            "text": "Concern",
+            "_isCorrect": false
+          },
+          {
+            "text": "Cause",
+            "_isCorrect": false
+          },
+          {
+            "text": "Impact",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Data is published online",
+        "_options": [
+          {
+            "text": "Action",
+            "_isCorrect": true
+          },
+          {
+            "text": "Concern",
+            "_isCorrect": false
+          },
+          {
+            "text": "Cause",
+            "_isCorrect": false
+          },
+          {
+            "text": "Impact",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying actions, concerns, causes and impacts",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f562ea3e3e277005c8a9133",
+    "_parentId": "5f562c06e3e277005c8a912b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Concern: Data being of bad quality",
+    "displayTitle": "",
+    "body": "<p><strong>Concern</strong>: Data being of bad quality</p>",
+    "_id": "5f5630f7e3e277005c8a9137",
+    "_parentId": "5f5630cde3e277005c8a9136",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select two answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Damage to organisation’s reputation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Organisation being fined for breaking the law",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Discrimination against people or groups",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Loss of competitive advantage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks and concerns",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56311ee3e277005c8a913a",
+    "_parentId": "5f5630cde3e277005c8a9136",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Concern: Data getting into the wrong hands",
+    "displayTitle": "",
+    "body": "<p><strong>Concern</strong>: Data getting into the wrong hands</p>",
+    "_id": "5f5631b8e3e277005c8a913f",
+    "_parentId": "5f5631b8e3e277005c8a913e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "Damage to organisations reputation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Organisation being fined for breaking the law",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Discrimination against people or groups",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Loss of competitive advantage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks and concerns",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f5631b8e3e277005c8a9140",
+    "_parentId": "5f5631b8e3e277005c8a913e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Concern: Personal or sensitive information in the data",
+    "displayTitle": "",
+    "body": "<p><strong>Concern</strong>: Personal or sensitive information in the data</p>",
+    "_id": "5f5631bde3e277005c8a9145",
+    "_parentId": "5f5631bde3e277005c8a9144",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select three answers then click 'submit'",
+    "_items": [
+      {
+        "text": "Damage to organisation’s reputation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Organisation being fined for breaking the law",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Discrimination against people or groups",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Loss of competitive advantage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks and concerns",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f5631bde3e277005c8a9146",
+    "_parentId": "5f5631bde3e277005c8a9144",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Analysing likelihood and severity",
+    "displayTitle": "",
+    "body": "<p>To assess if something is a real risk it is important to evaluate the likelihood and the severity of the impact. A common method of doing this is to complete a risk matrix and assign a risk score.</p><p>It is important to remember that while the impact of different risks could be the same, e.g. “Damage to organisations reputation”, the likelihood and severity scores could be significantly different depending on the risk and wider context of the risk within the organisation.</p><p>It is also likely to vary widely depending on the organisation's attitude towards the risk. For example, is sharing poor quality data, which is likely most of the time, actually high in severity? especially if you tell people the data is likely to contain errors due to the way it was collected.&nbsp;</p>",
+    "_id": "5f563353e3e277005c8a9149",
+    "_parentId": "5f56255ae3e277005c8a90fa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The risks of NOT sharing data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f563894e3e277005c8a916a",
+    "_parentId": "5f563894e3e277005c8a9169",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The risks of NOT sharing data",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">Many risk assessments associated with data sharing only consider the risks and impacts associated with sharing data, this is not balanced with the risks and impacts of NOT sharing data.&nbsp;</p><p dir=\"ltr\">Which of the following are impacts that can result from not sharing data?</p>",
+    "_id": "5f5638c8e3e277005c8a916e",
+    "_parentId": "5f563894e3e277005c8a9169",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "Discrimination against people or groups",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Damage to organisations reputation",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Organisation being fined for breaking the law",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">The risks are all the same. Sometimes it is of greater risk to be closed, than open. When building a risk assessment you should always consider the impact of both sharing and not sharing data and take a balanced approach.</p><p dir=\"ltr\">For example, negative headlines attempting to damage reputations of organisations will exist regardless of if data is made available widely. The advantage of data associated with negative headlines being open is that people can fact check the headline from the raw data; if the data is not available, there is no way to refute the headline, thus the reputational damage severity resulting from not sharing data could in fact be higher.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The risks are all the same. Sometimes it is of greater risk to be closed, than open. When building a risk assessment you should always consider the impact of both sharing and not sharing data and take a balanced approach.</p><p dir=\"ltr\">For example, negative headlines attempting to damage reputations of organisations will exist regardless of if data is made available widely. The advantage of data associated with negative headlines being open is that people can fact check the headline from the raw data; if the data is not available, there is no way to refute the headline, thus the reputational damage severity resulting from not sharing data could in fact be higher.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Legal and ethical risks to people",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f563926e3e277005c8a9172",
+    "_parentId": "5f563926e3e277005c8a9171",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-three",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Categories of risks",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f563959e3e277005c8a9178",
+    "_parentId": "5f563959e3e277005c8a9177",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Categories of risks",
+    "displayTitle": "Categories of risks",
+    "body": "",
+    "_id": "5f56396de3e277005c8a917c",
+    "_parentId": "5f563959e3e277005c8a9177",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Legal and ethical risks to people",
+    "displayTitle": "",
+    "body": "<p><strong>Legal risks:&nbsp;</strong></p><p>It may be discovered that data you are sharing contains personal information that does not have a lawful basis for being stored or shared.</p><p><strong>Ethical risks:</strong></p><p>While the collection, use or sharing of data may be lawful, it could still result in unethical outcomes, such as discrimitation or exclusion. For example, an automated data model might make decisions about whether someone is eligible for benefits or subsidies, or what products they can be offered.&nbsp;</p>",
+    "_id": "5f5639c2e3e277005c8a917f",
+    "_parentId": "5f563926e3e277005c8a9171",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the heading below to view strategies to reduce these risks.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Reducing legal risks",
+        "body": "<p>Regardless of if data is shared or not, you should always check you have a lawful basis for handling personal data. Is the personal information necessary to deliver the service or could techniques like suppression or anonymisation be used to remove the personal information from the data?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reducing ethical risks",
+        "body": "<p>Discrimination most often is the result of using a limited amount of biased data. Wider data sharing can help boost the variety of data available and potentially address biases in the data. Putting in place ethical codes of practice,&nbsp;publishing impact assessments, communicating openly and regularly reviewing practices are key to help minimise harmful impacts of data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Commercial risks",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f563ae4e3e277005c8a9182",
+    "_parentId": "5f563ae4e3e277005c8a9181",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Commercial risks",
+    "displayTitle": "",
+    "body": "<p>Commercial risks come in many forms, especially as sharing data may lead to challenges to business models. Sometimes however, these risks may be better seen as opportunities.&nbsp;</p>",
+    "_id": "5f563ae4e3e277005c8a9185",
+    "_parentId": "5f563ae4e3e277005c8a9181",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the headings below to find out more about the different types of commercial risk",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Affiliation risks",
+        "body": "<p>This is where a company you do not wish to be associated with making use of your data or services.&nbsp;</p><p><strong>Solution</strong>: To address this you should make clear in your licensing that use of your data does not act as an endorsement and that your trademarks and logos are not to be used.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Revenue risks",
+        "body": "<p>Being more open may mean changes to an organisation's revenue model. This change is not without opportunity however. Additional revenue might be available through offering support and consultancy services to those who use it commercially. Conversely, being more open with data may be required to meet funder policy requirements; revenue from this route may not be available without being open with data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation risks",
+        "body": "<p>Imitation risks are linked to other organisations offering similar products and services to your own, potentially reusing your own shared data. Again this may have an impact on revenue. With work that is specifically designed to benefit society and the environment, such as agricultural services, imitation may be a sign of success and lead to sustainability and widespread adoption of good practices. This might allow organisations operating in this space more opportunity for innovation and seeking of the next breakthrough. Alternatively, applying for patents on products and services, as opposed to restricting access to data, might be a route to protect revenue while still widening opportunities for data sharing and reuse.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Copycat risks",
+        "body": "<p>One step beyond imitation is copycat risks, where there is a deliberate and targeted attempt to masquerade as another organisation, e.g. to sell fake goods and services.&nbsp;</p><p><strong>Solution</strong>: Again, while reuse of shared data might play a factor, you should make it clear in your licensing that use of your data does not act as an endorsement and that your trademarks and logos are not to be used. &nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reputation risks",
+    "displayTitle": "",
+    "body": "<p><strong>Data quality risks:&nbsp;</strong></p><p>Data that is inaccurate, contains personal information, not updated regularly or too suppressed may all affect your reputation. This can undermine the strategic benefits of publishing open data and may contradict legal or other policy requirements. Potential users may not see you as a credible publisher and in turn avoid using your data and/or services.</p>",
+    "_id": "5f563baae3e277005c8a918b",
+    "_parentId": "5f563baae3e277005c8a9187",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the heading below to view strategies to reduce this risk.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Reducing data quality risks",
+        "body": "<p>Develop a robust data management plan that includes being as open as possible with data. The plan should detail the quality control mechanisms, time schedules and processes that ensure data is as open and accessible as possible. Don’t guarantee quality, rather develop channels where consumers can communicate with you and endeavour to respond quickly.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Wider economic, societal and environmental risks",
+    "displayTitle": "Wider economic, societal and environmental risks",
+    "body": "<p>Releasing data, or holding onto data, can result in wider harmful impacts on society, the economy or the environment.&nbsp;</p><p>For example publishing data that highlights the location of key food production and storage areas for internal use and export could make those locations a target in times of conflict.</p><p>Conversely,not sharing data on crop disease can result in the disease becoming widespread before anyone is even aware it exists, meaning it is too late to suppress and stop. However, releasing the data may result in commercial harm (or not as we have seen). The choice of which risk is greater in magnitude and importance is often complex.&nbsp;</p><p>Putting in place, or upholding existing and widely accepted ethical codes of practice, communicating openly and regularly reviewing practices are key to help minimise harmful impacts of data.</p>",
+    "_id": "5f563c1be3e277005c8a9191",
+    "_parentId": "5f563c1be3e277005c8a918d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks in data",
+    "displayTitle": "",
+    "body": "<p>Looking directly at the data, try to establish:</p><ul><li>Could the data directly, or indirectly, identify individuals?</li><li>Does the data contain sensitive information?</li><li>Does the data contain any confidential information?</li><li>Does the data contain free text fields? Have these been analysed in respect to the above?</li></ul>",
+    "_id": "5f563ce9e3e277005c8a9199",
+    "_parentId": "5f563ca1e3e277005c8a9194",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identifying risks in data",
+    "displayTitle": "",
+    "body": "<p>Think about impacts (e.g. impacts of national security, organisations, people and society)?:</p><ul><li>What are you trying to achieve by collecting, sharing or using data?</li><li>What positive impacts might there be?</li><li>What negative impacts might there be<br />&nbsp;</li></ul>",
+    "_id": "5f563cfee3e277005c8a919a",
+    "_parentId": "5f563ca1e3e277005c8a9194",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Strategies to help minimise risks",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f563d42e3e277005c8a919e",
+    "_parentId": "5f563d42e3e277005c8a919d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Strategies to help minimise risks",
+    "displayTitle": "",
+    "body": "<p>There are many actions that can be taken to help minimise risks, including:</p>",
+    "_id": "5f563d42e3e277005c8a91a1",
+    "_parentId": "5f563d42e3e277005c8a919d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1. Increasing data literacy",
+        "body": "<p>Many challenges in data collection, access, use and sharing are related to a lack of core data literacy.&nbsp;<br /><br />Working with stakeholders to increase data literacy in key areas such as data collection, handling personal and sensitive data and rights and permissions is critical to the success of any project involving data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Implementing a data management plan",
+        "body": "<p dir=\"ltr\">A good data management plan supports the safeguarding of data. A good plan sets out the processes that support the policies including:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">how to store and share data&nbsp;</p></li><li dir=\"ltr\"><p dir=\"ltr\">data lifecycle and retention/deletion requirements&nbsp;</p></li><li dir=\"ltr\"><p dir=\"ltr\">when and how risks, legal requirements and ethical practices are reviewed</p></li><li dir=\"ltr\"><p dir=\"ltr\">how data users and external stakeholders are supported</p></li></ul><p>See <a href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\">Developing a data management plan: a checklist</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Using a variety of data licenses and data sharing agreements",
+        "body": "<p>Not all data has to be licensed the same way. Different versions of the same dataset can exist at different places on the data spectrum.</p><p>For example, if it is necessary to share a dataset containing personal data, then a data sharing agreement could be used, while an anonymised version of the same dataset could be made openly available in parallel.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4. Documenting and communicating openly",
+        "body": "<p>Many risks can be addressed through open communication and good documentation. From establishing rights to access, use and share a dataset owned by a third party, addressing data quality issues to concerns over how others will use data. Documenting and publishing policies and processes, impact assessments, known data quality issues and limitations of the data are all things that can lower risk.&nbsp;</p><p>Being open and welcoming input and feedback are essential to help build a healthy ecosystem around the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Tools to help identify and manage risk",
+    "displayTitle": "Tools to help identify and manage risk",
+    "body": "<p>The FAIR data toolbox contains key resources that can help everyone carefully consider risk and reduce harmful impacts from data while ensure utility is maximised.&nbsp;Discover more about each below:</p>",
+    "_id": "5f563e45e3e277005c8a91a4",
+    "_parentId": "5f563df7e3e277005c8a91a2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Cheat sheet: Minimising harmful impacts from data",
+        "body": "<p>Summarises the key points from this learning.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Case study: Sharing data while maintaining a competitive advantage",
+        "body": "<p>Looks at how one organisation has tackled the commercial risks associated with wider data sharing.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sharing agricultural data: risk assessment",
+        "body": "<p>This step by step guide will help <strong>program officers and grantees</strong> wanting to publish data. Specifically it will help:</p><ul><li>recognise where data is suitable for sharing as openly and widely as possible</li><li>comply with data protection and data rights legislation&nbsp;</li><li>minimise risk by identifying relevant mitigating actions (e.g. anonymisation)</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tech Transformed Consequence Scanning toolkit",
+        "body": "<p>Many leaders of the biggest tech companies of our time have admitted that they simply did not think of the consequences of what they were creating.</p><p>Consequence scanning is a practice that allows organisations to surface issues that might not get raised otherwise and establish an open dialogue about those.&nbsp;</p><p><a href=\"https://www.tech-transformed.com/product-development/\" target=\"_blank\">Discover the toolkit here</a></p><p><br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "ODI Data Ethics Canvas",
+        "body": "<p>The ODI Data Ethics Canvas helps identify and manage ethical issues related to the FAIR and safeguarded collection, access, use and sharing of data.</p><p><a href=\"https://theodi.org/article/data-ethics-canvas/\" target=\"_blank\">Find out more about the canvas and download your own copy</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Developing a data management plan: a checklist",
+        "body": "<p>This document is intended to act as a checklist to support the creation of a data management plan for a research project.&nbsp;</p><p>This checklist helps to:</p><ul><li>ensure that data is not lost or corrupted</li><li>ensure the security of sensitive data</li><li>make data FAIR – Findable, Accessible, Interoperable and Reusable – so that value may be extracted from it by others, or in collaboration with them</li><li>ensure that data is made open, for anyone to access, use and share, where possible</li></ul><p><a href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\">Download a copy of the checklist</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What can you control?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f563ffce3e277005c8a91a7",
+    "_parentId": "5f56255ae3e277005c8a90f3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Publishing soil sample data",
+    "displayTitle": "",
+    "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action: </strong>Releasing location of a soil sample and the PH level in the soil (2 columns only)</p><p><br /><strong>Concern: </strong>Individual farms and farmers could be identified from the data</p><p><br /><strong>Perceived impact: </strong>Farmers might be targeted or discriminated against</p>",
+    "_id": "5f56432de3e277005c8a91b1",
+    "_parentId": "5f56432de3e277005c8a91ad",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Soil sample",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56432de3e277005c8a91b2",
+    "_parentId": "5f56432de3e277005c8a91ad",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers, then click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Likelihood",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Impact",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>A simple soil sample resulting in discrimination is highly unlikely and a lot of additional data would be needed to identify the farmer; location and pH on their own are unlikely to enable re-identification of a farmer.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A simple soil sample resulting in discrimination is highly unlikely and a lot of additional data would be needed to identify the farmer; location and pH on their own are unlikely to enable re-identification of a farmer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Publishing crop infection data",
+    "displayTitle": "",
+    "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action: </strong>sharing data on pests or crop infections&nbsp;</p><p><br /><strong>Concern:</strong> loss of revenue</p><p><br /><strong>Perceived impact: </strong>farmers with pest or crop infection experience damage to reputation and loss of trust in the product</p>",
+    "_id": "5f56432de3e277005c8a91b3",
+    "_parentId": "5f56432de3e277005c8a91ae",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Crop data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56432de3e277005c8a91b4",
+    "_parentId": "5f56432de3e277005c8a91ae",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers, then click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Likelihood",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Impact",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>It has in fact been found that the opposite is true; sharing data resulted in farmers losing 20% fewer crops than normal, meaning higher revenue is maintained.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>It has in fact been found that the opposite is true; sharing data resulted in farmers losing 20% fewer crops than normal, meaning higher revenue is maintained.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Analysing likelihood and severity: Crime data",
+    "displayTitle": "",
+    "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action</strong>: Releasing crime data with detail at street level</p><p><br /><strong>Concern</strong>: A significant reduction in house prices in high crime areas</p><p><br /><strong>Perceived impact</strong>: People in high crime areas being unable to sell or rent out their houses</p>",
+    "_id": "5f56434be3e277005c8a91b7",
+    "_parentId": "5f56434be3e277005c8a91b6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Crime data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f56434be3e277005c8a91b8",
+    "_parentId": "5f56434be3e277005c8a91b6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers, then click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Likelihood",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Impact",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": false
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": true
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>Many countries have published highly detailed crime data. Although many had concerns, there has been no significant impact as a result of the data being published. People simply didn’t know what high crime was and it is more about experiences than statistics.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Many countries have published highly detailed crime data. Although many had concerns, there has been no significant impact as a result of the data being published. People simply didn’t know what high crime was and it is more about experiences than statistics.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reputation risks",
+    "displayTitle": "",
+    "body": "<p><strong>Mis-use risks:</strong></p><p>A mis-trust in data or others’ use of data; drawing ‘incorrect’ conclusions that might be attributed to the publisher is a common barrier to openly publishing data. There is a perception that this will lead to reputational and potentially commercial damage.</p>",
+    "_id": "5f564526e3e277005c8a91ba",
+    "_parentId": "5f563baae3e277005c8a9187",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the heading below to view strategies to reduce this risk.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Reducing mis-use risks",
+        "body": "<p>A mis-trust in others use of data can often lead to data not being shared. However, it is also important to ask how you battle misrepresentation or misuse? Any organisation could publish analysis that you know to be false, regardless of if the data is available or not, however people cannot refute the claims of others unless the data is available for them to analyse themselves. Sharing data as openly as possible can in fact fight misuse and misrepresentation rather than lead to more of it!</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   }
 ]

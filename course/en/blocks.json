@@ -24,6 +24,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -67,6 +70,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -112,6 +118,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -155,6 +164,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -200,6 +212,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -243,6 +258,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -288,6 +306,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -331,6 +352,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -376,6 +400,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -419,6 +446,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -464,6 +494,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -507,6 +540,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -552,6 +588,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -595,6 +634,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -640,6 +682,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -683,6 +728,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -728,6 +776,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -771,6 +822,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -816,6 +870,9 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_odi-generic": {
       "_backgroundImage": {
         "_large": "",
@@ -836,8 +893,8 @@
     }
   },
   {
-    "title": "Q3 - Common constraints in delivering data transformative grants",
-    "displayTitle": "Common constraints in delivering data transformative grants",
+    "title": "Minimising harmful impacts from data",
+    "displayTitle": "Minimising harmful impacts from data",
     "body": "",
     "_classes": "",
     "_trackingId": 20,
@@ -848,8 +905,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f2042d4649ca8005e769a47",
-    "_parentId": "5f2042b6649ca8005e769a3e",
+    "_id": "5f56255ae3e277005c8a90f0",
+    "_parentId": "5f56255ae3e277005c8a90ec",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -859,6 +916,56 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Analysing likelihood and severity",
+    "displayTitle": "Analysing likelihood and severity",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56255ae3e277005c8a90fa",
+    "_parentId": "5f56255ae3e277005c8a90ee",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -884,50 +991,6 @@
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 21,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f204bd0649ca8005e769a71",
-    "_parentId": "5f204bbf649ca8005e769a6e",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
-    "title": "Topics",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
     "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
@@ -936,8 +999,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f204d2e649ca8005e769a77",
-    "_parentId": "5f203b30649ca8005e769a11",
+    "_id": "5f56255ae3e277005c8a90fc",
+    "_parentId": "5f56255ae3e277005c8a90ef",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -947,6 +1010,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -968,9 +1034,9 @@
     }
   },
   {
-    "title": "Identifying grants where data transformation must be considered",
-    "displayTitle": "",
-    "body": "",
+    "title": "Linking concerns to impact",
+    "displayTitle": "Linking concerns to impact",
+    "body": "<p dir=\"ltr\">In order to evaluate each concern, it is necessary to establish potential impacts.&nbsp;See if you can match the&nbsp;concerns from before with potential impact:</p>",
     "_classes": "",
     "_trackingId": 23,
     "instruction": "",
@@ -980,8 +1046,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f22a58fd9139d00c79a75ba",
-    "_parentId": "5f229ddad9139d00c79a75ae",
+    "_id": "5f5630cde3e277005c8a9136",
+    "_parentId": "5f56255ae3e277005c8a90ed",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -991,6 +1057,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1012,8 +1081,8 @@
     }
   },
   {
-    "title": "Topics",
-    "displayTitle": "",
+    "title": "The risks of NOT sharing data",
+    "displayTitle": "The risks of NOT sharing data",
     "body": "",
     "_classes": "",
     "_trackingId": 24,
@@ -1024,8 +1093,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f22beb7d9139d00c79a75e7",
-    "_parentId": "5f22bcf7d9139d00c79a75df",
+    "_id": "5f563894e3e277005c8a9169",
+    "_parentId": "5f563894e3e277005c8a9168",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1035,6 +1104,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1056,10 +1128,10 @@
     }
   },
   {
-    "title": "The rights of individuals over personal data",
-    "displayTitle": "The rights of individuals over personal data",
+    "title": "Categories of risks",
+    "displayTitle": "",
     "body": "",
-    "_classes": "",
+    "_classes": "section-banner",
     "_trackingId": 25,
     "instruction": "",
     "_isOptional": false,
@@ -1068,8 +1140,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f22d50dd9139d00c79a7605",
-    "_parentId": "5f22d3ebd9139d00c79a75ff",
+    "_id": "5f563959e3e277005c8a9177",
+    "_parentId": "5f563926e3e277005c8a9170",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1079,6 +1151,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1100,9 +1175,9 @@
     }
   },
   {
-    "title": "Data protection and anonymised/synthentic data",
-    "displayTitle": "Data protection and anonymised/synthentic data",
-    "body": "",
+    "title": "Identifying risks in data",
+    "displayTitle": "Identifying risks in data",
+    "body": "<p>We have produced a set of questions to help identify data that may have risks.&nbsp;The FAIR data toolbox contains a guide to help identify risks in data, which includes these questions.&nbsp;</p><p>First think about the sources of your data:</p><ul><li>Do you have the rights to collect, access, use and share the data?</li><li>Is there any third party data (data owned by someone else) in the data?</li><li>Is there any existing ethical or legislative context you need to consider (e.g. in country and funder policies)?</li><li>Is the data properly described including its limitations, gaps, inconsistencies or biases?<br />&nbsp;</li></ul>",
     "_classes": "",
     "_trackingId": 26,
     "instruction": "",
@@ -1112,8 +1187,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f22d689d9139d00c79a761c",
-    "_parentId": "5f22d609d9139d00c79a7613",
+    "_id": "5f563ca1e3e277005c8a9194",
+    "_parentId": "5f563ca1e3e277005c8a9193",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1121,8 +1196,11 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1144,8 +1222,8 @@
     }
   },
   {
-    "title": "Topics",
-    "displayTitle": "",
+    "title": "Publishing crop infection data",
+    "displayTitle": "Publishing crop infection data",
     "body": "",
     "_classes": "",
     "_trackingId": 27,
@@ -1156,8 +1234,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f31425cde0993008a59446b",
-    "_parentId": "5f31425cde0993008a594462",
+    "_id": "5f56432de3e277005c8a91ae",
+    "_parentId": "5f56432de3e277005c8a91ab",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1167,6 +1245,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1188,8 +1269,8 @@
     }
   },
   {
-    "title": "Q3 - Common barriers",
-    "displayTitle": "Common barriers",
+    "title": "Q3 - Common constraints in delivering data transformative grants",
+    "displayTitle": "Common constraints in delivering data transformative grants",
     "body": "",
     "_classes": "",
     "_trackingId": 28,
@@ -1200,8 +1281,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f31425cde0993008a59446d",
-    "_parentId": "5f31425cde0993008a594463",
+    "_id": "5f2042d4649ca8005e769a47",
+    "_parentId": "5f2042b6649ca8005e769a3e",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -1211,6 +1292,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1244,6 +1328,382 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
+    "_id": "5f204bd0649ca8005e769a71",
+    "_parentId": "5f204bbf649ca8005e769a6e",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f204d2e649ca8005e769a77",
+    "_parentId": "5f203b30649ca8005e769a11",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying grants where data transformation must be considered",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22a58fd9139d00c79a75ba",
+    "_parentId": "5f229ddad9139d00c79a75ae",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22beb7d9139d00c79a75e7",
+    "_parentId": "5f22bcf7d9139d00c79a75df",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The rights of individuals over personal data",
+    "displayTitle": "The rights of individuals over personal data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22d50dd9139d00c79a7605",
+    "_parentId": "5f22d3ebd9139d00c79a75ff",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data protection and anonymised/synthentic data",
+    "displayTitle": "Data protection and anonymised/synthentic data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f22d689d9139d00c79a761c",
+    "_parentId": "5f22d609d9139d00c79a7613",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Topics",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446b",
+    "_parentId": "5f31425cde0993008a594462",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Q3 - Common barriers",
+    "displayTitle": "Common barriers",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f31425cde0993008a59446d",
+    "_parentId": "5f31425cde0993008a594463",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
     "_id": "5f31425dde0993008a594472",
     "_parentId": "5f31425cde0993008a594464",
     "_type": "block",
@@ -1255,6 +1715,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1280,7 +1743,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1299,6 +1762,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1324,7 +1790,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1343,6 +1809,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1368,7 +1837,7 @@
     "displayTitle": "Stakeholders in enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1387,6 +1856,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1412,7 +1884,7 @@
     "displayTitle": "Completing a data country profile",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1431,6 +1903,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1456,7 +1931,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1475,6 +1950,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1500,7 +1978,7 @@
     "displayTitle": "What to do when things are unclear",
     "body": "",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1519,6 +1997,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1544,7 +2025,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1563,6 +2044,291 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying risks and concerns",
+    "displayTitle": "Identifying risks and concerns",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 45,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56255ae3e277005c8a90f2",
+    "_parentId": "5f56255ae3e277005c8a90ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Linking concerns to impact",
+    "displayTitle": "Linking concerns to impact",
+    "body": "<p dir=\"ltr\">In order to evaluate each concern, it is necessary to establish potential impacts.&nbsp;See if you can match the&nbsp;concerns from before with potential impact:</p>",
+    "_classes": "",
+    "_trackingId": 46,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f5631b8e3e277005c8a913e",
+    "_parentId": "5f56255ae3e277005c8a90ed",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Legal and ethical risks to people",
+    "displayTitle": "Legal and ethical risks to people",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563926e3e277005c8a9171",
+    "_parentId": "5f563926e3e277005c8a9170",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Strategies to help minimise risks",
+    "displayTitle": "Strategies to help minimise risks",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 48,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563d42e3e277005c8a919d",
+    "_parentId": "5f563ca1e3e277005c8a9193",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Publishing soil sample data",
+    "displayTitle": "Publishing soil sample data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 49,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56432de3e277005c8a91ad",
+    "_parentId": "5f56432de3e277005c8a91ab",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Publishing crime data",
+    "displayTitle": "Publishing crime data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56434be3e277005c8a91b6",
+    "_parentId": "5f56255ae3e277005c8a90ee",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1588,7 +2354,7 @@
     "displayTitle": "Introducing data transformation",
     "body": "",
     "_classes": "",
-    "_trackingId": 37,
+    "_trackingId": 51,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1607,6 +2373,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1632,7 +2401,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 52,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1651,6 +2420,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1676,7 +2448,7 @@
     "displayTitle": "Roles and responsibilities (Project Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 53,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1695,6 +2467,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1720,7 +2495,7 @@
     "displayTitle": "Classifying personal and sensitive data",
     "body": "<p>See if you can classify the following types of data into personal, sensitive personal, sensitive commercial or neither personal nor commercial.</p>",
     "_classes": "",
-    "_trackingId": 40,
+    "_trackingId": 54,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1739,6 +2514,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1764,7 +2542,7 @@
     "displayTitle": "The role of data protection regulations",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 55,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1783,6 +2561,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1808,7 +2589,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 42,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1827,6 +2608,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1852,7 +2636,7 @@
     "displayTitle": "What makes data FAIR and safeguarded?",
     "body": "",
     "_classes": "",
-    "_trackingId": 43,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1871,6 +2655,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1896,7 +2683,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 44,
+    "_trackingId": 58,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1915,6 +2702,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1940,7 +2730,7 @@
     "displayTitle": "Roles and responsibilities (Program Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 45,
+    "_trackingId": 59,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1959,6 +2749,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1984,7 +2777,7 @@
     "displayTitle": "The enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 46,
+    "_trackingId": 60,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2003,6 +2796,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2028,7 +2824,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 47,
+    "_trackingId": 61,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2047,6 +2843,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2072,7 +2871,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 48,
+    "_trackingId": 62,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2091,6 +2890,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2116,7 +2918,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 49,
+    "_trackingId": 63,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2135,6 +2937,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2160,7 +2965,7 @@
     "displayTitle": "Identifying open, shared and closed data",
     "body": "<p>Can you match the descriptions below to the types of data on the spectrum.</p>",
     "_classes": "",
-    "_trackingId": 50,
+    "_trackingId": 64,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2179,6 +2984,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2204,7 +3012,7 @@
     "displayTitle": "Mapping data ecosystems",
     "body": "",
     "_classes": "",
-    "_trackingId": 51,
+    "_trackingId": 65,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2223,6 +3031,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2248,7 +3059,7 @@
     "displayTitle": "The value of reusing data from third party sources",
     "body": "",
     "_classes": "",
-    "_trackingId": 52,
+    "_trackingId": 66,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2267,6 +3078,197 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The terminology of risks",
+    "displayTitle": "The terminology of risks",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 67,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56255ae3e277005c8a90f3",
+    "_parentId": "5f56255ae3e277005c8a90ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Linking concerns to impact",
+    "displayTitle": "Linking concerns to impact",
+    "body": "<p>In order to evaluate each concern, it is necessary to establish potential impacts.&nbsp;See if you can match the&nbsp;concerns from before with potential impact:</p>",
+    "_classes": "",
+    "_trackingId": 68,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f5631bde3e277005c8a9144",
+    "_parentId": "5f56255ae3e277005c8a90ed",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Commercial risks",
+    "displayTitle": "Commercial risks",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 69,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563ae4e3e277005c8a9181",
+    "_parentId": "5f563926e3e277005c8a9170",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Tools to help identify and manage risk",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 70,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563df7e3e277005c8a91a2",
+    "_parentId": "5f563ca1e3e277005c8a9193",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2292,7 +3294,7 @@
     "displayTitle": "Why data transformation is critical to realise wider BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 53,
+    "_trackingId": 71,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2311,6 +3313,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2336,7 +3341,7 @@
     "displayTitle": "Common constraints (2): Security, privacy and trust",
     "body": "",
     "_classes": "",
-    "_trackingId": 54,
+    "_trackingId": 72,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2355,6 +3360,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2380,7 +3388,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 55,
+    "_trackingId": 73,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2399,6 +3407,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2424,7 +3435,7 @@
     "displayTitle": "Defining personal, sensitive personal and sensitive commercial data",
     "body": "",
     "_classes": "",
-    "_trackingId": 56,
+    "_trackingId": 74,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2443,6 +3454,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2468,7 +3482,7 @@
     "displayTitle": "Why FAIR and safeguarded data?",
     "body": "",
     "_classes": "",
-    "_trackingId": 57,
+    "_trackingId": 75,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2487,6 +3501,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2512,7 +3529,7 @@
     "displayTitle": "Common constraints (2): Security and privacy",
     "body": "",
     "_classes": "",
-    "_trackingId": 58,
+    "_trackingId": 76,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2531,6 +3548,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2556,7 +3576,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 59,
+    "_trackingId": 77,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2575,6 +3595,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2600,7 +3623,7 @@
     "displayTitle": "Factors that contribute to an enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 60,
+    "_trackingId": 78,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2619,6 +3642,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2644,7 +3670,7 @@
     "displayTitle": "The role of the Foundation as a stakeholder",
     "body": "<p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>These include investing in technical infrastructure, improving skills and knowledge and the creation of policies and processes to support FAIR and safeguarded data practices.</p>",
     "_classes": "",
-    "_trackingId": 61,
+    "_trackingId": 79,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2663,6 +3689,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2688,7 +3717,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 62,
+    "_trackingId": 80,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2707,6 +3736,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2732,7 +3764,7 @@
     "displayTitle": "Considering reusability of data from third party sources",
     "body": "<p>As a user of the third party data, beyond obtaining rights to reuse the data, you will need to check the practical reusability of the data.</p><p>The FAIR data toolbox includes a case study on harmonising data from third party sources.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 63,
+    "_trackingId": 81,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2751,6 +3783,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2776,7 +3811,7 @@
     "displayTitle": "Mapping data spectrums",
     "body": "",
     "_classes": "",
-    "_trackingId": 64,
+    "_trackingId": 82,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2795,6 +3830,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2820,7 +3858,7 @@
     "displayTitle": "Barriers in reusing data from third party sources",
     "body": "",
     "_classes": "",
-    "_trackingId": 65,
+    "_trackingId": 83,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2839,6 +3877,103 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Identifying actions, concerns, causes and impacts",
+    "displayTitle": "Identifying actions, concerns, causes and impacts",
+    "body": "<p>Which of these is an Action, Concern, Cause and Impact?</p>",
+    "_classes": "",
+    "_trackingId": 84,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f562c06e3e277005c8a912b",
+    "_parentId": "5f56255ae3e277005c8a90ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Reputation risks",
+    "displayTitle": "Reputation risks",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 85,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563baae3e277005c8a9187",
+    "_parentId": "5f563926e3e277005c8a9170",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2864,7 +3999,7 @@
     "displayTitle": "What makes data FAIR and transformative?",
     "body": "",
     "_classes": "",
-    "_trackingId": 66,
+    "_trackingId": 86,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2883,6 +4018,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2908,7 +4046,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 67,
+    "_trackingId": 87,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2927,6 +4065,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2952,7 +4093,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 68,
+    "_trackingId": 88,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2971,6 +4112,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2996,7 +4140,7 @@
     "displayTitle": "Who owns personal data?",
     "body": "<p>When you put intellectual effort (thought) into creating something, you own that work and you have certain Intellectual property rights. Intellectual property rights are of critical importance to understand when you are seeking to collect, use and share data.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 69,
+    "_trackingId": 89,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3015,6 +4159,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3040,7 +4187,7 @@
     "displayTitle": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 70,
+    "_trackingId": 90,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3059,6 +4206,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3084,7 +4234,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 71,
+    "_trackingId": 91,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3103,6 +4253,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3128,7 +4281,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 72,
+    "_trackingId": 92,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3147,6 +4300,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3172,7 +4328,7 @@
     "displayTitle": "Factors that disrupt the enabling environment ",
     "body": "",
     "_classes": "",
-    "_trackingId": 73,
+    "_trackingId": 93,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3191,6 +4347,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3216,7 +4375,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 74,
+    "_trackingId": 94,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3235,6 +4394,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3260,7 +4422,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 75,
+    "_trackingId": 95,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3279,6 +4441,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3304,7 +4469,7 @@
     "displayTitle": "The importance of rights and permissions in data",
     "body": "",
     "_classes": "",
-    "_trackingId": 76,
+    "_trackingId": 96,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3323,6 +4488,103 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Risks: What can you control",
+    "displayTitle": "Risks: What can you control",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 97,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56255ae3e277005c8a90f4",
+    "_parentId": "5f56255ae3e277005c8a90ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Wider economic, societal and environmental risks",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 98,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563c1be3e277005c8a918d",
+    "_parentId": "5f563926e3e277005c8a9170",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3348,7 +4610,7 @@
     "displayTitle": "Supporting FAIR and transformative data",
     "body": "",
     "_classes": "",
-    "_trackingId": 77,
+    "_trackingId": 99,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3367,6 +4629,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3392,7 +4657,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 78,
+    "_trackingId": 100,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3411,6 +4676,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3436,7 +4704,7 @@
     "displayTitle": "The importance of understanding who owns personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 79,
+    "_trackingId": 101,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3455,6 +4723,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3480,7 +4751,7 @@
     "displayTitle": "Delivering FAIR and safeguarded data within investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 80,
+    "_trackingId": 102,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3499,6 +4770,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3524,7 +4798,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 81,
+    "_trackingId": 103,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3543,6 +4817,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3568,7 +4845,7 @@
     "displayTitle": "Identifying next steps",
     "body": "",
     "_classes": "",
-    "_trackingId": 82,
+    "_trackingId": 104,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3587,6 +4864,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {

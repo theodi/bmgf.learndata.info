@@ -373,5 +373,80 @@
         }
       }
     }
+  },
+  {
+    "title": "Minimising harmful impacts from data",
+    "displayTitle": "Minimising harmful impacts from data",
+    "body": "<p>Some of the biggest barriers to delivering FAIR and safeguarded data within investments can be concerns of data security and privacy along with a mis-trust in data or others use of data. Understanding risks and being able to evaluate the real and perceived impact is critical to overcoming these barriers, increasing confidence in wider sharing of data while minimising harmful impacts.&nbsp;</p><p>The aim of this module is to help everyone understand the building blocks of risk, how to analyse them and take steps to minimise harmful impacts.&nbsp;</p><p>&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f56255ae3e277005c8a90ea",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d93d01b7a5723176b53fb5c3dff8428c51bf86b0.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
   }
 ]
