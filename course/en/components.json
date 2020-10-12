@@ -2893,9 +2893,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/87769ba56a96d692ebb4a0ac650858596ccb1bdf.png",
+      "small": "course/en/assets/87769ba56a96d692ebb4a0ac650858596ccb1bdf.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -2927,9 +2927,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/8c1b0ea7cbdc6b3ea1a1a57889ec27adb63a6727.png",
+      "small": "course/en/assets/8c1b0ea7cbdc6b3ea1a1a57889ec27adb63a6727.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -2989,9 +2989,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/8defe8045ed79fc6de4defd44f20bf30d3d45684.png",
+      "small": "course/en/assets/8defe8045ed79fc6de4defd44f20bf30d3d45684.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -3146,9 +3146,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
-      "small": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
-      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+      "large": "course/en/assets/5efc2faa7b04dcb6f2f28950c0e6f04d5daf3434.png",
+      "small": "course/en/assets/5efc2faa7b04dcb6f2f28950c0e6f04d5daf3434.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -3208,9 +3208,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/1f43f5995a5725b67d48cd11e8d5751d292cce6a.png",
-      "small": "course/en/assets/1f43f5995a5725b67d48cd11e8d5751d292cce6a.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">CABI/ODI</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+      "large": "course/en/assets/dc1f9d5eeabe55717ab2854196b3966496af8009.png",
+      "small": "course/en/assets/dc1f9d5eeabe55717ab2854196b3966496af8009.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -3875,7 +3875,7 @@
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Whether designing an intervention, technology, product or research study, integrating data</p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3999,7 +3999,7 @@
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 2,
+    "_selectable": 1,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>Grantees need to take a key role in delivering FAIR and safeguarded data within investments. Primarily this involves addressing the core constraints, considering and planning for data access, use and sharing from the outset, educating themselves and others to overcome fears and putting in place the policies and processes that will not only support their grant, but lead to increased data utility and return of value from the data.</p>",

@@ -183,14 +183,6 @@
     "attribution": "CABI/ODI",
     "tags": []
   },
-  "1f43f5995a5725b67d48cd11e8d5751d292cce6a.png": {
-    "title": "People, Process, Technology triangle",
-    "description": "People, Process, Technology triangle",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "CABI/ODI",
-    "tags": []
-  },
   "11312a0e03cd3c33c1fd031cad11748368da7cc3.png": {
     "title": "BMGF Barrier",
     "description": "BMGF Barrier",
@@ -253,6 +245,46 @@
     "source": "https://www.smartsheet.com/all-risk-assessment-matrix-templates-you-need",
     "licence": "CC-BY-SA",
     "attribution": "Smart Sheet",
+    "tags": []
+  },
+  "8defe8045ed79fc6de4defd44f20bf30d3d45684.png": {
+    "title": "F&S1",
+    "description": "F&S1",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "87769ba56a96d692ebb4a0ac650858596ccb1bdf.png": {
+    "title": "F&S2",
+    "description": "F&S2",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "8c1b0ea7cbdc6b3ea1a1a57889ec27adb63a6727.png": {
+    "title": "F&S3",
+    "description": "F&S3",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "5efc2faa7b04dcb6f2f28950c0e6f04d5daf3434.png": {
+    "title": "F&S4",
+    "description": "F&S4",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "dc1f9d5eeabe55717ab2854196b3966496af8009.png": {
+    "title": "F&S5",
+    "description": "F&S5",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
     "tags": []
   }
 }
