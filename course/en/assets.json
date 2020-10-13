@@ -87,6 +87,14 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
+  "97ac7eae69e4bf9f154377863844e541e170cbc1.png": {
+    "title": "Marker public",
+    "description": "Marker public",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
   "42c72b8e96ed93af8487939961df6e625478b5bf.png": {
     "title": "Marker shared",
     "description": "Marker shared",
@@ -306,6 +314,110 @@
   "57e7eacf689e62acb303f699502d9d30c676db42.jpg": {
     "title": "roles&responsibilities-grantees",
     "description": "roles&responsibilities-grantees",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "0d1f9bfdf46b4cee49bf27951edefe92ef022573.jpg": {
+    "title": "Enabling_environment_question",
+    "description": "Enabling_environment_question",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "968c834885447ad23f20f9e793a9e157aa0f5e2b.jpg": {
+    "title": "Enabling_environment_answers",
+    "description": "Enabling_environment_answers",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "c6c623bc53e37c4102d3d02278e7a5e06860113a.jpg": {
+    "title": "Enabling_environment_disruptors",
+    "description": "Enabling_environment_disruptors",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "7b5a0af43669faf65140a86c28e0ba45ea3a4b77.jpg": {
+    "title": "Enabling_environment_actors",
+    "description": "Enabling_environment_actors",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "56755d97795e828fba42dafcad5aedfa18d5c145.jpg": {
+    "title": "Enabling_environment_bmgf",
+    "description": "Enabling_environment_bmgf",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "e81a6b8f077c9b579f28a8aed7eb0be3553373e5.jpg": {
+    "title": "Enabling_environment_checklist",
+    "description": "Enabling_environment_checklist",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "acdc99be9664a477a0f44b808790973489a218b5.jpg": {
+    "title": "Enabling_environment_process",
+    "description": "Enabling_environment_process",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "7756329af8922707742b976e8be52a3a3cd742f8.jpg": {
+    "title": "Enabling_environment_roles",
+    "description": "Enabling_environment_roles",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "d18cd85f28e79a540e6bf3a733e810b7a8bc098b.jpg": {
+    "title": "Enabling_environment_actions",
+    "description": "Enabling_environment_actions",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "5d0936a75495f51255120e5d6245e22c86083e69.jpg": {
+    "title": "world-wide-web",
+    "description": "world-wide-web",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "c17c42b2ee75d4c52ac638093cae1e11dfdef496.jpg": {
+    "title": "open-shared-closed",
+    "description": "open-shared-closed",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "77479f0e544d6afa704591d61b6887627eb36b1b.jpg": {
+    "title": "fair-use-copyright",
+    "description": "fair-use-copyright",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "ca90f129a8cbd51e57e6a3ecc3c5d6635fed79cc.jpg": {
+    "title": "mapping-data-spectrums",
+    "description": "mapping-data-spectrums",
     "source": "https://theodi.org",
     "licence": "CC-BY",
     "attribution": "Open Data Institute",
