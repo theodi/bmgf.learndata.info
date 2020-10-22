@@ -1242,12 +1242,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1645,8 +1645,8 @@
     }
   },
   {
-    "title": "Q3 - Common barriers",
-    "displayTitle": "Common barriers",
+    "title": "Q3 - Constraints to sharing data",
+    "displayTitle": "Constraints to sharing data",
     "body": "",
     "_classes": "",
     "_trackingId": 36,
@@ -1665,12 +1665,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2276,12 +2276,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2679,8 +2679,8 @@
     }
   },
   {
-    "title": "Common constraints (1): Data sharing and access",
-    "displayTitle": "Common constraints (1): Data sharing and access",
+    "title": "Overcoming constraints in data sharing and access",
+    "displayTitle": "Overcoming constraints in data sharing and access",
     "body": "",
     "_classes": "",
     "_trackingId": 58,
@@ -2699,12 +2699,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3525,8 +3525,8 @@
     }
   },
   {
-    "title": "Common constraints (2): Security and privacy",
-    "displayTitle": "Common constraints (2): Security and privacy",
+    "title": "Overcoming constraints in security and privacy",
+    "displayTitle": "Overcoming constraints in security and privacy",
     "body": "",
     "_classes": "",
     "_trackingId": 76,
@@ -3545,12 +3545,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3666,9 +3666,9 @@
     }
   },
   {
-    "title": "The role of the Foundation as a stakeholder",
-    "displayTitle": "The role of the Foundation as a stakeholder",
-    "body": "<p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>These include investing in technical infrastructure, improving skills and knowledge and the creation of policies and processes to support FAIR and safeguarded data practices.</p>",
+    "title": "The role of the foundation as a stakeholder",
+    "displayTitle": "The role of the foundation as a stakeholder",
+    "body": "<p>The foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>This could include investing in technical infrastructure, improving skills and knowledge and the creation of policies and processes to support FAIR and safeguarded data practices.</p>",
     "_classes": "",
     "_trackingId": 79,
     "instruction": "",
@@ -3686,12 +3686,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -4230,8 +4230,8 @@
     }
   },
   {
-    "title": "Common constraints (3): Trust and benefits",
-    "displayTitle": "",
+    "title": "Overcoming constraints related to trust and benefits",
+    "displayTitle": "Overcoming constraints related to trust and benefits",
     "body": "",
     "_classes": "",
     "_trackingId": 91,
@@ -4250,12 +4250,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {

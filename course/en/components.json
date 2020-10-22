@@ -2795,26 +2795,26 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer then click 'submit'",
+    "instruction": "Select two answers then click 'submit'",
     "_items": [
       {
         "text": "Ensure fair and equitable access to data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Boost return on investment in data rich grants through wider data sharing",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Protect the rights and interests of individuals affected by the collection, use and sharing of data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Increase the need to collect data",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "All of the above",
-        "_shouldBeSelected": true,
+        "text": "Improve data analysis skills of those working on investments",
+        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -2823,10 +2823,10 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>FAIR and safeguarded data within an investment focuses on making data as open as possible, while minimising harmful impacts.&nbsp;</p><p>Access to data is not always equitable and the rights and interests of individuals affected by the collection, use and sharing of data are not always considered. This restricts the value that can be created from data, limiting its use in decision making, and the potential return on investments.</p>",
@@ -2944,7 +2944,7 @@
     "_disableAccessibilityState": false,
     "title": "Why data transformation is critical to realise wider BMGF aims",
     "displayTitle": "",
-    "body": "<p><strong>The Bill and Melinda Gates Foundation is committed to information sharing and transparency</strong>. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded.</p><p>Currently, digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and use to reduce risk and improve decisions. Data is often not shared or managed well, which means that the Gates Foundation does not receive the highest possible return from investments and the value that can be created from data is not realised.</p>",
+    "body": "<p><strong>The Bill and Melinda Gates Foundation is committed to information sharing and transparency</strong>. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded.</p><p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and use to reduce risk and improve decisions. Data is often not shared or managed well, which means that the Gates Foundation does not receive the highest possible return from investments and the value that can be created from data is not realised.</p>",
     "_id": "5f31425dde0993008a594483",
     "_parentId": "5f31425cde0993008a594468",
     "_type": "component",
@@ -3006,7 +3006,7 @@
     "_disableAccessibilityState": false,
     "title": "What makes data FAIR and safeguarded?",
     "displayTitle": "",
-    "body": "<p>Value can be created from data when it is <strong>collected</strong>, <strong>accessed</strong>, <strong>used </strong>and <strong>shared</strong>. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p><strong>FAIR </strong>data is that which is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable by others.&nbsp;</p><p><strong>Safeguarded </strong>data is managed and sustained <strong>equitably </strong>and <strong>ethically</strong>; making it as open as possible while reducing harmful impacts.</p>",
+    "body": "<p>Data can be observations, samples, numbers, images or other resources. When data is processed, analysed or presented in a given context so as to make it useful, it is called information.</p><p>Value can be created from data when it is <strong>collected</strong>, <strong>accessed</strong>, <strong>used </strong>and <strong>shared</strong>. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.</p><p><strong>FAIR </strong>data is that which is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable by others.&nbsp;</p><p><strong>Safeguarded </strong>data is managed and governed&nbsp;<strong>equitably </strong>and <strong>ethically</strong>; making it as open as possible while reducing harmful impacts.</p>",
     "_id": "5f31425dde0993008a594487",
     "_parentId": "5f31425cde0993008a594469",
     "_type": "component",
@@ -3048,26 +3048,26 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer then click 'submit'",
+    "instruction": "Select three answers then click 'submit'",
     "_items": [
       {
         "text": "A set of technologies, standards and platforms",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Well defined processes and policies around data",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "People to lead, support and advocate for FAIR and transformative data",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
-        "text": "All of the above",
-        "_shouldBeSelected": true,
+        "text": "A commercial entity to lead a data monopoly",
+        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -3076,10 +3076,10 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 3,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies </strong>and <strong>processes </strong>that support the use of <strong>technology</strong>; you need to maintain equal focus on all aspects to maximise the utility of data.</p>",
@@ -3225,7 +3225,7 @@
     "_disableAccessibilityState": false,
     "title": "People, Process and Technology",
     "displayTitle": "People, Process and Technology",
-    "body": "<p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies and processes</strong> that support the use of <strong>technology</strong>; you need to maintain equal focus on all aspects to maximise the utility of data.</p>",
+    "body": "<p>Key to ensuring data is FAIR and safeguarded are the <strong>people</strong>, <strong>policies and processes</strong> that support the use of <strong>technology</strong>; you need to maintain equal focus on all aspects to maximise the utility of data.</p><p>Without people to lead, support and advocate for FAIR data, communities represented by or impacted by the data are at risk of not having their needs met, or worse at risk of harm. Without policies and processes that inform the use and management of data assets, there is unlikely to be sustainable access to data. Both of these aspects need to be supported with technologies and standards to curate and provide access to data.</p>",
     "_id": "5f31425dde0993008a594490",
     "_parentId": "5f31425cde0993008a59446c",
     "_type": "component",
@@ -3251,9 +3251,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Common barriers",
+    "title": "Constraints to sharing data",
     "displayTitle": "",
-    "body": "<p>Which of the following are common barriers to delivering FAIR and safeguarded data within investments?</p>",
+    "body": "<p>Which of the following are common constraints to delivering FAIR and safeguarded data within investments?</p>",
     "_id": "5f31425dde0993008a594491",
     "_parentId": "5f31425cde0993008a59446d",
     "_type": "component",
@@ -3301,9 +3301,9 @@
     "_selectable": 2,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and mis-trust in data or others use of data are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>Lack of willingness to sharing data, driven by concerns of data security and mis-trust in data or others use of data can often limit the value that can be created from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section looks at the common constraints in more detail and what needs to be done to overcome each.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Cultural resistance to sharing data, driven by concerns of data security and mis-trust in data or others use of data are the most common barriers to achieving impact from data. Technology and data are rarely in short supply.</p><p>The following section introduces common constraints related to these barriers in delivering FAIR and safeguarded data within investments and what needs to be done to overcome each.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Lack of willingness to sharing data, driven by concerns of data security and mis-trust in data or others use of data can often limit the value that can be created from data. Technology and data are rarely in short supply.&nbsp;</p><p>The following section looks at the common constraints in more detail and what needs to be done to overcome each.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3414,9 +3414,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Common constraints (1): Data sharing and access",
+    "title": "Overcoming constraints in data sharing and access",
     "displayTitle": "",
-    "body": "<p>One of the biggest barriers is the lack of cultural willingness to share data. This scenario is common where <strong>policies and process</strong> are not equal in focus to <strong>technology</strong>.&nbsp;</p><p>Within grants this could look like; no data sharing mechanisms or a lack of confidence in them, silo’s within organisations or governments meaning processes and approaches differ or changes in leadership impacting investment in sharing.&nbsp;</p><p>In this scenario, <strong>policies and processes</strong> are restrictive and do not support the sharing and reuse of data. This results in a closed (or walled garden) environment which can greatly reduce innovation capabilities and prevent data reaching those who can benefit from fair and equitable access.&nbsp;</p><p>Developing, enforcing and adhering to policies and processes that support <strong>data sharing and access</strong> is key to overcome this constraint.</p>",
+    "body": "<p>One of the biggest challenges to overcome a lack of willingness to share data. This challenge is common where there are constraints around data sharing and access due to a lack of clear policy and process. Data sharing and access processes are important for people to feel comfortable accessing, using and sharing data.</p><p>Within grants this could look like; no data sharing mechanisms or a lack of confidence in them, silo’s within organisations or governments meaning processes and approaches differ or changes in leadership impacting investment in sharing.&nbsp;</p><p>In this scenario, <strong>policies and processes</strong> are restrictive and do not support the sharing and reuse of data. This results in a closed (or walled garden) environment which can greatly reduce innovation capabilities and prevent data reaching those who can benefit from fair and equitable access.&nbsp;</p><p><strong>Developing, enforcing and adhering to policies and processes that support data sharing and access is key to overcome this constraint.&nbsp;</strong></p><p>Explore more about how to support data sharing and access though the related modules:</p><ul><li>Maximising reuse of data through licensing and sharing</li><li>Assessing in country policies and laws to support data sharing</li></ul>",
     "_id": "5f31425dde0993008a594499",
     "_parentId": "5f31425cde0993008a59446e",
     "_type": "component",
@@ -3476,9 +3476,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Common constraints (2): Security and privacy",
+    "title": "Overcoming constraints in security and privacy",
     "displayTitle": "",
-    "body": "<p>Another common barrier is a lack of trust in others' use of data.&nbsp;This scenario is common where <strong>people </strong>are not equal in focus to <strong>technology</strong>.&nbsp;</p><p>Within grants this could look like; a lack of trust and understanding among stakeholders, limited understanding of key data concepts, or a lack of understanding of national, regional or international data policies or legislation.</p><p>This is most prevalent in situations where <strong>people </strong>have unaddressed fears arising from legitimate concerns – such as data security, privacy and trust over who has access to data and how it might be used.&nbsp;</p><p>Supporting <strong>people </strong>with key data literacy skills is critical to help people overcome their fears and show how aspects such as data protection regulations, data security and licensing can in fact support the wider sharing of data.</p>",
+    "body": "<p>Another challenge to overcome is a lack of trust in others' use of data. This is most prevalent in situations where people have unaddressed fears arising from legitimate concerns – such as data security, privacy and trust over who has access to data and how it might be used.&nbsp;</p><p>Within grants this could look like; a lack of trust and understanding among stakeholders, limited understanding of key data concepts, or a lack of understanding of national, regional or international data policies or legislation.</p><p><strong>Supporting people with key data literacy skills is critical to help people overcome their fears and show how aspects such as data protection regulations, data security and licensing can in fact support the wider sharing of data.</strong><br /><br />Explore more about how to support data sharing and access though the related modules:</p><ul><li>Protecting the rights of individuals while maximising the utility of data</li><li>Minimising harmful impacts from data<br />&nbsp;</li></ul>",
     "_id": "5f31425dde0993008a59449e",
     "_parentId": "5f31425cde0993008a59446f",
     "_type": "component",
@@ -3562,7 +3562,7 @@
       {
         "title": "Data sharing in India",
         "_ariaLevel": 0,
-        "body": "<p>The Cereal Systems Initiative for South Asia (CSISA) intended to embed FAIR data in activities, but found challenges in both putting in place the right data sharing agreements and getting support from those who had fears of data security, privacy and trust. Through a series of training courses, accompanied by policy advice, CABI/ODI have supported CSISA and its community to help overcome fears, realise benefits and to put in place new data sharing agreements that ensure data is made as open as possible, while minimising harmful impacts.</p>",
+        "body": "<p>The<a href=\"https://csisa.org/\" target=\"_blank\"> Cereal Systems Initiative for South Asia (CSISA)</a> intended to embed FAIR data in activities, but found challenges in both putting in place the right data sharing agreements and getting support from those who had fears of data security, privacy and trust. Through a series of training courses, accompanied by policy advice, CABI/ODI have supported CSISA and its community to help overcome fears, realise benefits and to put in place new data sharing agreements that ensure data is made as open as possible, while minimising harmful impacts.</p>",
         "_graphic": {
           "src": "course/en/assets/3c4d2a472690b3e7732a6f7a11b7a01e19a3a16c.png",
           "alt": "",
@@ -3573,13 +3573,13 @@
       {
         "title": "The BonaRes Repository",
         "_ariaLevel": 0,
-        "body": "<p>BonaRes bring together experts in soil from over 50 institutions to research ways to balance efficient use of soils with protecting the environment with the end goal of supporting farmers to improve decision making.&nbsp;</p><p>To ensure data is findable the team published an open inventory of data they hold using a consistent vocabulary. They also tag all dataset with a licence that clearly outlines reuse rights.</p><p>Challenges are still being faced around fears of misuse and trust in the benefits of allow commercial reuse of the data.</p>",
+        "body": "<p><a href=\"https://www.bonares.de/\" target=\"_blank\">BonaRes </a>brings together experts in soil from over 50 institutions to research ways to balance efficient use of soils with protecting the environment with the end goal of supporting farmers to improve decision making.&nbsp;</p><p>To ensure data is findable the team published an open inventory of data they hold using a consistent vocabulary. They also tag all datasets with a licence that clearly outlines reuse rights.</p><p>Challenges are still being faced where there is a lack of trust in others use of data and benefits of permitting commercial reuse of the data.</p>",
         "_graphic": {
           "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",
           "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
         },
-        "strapline": "Case study 2"
+        "strapline": "The BonaRes Repository"
       },
       {
         "title": "Case study 3",
@@ -3640,7 +3640,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>The Bill and Melinda Gates Foundation is committed to information sharing and transparency. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded. That is, data is Findable, Accessible, Interoperable and Reusable to as many people as possible while minimising harmful impact</p><p>Key to supporting FAIR and safeguarded data within investments are the people, policies and processes that make use of technology. Maintaining equal focus on all aspects is key to maximize the utility of data.&nbsp;</p><p>The FAIR data toolbox contains key resources that can help everyone deliver FAIR and safeguarded data within investments.&nbsp;</p>",
+    "body": "<p>The Bill and Melinda Gates Foundation is committed to information sharing and transparency. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded. That is, data is Findable, Accessible, Interoperable and Reusable to as many people as possible while minimising harmful impact</p><p>Key to supporting FAIR and safeguarded data within investments are the <strong>people</strong>, <strong>policies and processes</strong> that make use of <strong>technology</strong>. Maintaining equal focus on all aspects is key to maximize the utility of data.&nbsp;</p><p>The FAIR data toolbox contains key resources that can help everyone deliver FAIR and safeguarded data within investments.&nbsp;</p><p><strong>What to do next</strong> - Identify whether your investment requires FAIR and safeguarded data.</p>",
     "_id": "5f31425dde0993008a5944aa",
     "_parentId": "5f31425dde0993008a594472",
     "_type": "component",
@@ -3839,15 +3839,10 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select two answers then click 'submit'",
+    "instruction": "Select your answer then click 'submit'",
     "_items": [
       {
         "text": "Identify actions and provide support to ensure data is FAIR and safeguarded within investments.",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Regularly benchmark FAIR and safeguarded data within investments to demonstrate progress.",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -3870,12 +3865,12 @@
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 2,
+    "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.&nbsp;</p><p>In addition, regularly benchmarking FAIR and safeguarded data within investments can demonstrate progress towards BMGF aims and objectives. To help with this, the toolbox contains a ‘FAIR and safeguarded data progress marker’.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Whether designing an intervention, technology, product or research study, integrating FAIR and safeguarded data can greatly contribute to the success and impact of an investment. Program Officers should identify actions and provide support to ensure data is FAIR and safeguarded within investments.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3968,26 +3963,26 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer then click 'submit'",
+    "instruction": "Select two answers then click 'submit'",
     "_items": [
       {
         "text": "To take responsibility for data transformation in their grants",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "To ensure compliance with national and international stakeholder and funder policies in delivering data transformation",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "To ensure activities balance focus on technology with process and capacity building for people",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "All of the above",
         "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To develop all new processes and technologies to support FAIR and safeguarded data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To only work with existing data",
+        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -3996,7 +3991,7 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
     "_selectable": 1,
@@ -4101,16 +4096,6 @@
     "_setCompletionOn": "allItems",
     "_items": [
       {
-        "title": "The FAIR and safeguarded data progress marker",
-        "body": "<p>The FAIR and safeguarded data progress marker presents key questions and an accompanying mark scheme. This key tool can help understand progress towards the Foundations commitment to information sharing and transparency, and implementation of the <a href=\"https://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy\" target=\"_blank\">open access policy.</a> It measures progress in delivering FAIR and safeguarded data within investments, while minimising harmful impacts.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
         "title": "Learning resources",
         "body": "<p>The toolbox also contains a number of eLearning modules that anyone can access to increase level of understand in how to deliver FAIR and safeguarded data within investments;&nbsp;</p><p>These include:</p><ul><li>Delivering data enabling investments (this one)</li><li>Assessing in country policies and laws to support data sharing</li><li>Working with data from multiple sources</li><li>Protecting rights of individuals while maximising the utility of data</li><li>Maximising reuse of data through licensing and sharing</li><li>Minimising harmful impacts from data</li><li>Building sustainable data ecosystems</li></ul><p>Each is available to everyone, both POs and Grantees, in the toolbox.</p>",
         "_graphic": {
@@ -4163,9 +4148,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Common constraints (3): Trust and benefits",
-    "displayTitle": "Common constraints (3): Trust and benefits",
-    "body": "<p>In addition to the two challenges we have introduced already, there is a third; <strong>trust &amp; benefits</strong>. Again this is about <strong>people</strong>.&nbsp;</p><p>Within investments this could look like; a lack of trust in the data produced, a lack of incentives to collect quality data, data being used as a ‘bargaining chip’, benefits of sharing not well understood or concerns others will unfairly benefit from data collected and shared.</p><p><strong>People </strong>need to have access to examples of where FAIR and safeguarded data has delivered benefits to all involved.</p>",
+    "title": "Overcoming constraints related to trust and benefits",
+    "displayTitle": "",
+    "body": "<p>In addition to the two challenges we have introduced already, there is a third; trust &amp; benefits. Again this is about people. When people mis-trust or are not clear on the benefits of sharing data this can again increase resistance to sharing.&nbsp;</p><p>Within investments this could look like; a lack of trust in the data produced, a lack of incentives to collect quality data, data being used as a ‘bargaining chip’, benefits of sharing not well understood or concerns others will unfairly benefit from data collected and shared.</p><p><strong>To help overcome this, people need to have access to examples of where FAIR and safeguarded data has delivered benefits to all involved.</strong></p><p>The toolbox contains a number of case studies from those who have addressed the challenges in delivering FAIR and safeguarded data, a number of which are summarised in the next section.&nbsp;</p>",
     "_id": "5f3d048c4d9d0f006498183d",
     "_parentId": "5f31425dde0993008a594470",
     "_type": "component",
@@ -4193,7 +4178,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction",
     "displayTitle": "",
-    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; <strong>people</strong>, <strong>policies and processes </strong>and <strong>technology</strong>.&nbsp;</p><p>A broad set of stakeholders, many within the wider data ecosystem, may also have to be engaged to ensure appropriate political, social, legal and technological frameworks are in place in-country to support FAIR and safeguarded data within investments.&nbsp;</p><p>In some situations, activities might have to focus exclusively on the enabling environment alongside or prior to investing in projects that seek to benefit from FAIR and safeguarded data in domains such as agriculture and health.&nbsp;</p>",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; <strong>people</strong>, <strong>policies and processes </strong>and <strong>technology</strong>.&nbsp;</p><p>A broad set of stakeholders, many within the wider data ecosystem, may also have to be engaged to ensure appropriate political, legal and regulatory frameworks are in place in-country to support FAIR and safeguarded data within investments.</p><p>In some situations, activities might have to focus exclusively on the enabling environment alongside or prior to investing in projects that seek to benefit from FAIR and safeguarded data in domains such as agriculture and health.&nbsp;</p>",
     "_id": "5f522138e8f6db433574b25a",
     "_parentId": "5f522138e8f6db433574b24d",
     "_type": "component",
@@ -4351,7 +4336,7 @@
     "_disableAccessibilityState": false,
     "title": "Factors that disrupt the enabling environment",
     "displayTitle": "",
-    "body": "<p>Factors that could disrupt the enabling environment are the same as common constraints to data use; politics, culture and technological capacity.&nbsp;</p><p>Political tensions, for example over land or borders could restrict data collection in those geographies. Technological capacity can also be impacted by politics, for example internet outages in response to social unrest, restricts communication and the exchange of data and information.&nbsp;</p><p>Cultural sensitivities and/or outdated practices in communities is also a factor. These are often driven by concerns of security and mis-trust in others' use of data. In turn this can restrict enabling policies and legislative frameworks from being created.</p>",
+    "body": "<p>Factors that could disrupt the enabling environment are the same as those which contribute to it; politics, culture and technological capacity.&nbsp;</p><p>Political tensions, for example over land or borders could restrict data collection in those geographies. Technological capacity can also be impacted by politics, for example internet outages in response to social unrest, restricts communication and the exchange of data and information.&nbsp;</p><p>Differing cultural norms and varying practices in communities can also be a factor. These are often driven by concerns of security and mis-trust in others' use of data. In turn this can restrict enabling policies and regulatory&nbsp;frameworks from being created.</p>",
     "_id": "5f522138e8f6db433574b26b",
     "_parentId": "5f522138e8f6db433574b252",
     "_type": "component",
@@ -4466,9 +4451,9 @@
     "_selectable": 3,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>The enabling environment is influenced by the organisations and communities that set the laws, policies and social norms. These include those who create the policies and legislative frameworks, those that encourage particular behaviours, those who advise on best practice, those who supply tools and services using data and those who provide evidence and analyses to help support and refine arguments and approach.&nbsp;</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>The enabling environment is influenced by the organisations and communities that set the laws, policies and social norms. These include those who create the policies and regulatory&nbsp;frameworks, those that encourage particular behaviours, those who advise on best practice, those who supply tools and services using data and those who provide evidence and analyses to help support and refine arguments and approach.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>The enabling environment is influenced by the organisations and communities that set the laws, policies and social norms. These include those who create the policies and legislative frameworks, those that encourage particular behaviours, those who advise on best practice, those who supply tools and services using data and those who provide evidence and analyses to help support and refine arguments and approach.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The enabling environment is influenced by the organisations and communities that set the laws, policies and social norms. These include those who create the policies and regulatory&nbsp;frameworks, those that encourage particular behaviours, those who advise on best practice, those who supply tools and services using data and those who provide evidence and analyses to help support and refine arguments and approach.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -4573,9 +4558,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " The role of the Foundation as a stakeholder",
+    "title": " The role of the foundation as a stakeholder",
     "displayTitle": "",
-    "body": "<p>The Foundation can support the enabling environment by;</p><ul><li>Supporting the <strong>people </strong>- by improving data literacy and skills, and facilitating engagement with communities that create or are impacted by the data.</li><li>Supporting the creation of <strong>policy and process</strong> - by encouraging and facilitating collaboration with domain experts,community leaders and governments to help them chart their own path.</li><li>Support access, use and sharing of data by investing in <strong>standards and technologies</strong> to ensure its long-term sustainability.</li></ul>",
+    "body": "<p>The foundation can support the enabling environment by;</p><ul><li>Supporting the <strong>people </strong>- by improving data literacy and skills, and facilitating engagement with communities that create or are impacted by the data, and those who supply tools and services that use data.</li><li>Supporting the creation of <strong>policy and process</strong> - by encouraging and facilitating collaboration with domain experts, community leaders and governments to help them chart their own path.</li><li>Support access, use and sharing of data by investing in <strong>standards and technologies</strong> to ensure its long-term sustainability.</li></ul>",
     "_id": "5f522138e8f6db433574b275",
     "_parentId": "5f522138e8f6db433574b255",
     "_type": "component",
@@ -4637,7 +4622,7 @@
     "_disableAccessibilityState": false,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; <strong>people</strong>, <strong>policies and processes</strong> and <strong>technology</strong>.</p><p>The Foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
+    "body": "<p>There are many factors in-country that can impact on achieving FAIR and safeguarded data within investments and the ecosystem in which they sit. All of them related to our pillars; <strong>people</strong>, <strong>policies and processes</strong> and <strong>technology</strong>.</p><p>The foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>Being aware of the enabling environment is important at all stages of an investment. Ideally an investment will be planned with an understanding of the current enabling environment in-country and proposal development can continue.</p><p>Keeping an eye on the in-country context and any changes in the political, legal, social and technological landscape will also help maximise the impact of the investment or even help identify new areas for investment.</p>",
     "_id": "5f522139e8f6db433574b280",
     "_parentId": "5f522138e8f6db433574b259",
     "_type": "component",
@@ -4713,26 +4698,31 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer then click 'submit'",
+    "instruction": "Select three answers then click 'submit'",
     "_items": [
       {
         "text": "Policies, legal and regulatory frameworks relevant internationally or to the country, region or domain",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Community norms and practices",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Access to technologies to collect, access, use and share data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The amount of data held by the grantee",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "All of the above",
-        "_shouldBeSelected": true,
+        "text": "The level of commercial interest in purchasing and acquiring exclusive rights to the data",
+        "_shouldBeSelected": false,
         "feedback": ""
       }
     ],
@@ -4741,15 +4731,15 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 3,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>An enabling environment is primarily supported by the policies, legal and regulatory frameworks relevant to the country or domain (e.g. medicine). Understanding and engaging with communities norms is important both to ensure the expectations of those represented by or impacted by the data are met, and to ensure processes that support FAIR and safeguarded data are appropriate for the communities collecting, accessing, using or sharing the data. Collectively the policies and processes, communities of people and access to technology shape how data is collected, accessed, used and shared. Together these make up the enabling environment.&nbsp;</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>An enabling environment is primarily supported by the <strong>policies</strong>, legal and regulatory frameworks relevant to the country or domain (e.g. medicine). Understanding and engaging with communities norms is important both to ensure the expectations of those represented by or impacted by the data are met, and to ensure processes that support FAIR and safeguarded data are appropriate for the communities collecting, accessing, using or sharing the data. Collectively the policies and processes, communities of people and access to technology shape how data is collected, accessed, used and shared. Together these make up the enabling environment.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>An enabling environment is primarily supported by the policies, legal and regulatory frameworks relevant to the country or domain (e.g. medicine). Understanding and engaging with communities norms is important both to ensure the expectations of those represented by or impacted by the data are met, and to ensure processes that support FAIR and safeguarded data are appropriate for the communities collecting, accessing, using or sharing the data. Collectively the policies and processes, communities of people and access to technology shape how data is collected, accessed, used and shared. Together these make up the enabling environment.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>An enabling environment is primarily supported by the <strong>policies</strong>, legal and regulatory frameworks relevant to the country or domain (e.g. medicine). Understanding and engaging with communities norms is important both to ensure the expectations of those represented by or impacted by the data are met, and to ensure processes that support FAIR and safeguarded data are appropriate for the communities collecting, accessing, using or sharing the data. Collectively the policies and processes, communities of people and access to technology shape how data is collected, accessed, used and shared. Together these make up the enabling environment.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -4794,7 +4784,7 @@
     "_disableAccessibilityState": false,
     "title": "Factors that contribute to an enabling environment",
     "displayTitle": "",
-    "body": "<p dir=\"ltr\">There may be good reasons that some communities are resistant to sharing data. Common considerations include concerns of security and mis-trust in others' use of data. These and other considerations can restrict enabling policies, processes and legislative frameworks from being created.</p>",
+    "body": "<p dir=\"ltr\">There may be good reasons that some communities are resistant to sharing data. Common considerations include concerns of security and mis-trust in others' use of data. These and other considerations can restrict enabling policies, processes and regulatory frameworks from being created.</p>",
     "_id": "5f52447ee8f6db433574b285",
     "_parentId": "5f522138e8f6db433574b250",
     "_type": "component",
@@ -4889,7 +4879,7 @@
       {
         "title": "Tackling fears in India",
         "_ariaLevel": 0,
-        "body": "<p>Funded by the Foundation and USAID, the Cereal Systems Initiative for South Asia (CSISA) was established in 2009 with goals including improving farmers’ access to market information.&nbsp;</p><p>The enabling environment here was impacted by a widespread concern around misuse of data and lack of data management processes. CSISA convened domain experts, research institutions and public sector bodies to establish a steering committee to connect institutions together to start to unlock the benefits of wider data sharing for everyone. Assisted by the foundation, this community was able to improve their data knowledge and skills to tackle barriers and fears&nbsp;and develop community norms and practices to ensure data is accessible and reusable for as many people as possible.</p>",
+        "body": "<p>Funded by the Bill &amp; Melinda Gates Foundation and the US Agency for International Development (USAID), the <a href=\"https://csisa.org/\" target=\"_blank\">Cereal Systems Initiative for South Asia (CSISA)</a> was established in 2009 with goals including improving farmers’ access to market information.</p><p>The enabling environment here was impacted by a widespread concern around misuse of data and lack of data management processes. CSISA convened domain experts, research institutions and public sector bodies to establish a steering committee to connect institutions together to start to unlock the benefits of wider data sharing for everyone. Assisted by the foundation, this community was able to improve their data knowledge and skills to tackle barriers and fears&nbsp;and develop community norms and practices to ensure data is accessible and reusable for as many people as possible.</p>",
         "_graphic": {
           "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",
@@ -4900,7 +4890,7 @@
       {
         "title": "Building skills in Tanzania",
         "_ariaLevel": 0,
-        "body": "<p>In Tanzania, the Ramini Huria project trained local stakeholders in how to create highly accurate maps of the most flood-prone areas of the city.</p><p>In order to address concerns over data stewardship and ownership, those involved in the project were trained in the benefits of working with open platforms including OpenStreetMap, ensuring that data remains available and usable by everyone, including local governments and authorities, beyond the end of the project.</p>",
+        "body": "<p>In Tanzania, the <a href=\"https://ramanihuria.org/en/\" target=\"_blank\">Ramini Huria</a> project trained local stakeholders in how to create highly accurate maps of the most flood-prone areas of the city.</p><p>In order to address concerns over data governance, those involved in the project were trained in the benefits of working with open platforms including OpenStreetMap, ensuring that data remains available and usable by everyone, including local governments and authorities, beyond the end of the project.</p>",
         "_graphic": {
           "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",
@@ -4956,7 +4946,7 @@
     "_disableAccessibilityState": false,
     "title": "Evaluating the enabling environment",
     "displayTitle": "",
-    "body": "<p>Conducting a broad landscape review of data policies and legislative frameworks relevant to the geography, relationships with state governments and technological capacity can provide insight into the feasibility of an investment involving FAIR and safeguarded data. It can help by;</p><ul><li>flagging any major legal or regulatory barriers to the use of data in projects</li><li>flagging cultural considerations and norms when starting a new investment process in a country or region</li><li>maximising the impact &nbsp;by ensuring investments are designed in respect to the enabling environment</li><li>Identify opportunities for investments that directly support the wider enabling environment</li></ul>",
+    "body": "<p>Conducting a broad landscape review of data policies and regulatory&nbsp;frameworks relevant to the geography, relationships with state governments and technological capacity can provide insight into the feasibility of an investment involving FAIR and safeguarded data. It can help by;</p><ul><li>flagging any major legal or regulatory barriers to the use of data in projects</li><li>flagging cultural considerations and norms when starting a new investment process in a country or region</li><li>maximising the impact &nbsp;by ensuring investments are designed in respect to the enabling environment</li><li>Identify opportunities for investments that directly support the wider enabling environment</li></ul>",
     "_id": "5f5247b2e8f6db433574b28e",
     "_parentId": "5f522138e8f6db433574b257",
     "_type": "component",
@@ -5018,7 +5008,7 @@
     "_disableAccessibilityState": false,
     "title": "Completing a data country profile",
     "displayTitle": "",
-    "body": "<p>Grantees should be evaluating the enabling environment and developing their own understanding of how the environment enables their specific grant. A &nbsp;template guide to help conduct such a landscape review and create a ‘Country Data Profile’ is available in the toolbox.&nbsp;</p><p>A country data profile can be completed by a Program Officer, grantee, the Foundation in-country team or a third party. It is likely to require desk research and engagement with stakeholders in-country, especially if availability of information online is sparse.&nbsp;<br /><br /><a href=\"course/en/assets/92c7b06e46c8c8301f5db309b498882bca42455e.pdf\" target=\"_blank\">Click here to&nbsp;download the country data profile guide</a></p>",
+    "body": "<p>Grantees should be evaluating the enabling environment and developing their own understanding of how the environment enables their specific grant. A &nbsp;template guide to help conduct such a landscape review and create a ‘Country Data Profile’ is available in FAIR data toolbox.&nbsp;</p><p>A country data profile can be completed by a program officer, grantee, the foundation in-country team or a third party. It is likely to require desk research and engagement with stakeholders in-country, especially if availability of information online is sparse.&nbsp;<br /><br /><a href=\"course/en/assets/92c7b06e46c8c8301f5db309b498882bca42455e.pdf\" target=\"_blank\">Click here to&nbsp;download the country data profile guide</a></p>",
     "_id": "5f5258d5e8f6db433574b294",
     "_parentId": "5f5258d5e8f6db433574b290",
     "_type": "component",
@@ -5060,30 +5050,25 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer then click 'submit'",
+    "instruction": "Select all answers that apply and click 'submit'",
     "_items": [
       {
         "text": "Pause the proposal until the enabling environment is suitable",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Amend proposal so it works with in the constraints of the enabling environment",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Engage relevant stakeholders to consider how to overcome the challenges",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Highlight where there are structural issues that can't be addressed within the investment and may need other, more strategic interventions",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "All of the above",
         "_shouldBeSelected": true,
         "feedback": ""
       }
@@ -5096,7 +5081,7 @@
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 4,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>The reason that data is not FAIR and safeguarded is not always obvious; it may not be simply because a platform to hold data does not exist. Following an evaluation of the enabling environment it may be necessary to pause or amend a proposal in order to focus on building an enabling environment. &nbsp;The Foundation has a role in influencing the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path. This may involve engaging more widely, or with different sets of stakeholders, making strategic interventions in areas to enable successful investments in others.&nbsp;</p>",
@@ -7029,7 +7014,7 @@
     "_id": "5f56255be3e277005c8a910b",
     "_parentId": "5f56255ae3e277005c8a90f4",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -7063,7 +7048,7 @@
     "_id": "5f56255be3e277005c8a911c",
     "_parentId": "5f56255ae3e277005c8a90fa",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -7282,7 +7267,7 @@
     "_id": "5f562a52e3e277005c8a9129",
     "_parentId": "5f56255ae3e277005c8a90f4",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -7377,7 +7362,7 @@
     "_id": "5f562c12e3e277005c8a9130",
     "_parentId": "5f562c06e3e277005c8a912b",
     "_type": "component",
-    "_layout": "right",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -7537,7 +7522,7 @@
     "_id": "5f562ea3e3e277005c8a9133",
     "_parentId": "5f562c06e3e277005c8a912b",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -7963,7 +7948,7 @@
     "_id": "5f563353e3e277005c8a9149",
     "_parentId": "5f56255ae3e277005c8a90fa",
     "_type": "component",
-    "_layout": "left",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
