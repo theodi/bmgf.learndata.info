@@ -422,5 +422,21 @@
     "licence": "CC-BY",
     "attribution": "Open Data Institute",
     "tags": []
+  },
+  "283469f27a3e4b4d28a4db1e8e3916106c36cfc6.jpg": {
+    "title": "CGIAR - Ethiopia",
+    "description": "CGIAR - Ethiopia",
+    "source": "https://wle.cgiar.org/",
+    "licence": "All rights reserved",
+    "attribution": "Muulgeta Ayene/WLE",
+    "tags": []
+  },
+  "d5cad5c033cc3f5afd9b3c7ec412142c73b7e0ec.png": {
+    "title": "Ramani Huria",
+    "description": "Ramani Huria",
+    "source": "https://ramanihuria.org/",
+    "licence": "All rights reserved",
+    "attribution": "Ramani Huria",
+    "tags": []
   }
 }
