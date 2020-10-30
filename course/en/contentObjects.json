@@ -152,7 +152,7 @@
   {
     "title": "Working with data from third party sources",
     "displayTitle": "Working with data from third party sources",
-    "body": "<p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Such services often require data from multiple third parties to even function, such as geographic data, population and socioeconomic data or sample data from previous projects.&nbsp;</p><p>However, reusing data from existing third party sources can be complex and face many challenges. Grant proposals that set out with good intentions to reuse existing data often encounter many barriers which should be addressed as soon as possible.&nbsp;</p><p>This module looks at the different barriers and techniques to address each.&nbsp;</p>",
+    "body": "<p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and reuse. Such services often require data from multiple third parties to even function, such as geographic data, population and socioeconomic data or sample data from previous projects.&nbsp;</p><p>However, reusing data from existing third party sources can be complex. Grant proposals that set out with good intentions to reuse existing data often encounter constraints which should be addressed as soon as possible.</p><p>This module looks at the different barriers and techniques to address each.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "",
@@ -180,12 +180,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
@@ -193,6 +187,12 @@
     },
     "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -227,7 +227,7 @@
   {
     "title": "Protecting the rights of individuals while maximising the utility of data",
     "displayTitle": "Protecting the rights of individuals while maximising the utility of data",
-    "body": "<p>One of the common challenges faced in projects is how to handle personal data. Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial and the role of data protection regulations which many see as a blocker to sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure data transformative investments protect the rights of individuals while maximising the utility of data.</p>",
+    "body": "<p>One of the common challenges faced in projects is how to handle personal data. Fears over collecting, using and sharing personal data often results in data not getting to those who need it. The challenge starts with understanding just what personal data is, the difference between this and sensitive commercial and the role of data protection regulations which many see as a blocker to sharing personal data.&nbsp;</p><p>The aim of this module is to increase understanding of personal data and techniques that can be applied to ensure investments protect the rights of individuals while maximising the utility of data.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "",
@@ -255,12 +255,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
@@ -268,6 +262,12 @@
     },
     "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -418,6 +418,81 @@
     },
     "_ODILicence": {
       "_items": []
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Maximising reuse of data through licensing and sharing",
+    "displayTitle": "Maximising reuse of data through licensing and sharing",
+    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac6aac1a411005ef8a6eb",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_odi-generic": {
       "_backgroundImage": {

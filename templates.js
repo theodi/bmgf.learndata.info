@@ -2030,6 +2030,70 @@ this["Handlebars"]["templates"]["text"] = Handlebars.template({"compiler":[8,">=
     + "</div>\n";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["dragndrop"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return " disabled "
+    + ((stack1 = lookupProperty(helpers,"if").call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"_isComplete") : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":3,"column":82},"end":{"line":3,"column":166}}})) != null ? stack1 : "")
+    + " ";
+},"2":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return " complete submitted user "
+    + ((stack1 = lookupProperty(helpers,"if").call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"_isCorrect") : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":3,"column":126},"end":{"line":3,"column":158}}})) != null ? stack1 : "")
+    + " ";
+},"3":function(container,depth0,helpers,partials,data) {
+    return "correct";
+},"5":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "                    <div class=\"dragndrop-question\">\n                        <div class=\"dragndrop-question-text\">"
+    + container.escapeExpression(container.lambda((depth0 != null ? lookupProperty(depth0,"text") : depth0), depth0))
+    + "</div>\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"accepted") : depth0),{"name":"each","hash":{},"fn":container.program(6, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":13,"column":24},"end":{"line":15,"column":33}}})) != null ? stack1 : "")
+    + "                        <div class=\"dragndrop-question-state\">\n                            <div class=\"dragndrop-correct-icon icon icon-tick\"></div>\n                            <div class=\"dragndrop-incorrect-icon icon icon-cross\"></div>\n                        </div>\n                    </div>\n";
+},"6":function(container,depth0,helpers,partials,data) {
+    return "                            <div class=\"dragndrop-item dragndrop-droppable ui-state-enabled\"></div>\n";
+},"8":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "                    <div class=\"dragndrop-item dragndrop-answer\">"
+    + ((stack1 = container.lambda(depth0, depth0)) != null ? stack1 : "")
+    + "</div>\n";
+},"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "<div class=\"dragndrop-inner component-inner\">\n"
+    + ((stack1 = container.invokePartial(lookupProperty(partials,"component"),depth0,{"name":"component","data":data,"indent":"    ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "    <div class=\"dragndrop-widget component-widget "
+    + ((stack1 = lookupProperty(helpers,"unless").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isEnabled") : depth0),{"name":"unless","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":3,"column":50},"end":{"line":3,"column":178}}})) != null ? stack1 : "")
+    + "\">\n\n        <div class=\"dragndrop-container\">\n\n            <div class=\"dragndrop-overlay\"></div>\n\n            <div class=\"dragndrop-questions\">\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"_items") : depth0),{"name":"each","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":16},"end":{"line":21,"column":25}}})) != null ? stack1 : "")
+    + "            </div>\n\n            <div class=\"dragndrop-answers clearfix\">\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"_possibleAnswers") : depth0),{"name":"each","hash":{},"fn":container.program(8, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":25,"column":16},"end":{"line":27,"column":25}}})) != null ? stack1 : "")
+    + "            </div>\n\n        </div>\n\n        <div class=\"buttons\">\n        </div>\n    </div>\n</div>\n";
+},"usePartial":true,"useData":true});
+
 this["Handlebars"]["templates"]["pageLevelProgress"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {

@@ -1269,11 +1269,293 @@
     }
   },
   {
+    "title": "Maximising reuse of data through licensing and sharing",
+    "displayTitle": "Maximising reuse of data through licensing and sharing",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac6aac1a411005ef8a6ed",
+    "_parentId": "5f9ac6aac1a411005ef8a6ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The difference between data licenses and data sharing agreements",
+    "displayTitle": "The difference between data licenses and data sharing agreements",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac865c1a411005ef8a700",
+    "_parentId": "5f9ac865c1a411005ef8a6ff",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "Choosing between using a data sharing agreement and a data license",
+    "body": "",
+    "_classes": "section-banner",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9aeaa3c1a411005ef8a712",
+    "_parentId": "5f9aeaa3c1a411005ef8a711",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Building a data sharing agreement",
+    "displayTitle": "Building a data sharing agreement",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9af2f3c1a411005ef8a724",
+    "_parentId": "5f9af2f3c1a411005ef8a723",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Building a data license",
+    "displayTitle": "Building a data license",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9af3d4c1a411005ef8a735",
+    "_parentId": "5f9c378ec88d13007bfe0e5b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Tools and guides to support data sharing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c3bd2c88d13007bfe0e77",
+    "_parentId": "5f9c3bd2c88d13007bfe0e76",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q3 - Common constraints in delivering data transformative grants",
     "displayTitle": "Common constraints in delivering data transformative grants",
     "body": "",
     "_classes": "",
-    "_trackingId": 28,
+    "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1320,7 +1602,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 29,
+    "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1367,7 +1649,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 30,
+    "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1414,7 +1696,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 31,
+    "_trackingId": 37,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1461,7 +1743,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 32,
+    "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1508,7 +1790,7 @@
     "displayTitle": "The rights of individuals over personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 33,
+    "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1555,7 +1837,7 @@
     "displayTitle": "Data protection and anonymised/synthentic data",
     "body": "",
     "_classes": "",
-    "_trackingId": 34,
+    "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1602,7 +1884,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 35,
+    "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1649,7 +1931,7 @@
     "displayTitle": "Constraints to sharing data",
     "body": "",
     "_classes": "",
-    "_trackingId": 36,
+    "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1696,7 +1978,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "footer inverted",
-    "_trackingId": 37,
+    "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1743,7 +2025,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 38,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1790,7 +2072,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 39,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1837,7 +2119,7 @@
     "displayTitle": "Stakeholders in enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 40,
+    "_trackingId": 46,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1884,7 +2166,7 @@
     "displayTitle": "Completing a data country profile",
     "body": "",
     "_classes": "",
-    "_trackingId": 41,
+    "_trackingId": 47,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1931,7 +2213,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 42,
+    "_trackingId": 48,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1978,7 +2260,7 @@
     "displayTitle": "What to do when things are unclear",
     "body": "",
     "_classes": "",
-    "_trackingId": 43,
+    "_trackingId": 49,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2021,11 +2303,58 @@
     }
   },
   {
+    "title": "Mapping data ecosystems",
+    "displayTitle": "Mapping data ecosystems",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 50,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f55efb4e3e277005c8a90ac",
+    "_parentId": "5f55e15dc195b3005eb2c4b4",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Topics",
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 44,
+    "_trackingId": 51,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2072,7 +2401,7 @@
     "displayTitle": "Identifying risks and concerns",
     "body": "",
     "_classes": "",
-    "_trackingId": 45,
+    "_trackingId": 52,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2119,7 +2448,7 @@
     "displayTitle": "Linking concerns to impact",
     "body": "<p dir=\"ltr\">In order to evaluate each concern, it is necessary to establish potential impacts.&nbsp;See if you can match the&nbsp;concerns from before with potential impact:</p>",
     "_classes": "",
-    "_trackingId": 46,
+    "_trackingId": 53,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2166,7 +2495,7 @@
     "displayTitle": "Legal and ethical risks to people",
     "body": "",
     "_classes": "",
-    "_trackingId": 47,
+    "_trackingId": 54,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2213,7 +2542,7 @@
     "displayTitle": "Strategies to help minimise risks",
     "body": "",
     "_classes": "",
-    "_trackingId": 48,
+    "_trackingId": 55,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2260,7 +2589,7 @@
     "displayTitle": "Publishing soil sample data",
     "body": "",
     "_classes": "",
-    "_trackingId": 49,
+    "_trackingId": 56,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2307,7 +2636,7 @@
     "displayTitle": "Publishing crime data",
     "body": "",
     "_classes": "",
-    "_trackingId": 50,
+    "_trackingId": 57,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2350,11 +2679,293 @@
     }
   },
   {
+    "title": "Outcomes",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 58,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac722c1a411005ef8a6f2",
+    "_parentId": "5f9ac6aac1a411005ef8a6ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Characteristics of data sharing agreements",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 59,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac89cc1a411005ef8a702",
+    "_parentId": "5f9ac865c1a411005ef8a6ff",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 60,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9aecacc1a411005ef8a717",
+    "_parentId": "5f9aeaa3c1a411005ef8a711",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Data sharing agreements in practice",
+    "displayTitle": "Data sharing agreements in practice",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 61,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9af378c1a411005ef8a72a",
+    "_parentId": "5f9af2f3c1a411005ef8a723",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Common licenses for data sharing",
+    "displayTitle": "Common licenses for data sharing",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 62,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c37a5c88d13007bfe0e5e",
+    "_parentId": "5f9c378ec88d13007bfe0e5b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted",
+    "_trackingId": 63,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c3c2fc88d13007bfe0e79",
+    "_parentId": "5f9c3bd2c88d13007bfe0e76",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q1: Introducing data transformation",
     "displayTitle": "Introducing data transformation",
     "body": "",
     "_classes": "",
-    "_trackingId": 51,
+    "_trackingId": 64,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2401,7 +3012,7 @@
     "displayTitle": "Common constraints (1): Data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 52,
+    "_trackingId": 65,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2448,7 +3059,7 @@
     "displayTitle": "Roles and responsibilities (Project Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 53,
+    "_trackingId": 66,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2495,7 +3106,7 @@
     "displayTitle": "Classifying personal and sensitive data",
     "body": "<p>See if you can classify the following types of data into personal, sensitive personal, sensitive commercial or neither personal nor commercial.</p>",
     "_classes": "",
-    "_trackingId": 54,
+    "_trackingId": 67,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2542,7 +3153,7 @@
     "displayTitle": "The role of data protection regulations",
     "body": "",
     "_classes": "",
-    "_trackingId": 55,
+    "_trackingId": 68,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2589,7 +3200,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 56,
+    "_trackingId": 69,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2636,7 +3247,7 @@
     "displayTitle": "What makes data FAIR and safeguarded?",
     "body": "",
     "_classes": "",
-    "_trackingId": 57,
+    "_trackingId": 70,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2683,7 +3294,7 @@
     "displayTitle": "Overcoming constraints in data sharing and access",
     "body": "",
     "_classes": "",
-    "_trackingId": 58,
+    "_trackingId": 71,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2730,7 +3341,7 @@
     "displayTitle": "Roles and responsibilities (Program Officers)",
     "body": "",
     "_classes": "",
-    "_trackingId": 59,
+    "_trackingId": 72,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2777,7 +3388,7 @@
     "displayTitle": "The enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 60,
+    "_trackingId": 73,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2824,7 +3435,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 61,
+    "_trackingId": 74,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2871,7 +3482,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 62,
+    "_trackingId": 75,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2918,7 +3529,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 63,
+    "_trackingId": 76,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2965,7 +3576,7 @@
     "displayTitle": "Identifying open, shared and closed data",
     "body": "<p>Can you match the descriptions below to the types of data on the spectrum.</p>",
     "_classes": "",
-    "_trackingId": 64,
+    "_trackingId": 77,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3008,58 +3619,11 @@
     }
   },
   {
-    "title": "Mapping data ecosystems",
-    "displayTitle": "Mapping data ecosystems",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 65,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f55efb4e3e277005c8a90ac",
-    "_parentId": "5f55e15dc195b3005eb2c4b4",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_minimumHeights": {
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_isDividerBlock": false
-    }
-  },
-  {
     "title": "The value of reusing data from third party sources",
     "displayTitle": "The value of reusing data from third party sources",
     "body": "",
     "_classes": "",
-    "_trackingId": 66,
+    "_trackingId": 78,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3106,7 +3670,7 @@
     "displayTitle": "The terminology of risks",
     "body": "",
     "_classes": "",
-    "_trackingId": 67,
+    "_trackingId": 79,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3153,7 +3717,7 @@
     "displayTitle": "Linking concerns to impact",
     "body": "<p>In order to evaluate each concern, it is necessary to establish potential impacts.&nbsp;See if you can match the&nbsp;concerns from before with potential impact:</p>",
     "_classes": "",
-    "_trackingId": 68,
+    "_trackingId": 80,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3200,7 +3764,7 @@
     "displayTitle": "Commercial risks",
     "body": "",
     "_classes": "",
-    "_trackingId": 69,
+    "_trackingId": 81,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3247,7 +3811,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 70,
+    "_trackingId": 82,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3290,11 +3854,199 @@
     }
   },
   {
+    "title": "The benefits of data sharing to the data publisher",
+    "displayTitle": "The benefits of data sharing to the data publisher",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 83,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac761c1a411005ef8a6f4",
+    "_parentId": "5f9ac6aac1a411005ef8a6ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Characteristics of data licenses",
+    "displayTitle": "Characteristics of data licenses",
+    "body": "<p>A <strong>data license</strong> describes the ways that data can be used without any of the organisations involved having to enter into a formal agreement.</p>",
+    "_classes": "",
+    "_trackingId": 84,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ae923c1a411005ef8a705",
+    "_parentId": "5f9ac865c1a411005ef8a6ff",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Choosing between using a data sharing agreement and a data license",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 85,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9aed69c1a411005ef8a71e",
+    "_parentId": "5f9aeaa3c1a411005ef8a711",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Creative commons marks and licenses",
+    "displayTitle": "Creative commons marks and licenses",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 86,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c37f8c88d13007bfe0e64",
+    "_parentId": "5f9c378ec88d13007bfe0e5b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Why data transformation is critical to realise wider BMGF aims",
     "displayTitle": "Why data transformation is critical to realise wider BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 71,
+    "_trackingId": 87,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3341,7 +4093,7 @@
     "displayTitle": "Common constraints (2): Security, privacy and trust",
     "body": "",
     "_classes": "",
-    "_trackingId": 72,
+    "_trackingId": 88,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3388,7 +4140,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 73,
+    "_trackingId": 89,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3435,7 +4187,7 @@
     "displayTitle": "Defining personal, sensitive personal and sensitive commercial data",
     "body": "",
     "_classes": "",
-    "_trackingId": 74,
+    "_trackingId": 90,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3482,7 +4234,7 @@
     "displayTitle": "Why FAIR and safeguarded data?",
     "body": "",
     "_classes": "",
-    "_trackingId": 75,
+    "_trackingId": 91,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3529,7 +4281,7 @@
     "displayTitle": "Overcoming constraints in security and privacy",
     "body": "",
     "_classes": "",
-    "_trackingId": 76,
+    "_trackingId": 92,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3576,7 +4328,7 @@
     "displayTitle": "Roles and responsibilities (Grantees)",
     "body": "",
     "_classes": "",
-    "_trackingId": 77,
+    "_trackingId": 93,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3623,7 +4375,7 @@
     "displayTitle": "Factors that contribute to an enabling environment",
     "body": "",
     "_classes": "",
-    "_trackingId": 78,
+    "_trackingId": 94,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3670,7 +4422,7 @@
     "displayTitle": "The role of the foundation as a stakeholder",
     "body": "<p>The foundation has a role in supporting the enabling environment by investing in initiatives aimed to help leaders and local institutions chart their own path.&nbsp;</p><p>This could include investing in technical infrastructure, improving skills and knowledge and the creation of policies and processes to support FAIR and safeguarded data practices.</p>",
     "_classes": "",
-    "_trackingId": 79,
+    "_trackingId": 95,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3717,7 +4469,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 80,
+    "_trackingId": 96,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3762,9 +4514,9 @@
   {
     "title": "Considering reusability of data from third party sources",
     "displayTitle": "Considering reusability of data from third party sources",
-    "body": "<p>As a user of the third party data, beyond obtaining rights to reuse the data, you will need to check the practical reusability of the data.</p><p>The FAIR data toolbox includes a case study on harmonising data from third party sources.&nbsp;</p>",
+    "body": "<p>As a user of the third party data, beyond obtaining permission to reuse the data, you will need to check the practical reusability of the data.</p><p>The FAIR data toolbox includes a case study on harmonising data from third party sources as well as guide on anonymisation.</p>",
     "_classes": "",
-    "_trackingId": 81,
+    "_trackingId": 97,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3780,12 +4532,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3808,10 +4560,10 @@
   },
   {
     "title": "Mapping data spectrums",
-    "displayTitle": "Mapping data spectrums",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 82,
+    "_trackingId": 98,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3827,12 +4579,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3854,11 +4606,11 @@
     }
   },
   {
-    "title": "Barriers in reusing data from third party sources",
-    "displayTitle": "Barriers in reusing data from third party sources",
+    "title": "Constraints in reusing data from third party sources",
+    "displayTitle": "Constraints in reusing data from third party sources",
     "body": "",
     "_classes": "",
-    "_trackingId": 83,
+    "_trackingId": 99,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3874,12 +4626,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -3905,7 +4657,7 @@
     "displayTitle": "Identifying actions, concerns, causes and impacts",
     "body": "<p>Which of these is an Action, Concern, Cause and Impact?</p>",
     "_classes": "",
-    "_trackingId": 84,
+    "_trackingId": 100,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3952,7 +4704,7 @@
     "displayTitle": "Reputation risks",
     "body": "",
     "_classes": "",
-    "_trackingId": 85,
+    "_trackingId": 101,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3995,11 +4747,152 @@
     }
   },
   {
+    "title": "Why data sharing agreements and licenses are important?",
+    "displayTitle": "Why data sharing agreements and licenses are important?",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 102,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac7f4c1a411005ef8a6fa",
+    "_parentId": "5f9ac6aac1a411005ef8a6ec",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "The role of data licenses and data sharing agreements with respect to FAIR and safeguarded data",
+    "displayTitle": "The role of data licenses and data sharing agreements with respect to FAIR and safeguarded data",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 103,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9aea1ac1a411005ef8a70b",
+    "_parentId": "5f9ac865c1a411005ef8a6ff",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Open government licenses",
+    "displayTitle": "Open government licenses",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 104,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c3876c88d13007bfe0e6a",
+    "_parentId": "5f9c378ec88d13007bfe0e5b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "What makes data FAIR and transformative?",
     "displayTitle": "What makes data FAIR and transformative?",
     "body": "",
     "_classes": "",
-    "_trackingId": 86,
+    "_trackingId": 105,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4046,7 +4939,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 87,
+    "_trackingId": 106,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4093,7 +4986,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 88,
+    "_trackingId": 107,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4138,9 +5031,9 @@
   {
     "title": "Who owns personal data?",
     "displayTitle": "Who owns personal data?",
-    "body": "<p>When you put intellectual effort (thought) into creating something, you own that work and you have certain Intellectual property rights. Intellectual property rights are of critical importance to understand when you are seeking to collect, use and share data.&nbsp;</p>",
+    "body": "<p>When you put intellectual effort (thought) into creating something, you own that work and you have certain intellectual property rights. Intellectual property rights are of critical importance to understand when you are seeking to collect, use and share data.&nbsp;</p>",
     "_classes": "",
-    "_trackingId": 89,
+    "_trackingId": 108,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4156,12 +5049,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -4187,7 +5080,7 @@
     "displayTitle": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
     "body": "",
     "_classes": "",
-    "_trackingId": 90,
+    "_trackingId": 109,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4234,7 +5127,7 @@
     "displayTitle": "Overcoming constraints related to trust and benefits",
     "body": "",
     "_classes": "",
-    "_trackingId": 91,
+    "_trackingId": 110,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4281,7 +5174,7 @@
     "displayTitle": "Delivering data transformative investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 92,
+    "_trackingId": 111,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4328,7 +5221,7 @@
     "displayTitle": "Factors that disrupt the enabling environment ",
     "body": "",
     "_classes": "",
-    "_trackingId": 93,
+    "_trackingId": 112,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4375,7 +5268,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 94,
+    "_trackingId": 113,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4422,7 +5315,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 95,
+    "_trackingId": 114,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4469,7 +5362,7 @@
     "displayTitle": "The importance of rights and permissions in data",
     "body": "",
     "_classes": "",
-    "_trackingId": 96,
+    "_trackingId": 115,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4516,7 +5409,7 @@
     "displayTitle": "Risks: What can you control",
     "body": "",
     "_classes": "",
-    "_trackingId": 97,
+    "_trackingId": 116,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4563,7 +5456,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 98,
+    "_trackingId": 117,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4606,11 +5499,58 @@
     }
   },
   {
+    "title": "Choosing a license for data sharing",
+    "displayTitle": "Choosing a license for data sharing",
+    "body": "<p>For the following scenarios, which license would be the appropriate choice?</p>",
+    "_classes": "",
+    "_trackingId": 118,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c39b2c88d13007bfe0e71",
+    "_parentId": "5f9c378ec88d13007bfe0e5b",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
     "title": "Q2 - What makes data FAIR and transformative",
     "displayTitle": "Supporting FAIR and transformative data",
     "body": "",
     "_classes": "",
-    "_trackingId": 99,
+    "_trackingId": 119,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4657,7 +5597,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 100,
+    "_trackingId": 120,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4704,7 +5644,7 @@
     "displayTitle": "The importance of understanding who owns personal data",
     "body": "",
     "_classes": "",
-    "_trackingId": 101,
+    "_trackingId": 121,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4751,7 +5691,7 @@
     "displayTitle": "Delivering FAIR and safeguarded data within investments",
     "body": "",
     "_classes": "",
-    "_trackingId": 102,
+    "_trackingId": 122,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4798,7 +5738,7 @@
     "displayTitle": "Examples of FAIR and transformative projects",
     "body": "",
     "_classes": "",
-    "_trackingId": 103,
+    "_trackingId": 123,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4845,7 +5785,7 @@
     "displayTitle": "Identifying next steps",
     "body": "",
     "_classes": "",
-    "_trackingId": 104,
+    "_trackingId": 124,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

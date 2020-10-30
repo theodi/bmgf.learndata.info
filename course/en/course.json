@@ -6,7 +6,7 @@
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 104,
+  "_latestTrackingId": 124,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -114,6 +114,9 @@
       },
       "_assessmentResults": {
         "ariaRegion": "Assessment results."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       }
     },
     "_extensions": {

@@ -384,6 +384,70 @@
     }
   },
   {
+    "title": "Article 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac6aac1a411005ef8a6ec",
+    "_parentId": "5f9ac6aac1a411005ef8a6eb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
     "title": "The theory of change",
     "displayTitle": "",
     "body": "",
@@ -748,6 +812,70 @@
         "_canShowFeedback": true,
         "_canShowMarking": true,
         "_canShowModelAnswer": true
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Article 2",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9ac865c1a411005ef8a6ff",
+    "_parentId": "5f9ac6aac1a411005ef8a6eb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       }
     },
     "_pageLevelProgress": {
@@ -1152,6 +1280,70 @@
     }
   },
   {
+    "title": "Question block",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9aeaa3c1a411005ef8a711",
+    "_parentId": "5f9ac6aac1a411005ef8a6eb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
     "title": "Footer",
     "displayTitle": "",
     "body": "",
@@ -1536,6 +1728,70 @@
     }
   },
   {
+    "title": "Building agreements and licences",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two invert-odd",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9af2f3c1a411005ef8a723",
+    "_parentId": "5f9ac6aac1a411005ef8a6eb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
     "title": "Footer",
     "displayTitle": "",
     "body": "",
@@ -1664,6 +1920,70 @@
     }
   },
   {
+    "title": "Existing licenses",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-odd",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c378ec88d13007bfe0e5b",
+    "_parentId": "5f9ac6aac1a411005ef8a6eb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
     "title": "Categories of risks",
     "displayTitle": "",
     "body": "",
@@ -1713,6 +2033,70 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f9c3bd2c88d13007bfe0e76",
+    "_parentId": "5f9ac6aac1a411005ef8a6eb",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
