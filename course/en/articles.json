@@ -2051,7 +2051,7 @@
     "title": "Summary",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-two invert-even",
+    "_classes": "color-two invert-odd",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,

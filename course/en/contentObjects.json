@@ -300,12 +300,12 @@
     }
   },
   {
-    "title": "Delivering data transformative investments [V1]",
-    "displayTitle": "Delivering data transformative investments",
-    "body": "<p>At the heart of data transformative grants is FAIR and Safeguarded data. That is, data that is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable to as many people as possible.&nbsp;</p><p>The aim of this module is to enable the identification of data rich investments and understand the challenges that need to be overcome in order to deliver data transformative investments.</p>",
+    "title": "Maximising reuse of data through licensing and sharing",
+    "displayTitle": "Maximising reuse of data through licensing and sharing",
+    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -314,27 +314,21 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f203b30649ca8005e769a10",
-    "_type": "page",
+    "_id": "5f9ac6aac1a411005ef8a6eb",
     "_parentId": "course",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/abef6d2100174b0451a9583dbcc7566426b8c88d.jpg"
+      "src": "course/en/assets/998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_aboutPage": {
       "aboutCredit": "",
@@ -343,6 +337,12 @@
     },
     "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -450,12 +450,12 @@
     }
   },
   {
-    "title": "Maximising reuse of data through licensing and sharing",
-    "displayTitle": "Maximising reuse of data through licensing and sharing",
-    "body": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "title": "Delivering data transformative investments [V1]",
+    "displayTitle": "Delivering data transformative investments",
+    "body": "<p>At the heart of data transformative grants is FAIR and Safeguarded data. That is, data that is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable to as many people as possible.&nbsp;</p><p>The aim of this module is to enable the identification of data rich investments and understand the challenges that need to be overcome in order to deliver data transformative investments.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Value can be created from data when it is collected, accessed, used and shared. Maximising the value created from data can only be achieved when all of these aspects are considered. However this cycle is often broken as data is not shared and thus the same data cannot be collected and re-used by others.&nbsp;</p><p>This module introduces the key role of data sharing agreements and data licenses as ways to safely share data and maximise its reuse.</p>",
+    "pageBody": "",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -464,21 +464,27 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f9ac6aac1a411005ef8a6eb",
-    "_parentId": "course",
+    "_id": "5f203b30649ca8005e769a10",
     "_type": "page",
+    "_parentId": "course",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/998ebc1d7c382c8b81f4422982efce0f4b27a07d.jpg"
+      "src": "course/en/assets/abef6d2100174b0451a9583dbcc7566426b8c88d.jpg"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_aboutPage": {
       "aboutCredit": "",
@@ -487,12 +493,6 @@
     },
     "_ODILicence": {
       "_items": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_odi-generic": {
       "_backgroundImage": {
