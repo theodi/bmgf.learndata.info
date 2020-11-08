@@ -7566,7 +7566,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select two answers then click 'submit'",
+    "instruction": "Select your answers then click 'submit'",
     "_items": [
       {
         "text": "Damage to organisation’s reputation",
@@ -7600,9 +7600,9 @@
     "_selectable": 2,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p><strong>That's right!</strong></p><p>The most likely impact resulting from bad quality data is damage to an organisation's reputation. The severity of this will depend on just how bad the data quality is; all data has errors so some should always be expected. Not checking the quality of the data before using it could also lead to discrimination against people or groups.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The most likely impact resulting from bad quality data is damage to an organisation's reputation. The severity of this will depend on just how bad the data quality is; all data has errors so some should always be expected. Not checking the quality of the data before using it could also lead to discrimination against people or groups.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -7695,30 +7695,25 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer then click 'submit'",
+    "instruction": "Select your answers then click 'submit'",
     "_items": [
       {
         "text": "Damage to organisations reputation",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Organisation being fined for breaking the law",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Discrimination against people or groups",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "feedback": ""
       },
       {
         "text": "Loss of competitive advantage",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "All of the above",
         "_shouldBeSelected": true,
         "feedback": ""
       }
@@ -7731,12 +7726,12 @@
     "_isRandom": false,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 2,
+    "_selectable": 4,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>The potential impacts from data getting into the wrong hands can be very widespread depending on the type of the data and any external factors that control such data.</p><p>&nbsp;</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The potential impacts from data getting into the wrong hands can be very widespread depending on the type of the data and any external factors that control such data.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -7829,7 +7824,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select three answers then click 'submit'",
+    "instruction": "Select your answers then click 'submit'",
     "_items": [
       {
         "text": "Damage to organisation’s reputation",
@@ -7863,9 +7858,9 @@
     "_selectable": 3,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Personal and sensitive information should be handled with care. Many data protection regulations now stipulate that organisations can only collect what is necessary, not whatever they like. Even without a data breach, legal and/or reputational damage could result if it is discovered organisations are hoarding personal information unnecessarily. A breach in data protection regulations can also lead to discrimination against people or groups.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Personal and sensitive information should be handled with care. Many data protection regulations now stipulate that organisations can only collect what is necessary, not whatever they like. Even without a data breach, legal and/or reputational damage could result if it is discovered organisations are hoarding personal information unnecessarily. A breach in data protection regulations can also lead to discrimination against people or groups.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -10842,5 +10837,1770 @@
       "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
       "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
     }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Ensuring sustainable access to data",
+    "displayTitle": "",
+    "body": "<p>Sustainable access to data is critical to ensure that data remains FAIR and safeguarded over the long term. It is one thing to make data Findable, Accessible, Interoperable and Reusable (FAIR), but building in sustainable access to data helps to maximise the utility of data as a wider group of people can use the data over time to make better decisions and reduce risk.</p>",
+    "_id": "5fa80d8d94686b0069a21cd9",
+    "_parentId": "5fa80d5694686b0069a21cd8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Intro logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa80d9094686b0069a21cda",
+    "_parentId": "5fa80d5694686b0069a21cd8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "small": "course/en/assets/ef45514b3064a2015863efbb2490b695c819ee31.png",
+      "attribution": "<a href=\"https://www.gatesfoundation.org/\" target=\"_blank\">Bill & Melinda Gates Foundation</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>The need for sustainable access to data</li><li>When to plan for sustainable access to data</li><li>The aspects that help ensure sustainable access to data</li><li>Exemplars in sustainable access to data</li><li>How to choose the right solution to ensure sustainable access to data</li><li>The role of a data management plan in ensuring sustainable access to data</li><li>Tool and guides to help ensure sustainable access to data<br />&nbsp;</li></ul>",
+    "_id": "5fa80dc994686b0069a21cde",
+    "_parentId": "5fa80dbb94686b0069a21cdd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The need for sustainable access to data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa80e0194686b0069a21ce1",
+    "_parentId": "5fa80ded94686b0069a21cdf",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The need for sustainable access to data",
+    "displayTitle": "",
+    "body": "<p>Why do we need sustainable access to data?</p>",
+    "_id": "5fa80e0c94686b0069a21ce2",
+    "_parentId": "5fa80ded94686b0069a21cdf",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "To allow others to validate research outputs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To allow others to build on existing research and data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To allow others to build services on top of the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Sustainable access to data is important for a number of reasons. Being able to validate and build upon existing research is only one part of the argument. Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and use to reduce risk and improve decisions. Sustainable access supports data ecosystems, because it gives organisations the confidence to invest in using data to develop new products, services and research.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Sustainable access to data is important for a number of reasons. Being able to validate and build upon existing research is only one part of the argument. Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and use to reduce risk and improve decisions. Sustainable access supports data ecosystems, because it gives organisations the confidence to invest in using data to develop new products, services and research.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "When to plan for sustainable access to data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa80e7794686b0069a21ce8",
+    "_parentId": "5fa80e7794686b0069a21ce7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "When to plan for sustainable access to data",
+    "displayTitle": "",
+    "body": "<p>When should sustainable access to data be considered?</p>",
+    "_id": "5fa80e7794686b0069a21cec",
+    "_parentId": "5fa80e7794686b0069a21ce7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "At the “Refine Proposal” stage of an investment",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Any time after the grant proposal has been submitted.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "After grantees know what data has been collected.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "At the end of the grant period, when all related information is ready to be archived.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Planning for sustainable access to data should be built in from the very beginning of the grant proposal. People frequently make assumptions about what will happen when a project using data ends, without consulting people and organisations impacted by these assumptions. Too often it is tagged on as a box ticking exercise where a data management plan is produced and very little action taken as a result. Ensuring sustainable access to data will also incur a cost and this should be budgeted for at the start of the project.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Planning for sustainable access to data should be built in from the very beginning of the grant proposal. People frequently make assumptions about what will happen when a project using data ends, without consulting people and organisations impacted by these assumptions. Too often it is tagged on as a box ticking exercise where a data management plan is produced and very little action taken as a result. Ensuring sustainable access to data will also incur a cost and this should be budgeted for at the start of the project.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The aspects that help ensure sustainable access to data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa80ed694686b0069a21cef",
+    "_parentId": "5fa80ed694686b0069a21cee",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dc1f9d5eeabe55717ab2854196b3966496af8009.png",
+      "small": "course/en/assets/dc1f9d5eeabe55717ab2854196b3966496af8009.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The aspects that help ensure sustainable access to data",
+    "displayTitle": "",
+    "body": "<p>There are three key factors that help ensure sustainable access to data:</p>",
+    "_id": "5fa80ee094686b0069a21cf4",
+    "_parentId": "5fa80ed694686b0069a21cee",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Policies and processes",
+        "body": "<p dir=\"ltr\"><strong>Policies</strong>, including regulations and mandates directly affect sustainable access to data. The foundation has its own <a href=\"https://www.gatesfoundation.org/How-We-Work/General-Information/Open-Access-Policy\" target=\"_blank\">Open Access Policy</a> which requires data underlying the published research results be immediately accessible and open. Many publishers also have similar policies to ensure that research is reproducible.&nbsp;</p><p dir=\"ltr\">Outside of research, many governments have policies that require the publication and sharing of data that is essential in delivering societal, environmental and/or economic benefits to everyone. Such data often includes public sector data including geographic, environmental, demographic and financial data.</p><p dir=\"ltr\"><strong>Processes</strong>, including <a href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\">Data Management Plans</a> ensure that all relevant aspects of data management and requirements for longer term access to data are considered, and people, processes and resources are in place.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "People",
+        "body": "<p>Sustainable access to data depends on data stewardship. Assigning roles to people ensures it is clear who decides about and invests in datasets so they are accessible and usable in the long term. &nbsp;Such roles must be suitably resourced with appropriate time committed to managing and sustaining data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Technology",
+        "body": "<p>People, policies and processes need to be supported by appropriate standards and&nbsp; technology to curate and control access to the data. There are many ways data can be stored to support future access and use. Open access platforms help to make open data sustainable. Non-open data can also be sustainable when it is stored in ways that sustain access over time to appropriate users. The <a href=\"https://gatesopenresearch.org/for-authors/data-guidelines\">Gates Open Research</a> platform provides guidance on preparing data for publication and a non-exhaustive list of repositories approved by the Foundation.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Checking requirements",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa80f8494686b0069a21cf9",
+    "_parentId": "5fa80f5c94686b0069a21cf8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Checking requirements",
+    "displayTitle": "",
+    "body": "<p>There are many ways to store and manage data to ensure sustainable access over time. The choice of solution will be affected by many aspects. The questions outlined in this section&nbsp;can help explore the key requirements that will affect the choices made.</p>",
+    "_id": "5fa80f8794686b0069a21cfa",
+    "_parentId": "5fa80f5c94686b0069a21cf8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the legal and contractual obligations?",
+    "displayTitle": "",
+    "body": "<p><strong>Do we need to retain the data legally?</strong><br />Governments may require certain commitments or action - for example the Ethiopian Government requires that soil and agronomy data is maintained in a database system by the Ministry of Agriculture in order to ensure that data will be reliably accessible to the research community in the future.&nbsp;</p><p><strong>Do policies and mandates require the publication of data? Under what conditions?&nbsp;</strong><br />The BMGF open access policy requires that data underlying the published research results be immediately accessible and open.&nbsp;</p><p><strong>How long does the data need to be available for?</strong><br />Does it need to be removed after a certain period of time (for example for privacy reasons)?<br />&nbsp;</p>",
+    "_id": "5fa80fea94686b0069a21cff",
+    "_parentId": "5fa80fd594686b0069a21cfe",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the legal and contractual obligations?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa80fec94686b0069a21d00",
+    "_parentId": "5fa80fd594686b0069a21cfe",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who are the data users and what are their goals?",
+    "displayTitle": "",
+    "body": "<p>Partners, funders, customers or users of a service may specify clear needs to access or use data over a longer period of time, or may have their own strategic goals related to providing access to data that have an impact on how sustainable data collected during a grant needs to be.</p><p>The data ecosystem mapping tool helps to map out both existing and potential reusers of data and will help define requirements for sustainability.&nbsp;</p>",
+    "_id": "5fa8102f94686b0069a21d05",
+    "_parentId": "5fa8102f94686b0069a21d04",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Who are the data users and what are their goals?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa8102f94686b0069a21d06",
+    "_parentId": "5fa8102f94686b0069a21d04",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What are the legal and contractual obligations?",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\"><strong>Is the data suitable for use in digital enabled services and require ongoing updates and maintenance to ensure relevance?&nbsp;</strong></p><p dir=\"ltr\">The <a href=\"https://gatesopenresearch.org/for-authors/data-guidelines\" target=\"_blank\">Gates Open Research</a> platform provides guidance on preparing data for publication and a non-exhaustive list of repositories approved by the BMGF. It also describes the desirable properties of a repository, which should:</p><ul><li>Enable access to the dataset</li><li>Ensure dataset persistence</li><li>Ensure dataset stability</li><li>Enable searching and retrieval of datasets</li></ul>",
+    "_id": "5fa8105e94686b0069a21d0b",
+    "_parentId": "5fa8105e94686b0069a21d0a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is the scope of the data reuse?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa8105e94686b0069a21d0c",
+    "_parentId": "5fa8105e94686b0069a21d0a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Is the chosen solution suitable for the capability of both current and potential users?",
+    "displayTitle": "",
+    "body": "<p>Consider such things as:</p><ul><li>Using existing standards rather than creating new ones</li><li>Use already existing and widely used identifiers for things</li><li>Document your data, describe its attributes, features and limitations</li><li>Showcasing existing ways to use the data</li><li>Being an active member of the community, allowing others to reach out to you for help or to make suggestions.</li></ul><p>There are many <a href=\"https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/\" target=\"_blank\">self assessment tools</a> that allow data publishers to show they are following best practices in making data findable, accessible, interoperable and reusable, enabling data reusers to use data with confidence.&nbsp;</p>",
+    "_id": "5fa810b394686b0069a21d11",
+    "_parentId": "5fa810b394686b0069a21d10",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Is the chosen solution suitable for the capability of both current and potential users?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa810b394686b0069a21d12",
+    "_parentId": "5fa810b394686b0069a21d10",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How will sustainable access be funded?",
+    "displayTitle": "",
+    "body": "<p>Alternatively data may be deposited or handed off to a third party. At this point it is important to carefully consider the commitment to sustainable access to data of the third party, including aspects such as funding as well as conflicting or commercial interests that may affect access to data. For example an agreement between the research repository FigShare and the LOCKSS (Lots Of Copies Keeps Stuff Safe) alliance means that if a “trigger event” is caused on FigShare (e.g. they cease to exist or a commercial interest changes access permissions) then the <a href=\"https://figshare.com/blog/Ensuring_persistence_on_figshare/25\" target=\"_blank\">controlled copy in the LOCKSS archive can be released</a>.&nbsp;</p>",
+    "_id": "5fa8114394686b0069a21d17",
+    "_parentId": "5fa8114394686b0069a21d16",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How will sustainable access be funded?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa8114394686b0069a21d18",
+    "_parentId": "5fa8114394686b0069a21d16",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Types of data repositories",
+    "displayTitle": "Types of data repositories",
+    "body": "<p>There are several different types of data repository, each fulfil a different need and set of requirements.</p>",
+    "_id": "5fa811ce94686b0069a21d1d",
+    "_parentId": "5fa811b694686b0069a21d1c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Research data repositories",
+        "_ariaLevel": 0,
+        "body": "<p>Research data repositories come in two main flavours, discipline-specific and interdisciplinary, and broadly allow anyone to contribute data.. Some of the more established interdisciplinary repositories include <a href=\"https://dataverse.harvard.edu/\" target=\"_blank\">Dataverse</a>, <a href=\"https://figshare.com/\" target=\"_blank\">FigShare </a>and <a href=\"https://zenodo.org/\" target=\"_blank\">Zenodo</a>. Many of these are backed but large communities of funders as well as academic journals who partner with them in order to ensure sustainable access to research data. Disciplinary research repositories are also popular and include specific repositories such as <a href=\"http://www.rcsb.org/pdb/home/home.do\" target=\"_blank\">Protein Data Bank</a> and <a href=\"http://www.chemspider.com/\" target=\"_blank\">ChemSpider</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Research data repositories"
+      },
+      {
+        "title": "Government data platforms",
+        "_ariaLevel": 0,
+        "body": "<p>Government data platforms provide a platform through which any government or country specific data can be accessed. Governments often have clauses which require anyone working with specific types of data, be it as a government department or third party organisation, to make data available via the official government platform. Examples include <a href=\"https://data.gov.uk/\" target=\"_blank\">data.gov.uk</a>, <a href=\"https://data.gov.in/\" target=\"_blank\">data.gov.in</a> and <a href=\"http://opendata.go.tz\" target=\"_blank\">opendata.go.tz</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Government data platforms"
+      },
+      {
+        "title": "Curated data repositories",
+        "_ariaLevel": 0,
+        "body": "<p>Curated data repositories, such as the <a href=\"http://www.fao.org/statistics/en/\" target=\"_blank\">FAO Data bank</a>,&nbsp; <a href=\"https://data.worldbank.org/\" target=\"_blank\">World Bank open data portal</a> and <a href=\"https://landportal.org/who-we-are\" target=\"_blank\">land portal</a>, provide sustainable access to carefully managed and curated sets of reference data. Unlike the general research repositories, curated data repositories are able to offer data services (such as direct access to the data via an API rather than just file downloads). Each of these providers are sustainable through country memberships and donor contributions. A curated data repository provides most flexibility for providing specific data services however establishing and sustaining a curated data repository is challenging and many are not able to be sustained long term.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Curated data repositories"
+      },
+      {
+        "title": "Code and data platforms",
+        "_ariaLevel": 0,
+        "body": "<p>A number of providers provide a hybrid platform somewhere between the research data repository and the curated data repository. Such code and data platforms offer management features such as version control, ingest pipelines and validation services. One of the most popular platforms for both code and data is <a href=\"https://github.com/\" target=\"_blank\">GitHub</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Code and data platforms"
+      }
+    ]
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a data repository",
+    "displayTitle": "",
+    "body": "<p>Match the following datasets to the most appropriate data repository that provides sustainable access?</p>",
+    "_id": "5fa812c394686b0069a21d23",
+    "_parentId": "5fa8129494686b0069a21d22",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "A static research dataset related to a research publication:",
+        "_options": [
+          {
+            "text": "A research data repository",
+            "_isCorrect": true
+          },
+          {
+            "text": "A government data service",
+            "_isCorrect": false
+          },
+          {
+            "text": "A code/data platform",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A survey of agricultural land use in Ethiopia",
+        "_options": [
+          {
+            "text": "A research data repository",
+            "_isCorrect": false
+          },
+          {
+            "text": "A government data service",
+            "_isCorrect": true
+          },
+          {
+            "text": "A code/data platform",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "An evolving set of analysis and continually updating data",
+        "_options": [
+          {
+            "text": "A research data repository",
+            "_isCorrect": false
+          },
+          {
+            "text": "A government data service",
+            "_isCorrect": false
+          },
+          {
+            "text": "A code/data platform",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>One platform is not going to match the needs of all data users and types of data. It is important to consider carefully aspects such as the type of data, how often it is updated as well as who potential users of the data are and what they require.&nbsp;</p><p>A static dataset related to a research publication is best off in a research data repository (such as FigShare).&nbsp;</p><p>Due to a legal requirement in Ethiopia, a copy of the agricultural data must be deposited in the government platform (this is not to say it cannot also be deposited somewhere else also).&nbsp;</p><p>For continually evolving data, a platform more suited to handling regular updates, such as GitHub, could be used.&nbsp;</p><p>If there is concern about the sustainability of a single platform, then consider using a number of different platforms. A number of different platforms may also better suit the needs of different users and sets of requirements in your data ecosystem.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>One platform is not going to match the needs of all data users and types of data. It is important to consider carefully aspects such as the type of data, how often it is updated as well as who potential users of the data are and what they require.&nbsp;</p><p>A static dataset related to a research publication is best off in a research data repository (such as FigShare).&nbsp;</p><p>Due to a legal requirement in Ethiopia, a copy of the agricultural data must be deposited in the government platform (this is not to say it cannot also be deposited somewhere else also).&nbsp;</p><p>For continually evolving data, a platform more suited to handling regular updates, such as GitHub, could be used.&nbsp;</p><p>If there is concern about the sustainability of a single platform, then consider using a number of different platforms. A number of different platforms may also better suit the needs of different users and sets of requirements in your data ecosystem.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a data repository",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa812c594686b0069a21d24",
+    "_parentId": "5fa8129494686b0069a21d22",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Using multiple data repositories and platforms",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa8134794686b0069a21d27",
+    "_parentId": "5fa8134794686b0069a21d26",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Using multiple data repositories and platforms",
+    "displayTitle": "",
+    "body": "<p>What is the advantage of depositing data in multiple data repositories and platforms?</p>",
+    "_id": "5fa8134794686b0069a21d2b",
+    "_parentId": "5fa8134794686b0069a21d26",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "Each platform can suit different user needs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increases the chances of long term sustainable access",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Increases the visibility of the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Unlike a physical asset, data can be replicated and transformed into multiple versions simultaneously. So when considering how to ensure sustainable access to data, rather than consider a single solution, choosing a number of solutions has multiple benefits. This also has benefits when one of the solutions might be required legally but not be appropriate for everyone. Planning early can also help ensure that preparing and depositing data in multiple places is easier from day one.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Unlike a physical asset, data can be replicated and transformed into multiple versions simultaneously. So when considering how to ensure sustainable access to data, rather than consider a single solution, choosing a number of solutions has multiple benefits. This also has benefits when one of the solutions might be required legally but not be appropriate for everyone. Planning early can also help ensure that preparing and depositing data in multiple places is easier from day one.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Using multiple data repositories and platforms",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa8139994686b0069a21d2e",
+    "_parentId": "5fa8139994686b0069a21d2d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Planning for sustainable access to data starts with a data management plan",
+    "displayTitle": "",
+    "body": "<p>Data should be actively managed to;</p>",
+    "_id": "5fa8139994686b0069a21d32",
+    "_parentId": "5fa8139994686b0069a21d2d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "ensure that data is not lost or corrupted",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "ensure the security of sensitive data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "make data FAIR – Findable, Accessible, Interoperable and Reusable",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "ensure that data is made open, for anyone to access, use and share, where possible",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "all of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>A data management plan outlines how data are to be handled both during a project, and after the project is completed. The goal of a data management plan is to consider the many aspects of data management before the project begins to ensure data is safeguarded and shared as widely as possible. . Creating a data management plan should, ideally, be a collaborative, iterative, process involving all stakeholders in a project, including financial donors.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A data management plan outlines how data are to be handled both during a project, and after the project is completed. The goal of a data management plan is to consider the many aspects of data management before the project begins to ensure data is safeguarded and shared as widely as possible. . Creating a data management plan should, ideally, be a collaborative, iterative, process involving all stakeholders in a project, including financial donors.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What should a data management plan outline?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa8157e94686b0069a21d35",
+    "_parentId": "5fa8157e94686b0069a21d34",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "small": "course/en/assets/6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg",
+      "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What should a data management plan outline?",
+    "displayTitle": "",
+    "body": "<p>Which of the following should be included in a data management plan?</p>",
+    "_id": "5fa8157e94686b0069a21d39",
+    "_parentId": "5fa8157e94686b0069a21d34",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer, then click 'submit'",
+    "_items": [
+      {
+        "text": "A clear list and description of data in scope",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A list of roles and responsibilities",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A clear and realistic budget",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Descriptions of the data analysis being performed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "An outline of a potential future project that reuses the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>A good data management plan will include elements related to sustainability of data such as;</p><ul><li>A data inventory that lists the data and identifies any third party rights in the data</li><li>A list of platforms and agreements that support the sustainability of the data (e.g. in government data platforms)</li><li>A set of roles and responsibilities related to the continued management of data</li><li>A clear and realistic budget</li><li>Any training or capacity development needs that will support sustainable access to the data</li></ul><p>There is no one-size-fits-all approach to managing data and the appropriate course of action will need to take into account the nature of the data and its intended use. The related guide on <a href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\">Developing a data management plan: a checklist</a> can help ensure that an effective data management plan is put in place.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A good data management plan will include elements related to sustainability of data such as;</p><ul><li>A data inventory that lists the data and identifies any third party rights in the data</li><li>A list of platforms and agreements that support the sustainability of the data (e.g. in government data platforms)</li><li>A set of roles and responsibilities related to the continued management of data</li><li>A clear and realistic budget</li><li>Any training or capacity development needs that will support sustainable access to the data</li></ul><p>There is no one-size-fits-all approach to managing data and the appropriate course of action will need to take into account the nature of the data and its intended use. The related guide on <a href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\">Developing a data management plan: a checklist</a> can help ensure that an effective data management plan is put in place.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sustainable access and FAIR data",
+    "displayTitle": "",
+    "body": "<p>Match the long descriptions to the relevant aspect of the FAIR acronym.</p>",
+    "_id": "5fa8160094686b0069a21d3c",
+    "_parentId": "5fa8160094686b0069a21d3b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "The data can be easily combined and integrated with other data though the use of standard language, structure and data formats.",
+        "_options": [
+          {
+            "text": "Findable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accessible",
+            "_isCorrect": false
+          },
+          {
+            "text": "Interoperable",
+            "_isCorrect": true
+          },
+          {
+            "text": "Reusable",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Both humans and machines can easily retrieve, view and process the data without the need for complex retraining. ",
+        "_options": [
+          {
+            "text": "Findable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accessible",
+            "_isCorrect": true
+          },
+          {
+            "text": "Interoperable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Reusable",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The data is clearly licensed so both humans and machines understand their rights and permissions for use.",
+        "_options": [
+          {
+            "text": "Findable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Accessible",
+            "_isCorrect": false
+          },
+          {
+            "text": "Interoperable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Reusable",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Data is listed and referenced from many places using links and identifiers that help people navigate to the data.",
+        "_options": [
+          {
+            "text": "Findable",
+            "_isCorrect": true
+          },
+          {
+            "text": "Accessible",
+            "_isCorrect": false
+          },
+          {
+            "text": "Interoperable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Reusable",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p><strong>Findable d</strong>ata is listed and referenced from many places using links and identifiers that help people navigate to the data.</p><p><strong>Accessible </strong>data is that which both humans and machines can easily retrieve, view and process the data without the need for complex retraining.&nbsp;</p><p><strong>Interoperable </strong>data can be easily combined and integrated with other data though the use of standard language, structure and data formats.</p><p><strong>Reusable</strong> data is clearly licensed so both humans and machines understand their rights and permissions for use.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p><strong>Findable d</strong>ata is listed and referenced from many places using links and identifiers that help people navigate to the data.</p><p><strong>Accessible </strong>data is that which both humans and machines can easily retrieve, view and process the data without the need for complex retraining.&nbsp;</p><p><strong>Interoperable </strong>data can be easily combined and integrated with other data though the use of standard language, structure and data formats.</p><p><strong>Reusable</strong> data is clearly licensed so both humans and machines understand their rights and permissions for use.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Planning for sustainable access to data should be built in from the very beginning of the grant proposal.</p><p>Sustainable access to data is critical to ensure that data remains FAIR and safeguarded over the long term. It is one thing to make data Findable, Accessible, Interoperable and Reusable (FAIR).</p><p>There are many ways to store and manage data to ensure sustainable access over time. The choice of solution will be affected by many aspects.</p><p>The related guide on <a href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\">Developing a data management plan: a checklist</a> can help ensure that an effective data management plan is put in place. &nbsp;&nbsp; &nbsp;</p>",
+    "_id": "5fa817aa94686b0069a21d46",
+    "_parentId": "5fa8179b94686b0069a21d45",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-two summary clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa817ad94686b0069a21d47",
+    "_parentId": "5fa8179b94686b0069a21d45",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Guides and tools to help with data sustainability",
+    "displayTitle": "Guides and tools to help with data sustainability",
+    "body": "",
+    "_id": "5fa81a1c94686b0069a21d4a",
+    "_parentId": "5fa8170b94686b0069a21d43",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Cheat sheet: Ensuring sustainable access to data",
+        "body": "<p>TBC</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Guide: Ensuring sustainable access to data",
+        "body": "<p>This guide is to help program officers and grantees ensure data created and used during projects continues to be useful and usable once projects end.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Developing a data management plan: a checklist ",
+        "body": "<p dir=\"ltr\">This document is intended to act as a checklist to support the creation of a data management plan for a research project.</p><p dir=\"ltr\"><a class=\"button\" href=\"https://gatesopenresearch.org/documents/2-46\" target=\"_blank\"><strong>Download the guide</strong></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "How to create a data inventory: a checklist ",
+        "body": "<p>This short guide provides</p><ul><li>a summary of the benefits of creating a data inventory</li><li>an outline of the steps to create a data inventory</li><li>some recommendations about what metadata to include in an inventory</li></ul><p><a class=\"button\" href=\"https://gatesopenresearch.org/documents/2-45\" target=\"_blank\"><strong>Download the guide</strong></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Gates Open Research - Data guidelines",
+        "body": "<p>Gates Open Research requires that the source data underlying the results are made available as soon as an article is published. The Gates open research data guidelines provide information about what data is in scope, how it can be stored, and how data should be presented.</p><p><a class=\"button\" href=\"https://gatesopenresearch.org/for-authors/data-guidelines\" target=\"_blank\">Download the guide</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data ecosystem mapping tool",
+        "body": "<p dir=\"ltr\">A data ecosystem map illustrates the different actors in a data ecosystem, and how value is exchanged. It helps illustrate the needs for sustainable access to data and gives a visual indication of who the key stakeholders are and what their requirements might be.&nbsp;</p><p>This sits alongside the&nbsp;<a href=\"https://gatesopenresearch.org/documents/2-43\">understanding personas in agricultural data ecosystems guide</a>. which looks at some practical examples of ecosystems in agriculture and outlines the different types of personas based upon interviews with stakeholders.</p><p><a class=\"button\" href=\"https://theodi.org/article/data-ecosystem-mapping-tool/\" target=\"_blank\">Download the ecosystem mapping tool</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   }
 ]

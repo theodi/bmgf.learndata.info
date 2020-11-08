@@ -7,6 +7,19 @@
     "attribution": "unknown",
     "tags": []
   },
+  "a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png": {
+    "title": "Burst white",
+    "description": "Source: ODI",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": [
+      {
+        "title": "ODI splash",
+        "_id": "5ee397a3b045644557c81a7a"
+      }
+    ]
+  },
   "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
     "title": "Rectangle placeholder image",
     "description": "Rectangle placeholder image",
@@ -445,6 +458,14 @@
     "source": "https://ramanihuria.org/",
     "licence": "All rights reserved",
     "attribution": "Ramani Huria",
+    "tags": []
+  },
+  "5f304f6e4df61a3808b04815b668463e3d448b18.jpg": {
+    "title": "Sustainable plant hand",
+    "description": "Sustainable plant hand",
+    "source": "https://www.pexels.com/photo/person-holding-a-green-plant-1072824/",
+    "licence": "CC-BY",
+    "attribution": "Akil Mazumder",
     "tags": []
   }
 }

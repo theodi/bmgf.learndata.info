@@ -450,6 +450,81 @@
     }
   },
   {
+    "title": "Ensuring sustainable access to data",
+    "displayTitle": "Ensuring sustainable access to data",
+    "body": "<p>Sustainable access to data is critical to ensure that data remains FAIR and safeguarded over the long term. It is one thing to make data Findable, Accessible, Interoperable and Reusable (FAIR), but building in sustainable access to data helps to maximise the utility of data as a wider group of people can use the data over time to make better decisions and reduce risk.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5fa80d5694686b0069a21cd6",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/5f304f6e4df61a3808b04815b668463e3d448b18.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Delivering data transformative investments [V1]",
     "displayTitle": "Delivering data transformative investments",
     "body": "<p>At the heart of data transformative grants is FAIR and Safeguarded data. That is, data that is <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable to as many people as possible.&nbsp;</p><p>The aim of this module is to enable the identification of data rich investments and understand the challenges that need to be overcome in order to deliver data transformative investments.</p>",
