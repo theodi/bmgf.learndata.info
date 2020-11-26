@@ -268,46 +268,6 @@
     "attribution": "Smart Sheet",
     "tags": []
   },
-  "8defe8045ed79fc6de4defd44f20bf30d3d45684.png": {
-    "title": "F&S1",
-    "description": "F&S1",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
-  "87769ba56a96d692ebb4a0ac650858596ccb1bdf.png": {
-    "title": "F&S2",
-    "description": "F&S2",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
-  "8c1b0ea7cbdc6b3ea1a1a57889ec27adb63a6727.png": {
-    "title": "F&S3",
-    "description": "F&S3",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
-  "5efc2faa7b04dcb6f2f28950c0e6f04d5daf3434.png": {
-    "title": "F&S4",
-    "description": "F&S4",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
-  "dc1f9d5eeabe55717ab2854196b3966496af8009.png": {
-    "title": "F&S5",
-    "description": "F&S5",
-    "source": "https://theodi.org",
-    "licence": "CC-BY",
-    "attribution": "Open Data Institute",
-    "tags": []
-  },
   "d4acb6dd2cbb77086cec55e0fdeacad7258587da.png": {
     "title": "Identifying activities",
     "description": "Identifying activities",
@@ -599,6 +559,38 @@
   "e5cb9e035b4c35b493f8cb3f967bd4b416c87653.png": {
     "title": "Factors that disrupt",
     "description": "Factors that disrupt",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "da914319e6bff338a09bdef3dc358362ad72564d.png": {
+    "title": "FAIR Data",
+    "description": "FAIR Data",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "44620cd8fb4d8d8a5a6cd18d50d78b34ce30cd96.png": {
+    "title": "FAIR Data 2",
+    "description": "FAIR Data 2",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "a18ed9ef91843e0fb6f6d171fcdfa3fc701129b8.png": {
+    "title": "FAIR Data 3",
+    "description": "FAIR Data 3",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Open Data Institute",
+    "tags": []
+  },
+  "90d9887dd5b71ee70ac64d6e29af8b52dee3b35c.png": {
+    "title": "People Process Technology Blank",
+    "description": "People Process Technology Blank",
     "source": "https://theodi.org",
     "licence": "CC-BY",
     "attribution": "Open Data Institute",
