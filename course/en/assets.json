@@ -707,5 +707,21 @@
     "licence": "CC0",
     "attribution": "Creative Commons",
     "tags": []
+  },
+  "b0a2f460efaa8a9cfde22d276d90103d99b213c6.png": {
+    "title": "iDSAsoil",
+    "description": "iDSAsoil",
+    "source": "https://www.isda-africa.com/isdasoil/",
+    "licence": "CC-BY",
+    "attribution": "iDSA",
+    "tags": []
+  },
+  "844896a5b4d6cb8b5c3ca8c764ce3af526be6417.jpg": {
+    "title": "Bonares",
+    "description": "Bonares",
+    "source": "https://www.bonares.de/",
+    "licence": "All rights reserved",
+    "attribution": "Bonares",
+    "tags": []
   }
 }

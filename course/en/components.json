@@ -3451,9 +3451,9 @@
         "_ariaLevel": 0,
         "body": "<p><a href=\"https://www.bonares.de/\" target=\"_blank\">BonaRes </a>brings together experts in soil from over 50 institutions to research ways to balance efficient use of soils with protecting the environment with the end goal of supporting farmers to improve decision making.&nbsp;</p><p>To ensure data is findable the team published an open inventory of data they hold using a consistent vocabulary. They also tag all datasets with a licence that clearly outlines reuse rights.</p><p>Challenges are still being faced where there is a lack of trust in others use of data and benefits of permitting commercial reuse of the data.</p>",
         "_graphic": {
-          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "src": "course/en/assets/844896a5b4d6cb8b5c3ca8c764ce3af526be6417.jpg",
           "alt": "",
-          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://www.bonares.de/\" target=\"_blank\">Bonares</a> <span class='assetLicence'>[All rights reserved]</span>"
         },
         "strapline": "The BonaRes Repository"
       },
@@ -3462,9 +3462,9 @@
         "_ariaLevel": 0,
         "body": "<p>The Innovative Solutions for Decision Agriculture Soil platform provide soil information maps at a resolution of 30 meters, encompassing 24 billion unique locations across Africa.</p><p>All data is easily accessible through an easy to use and well documented API and all available under a license that allows anyone to freely reuse the data.</p><p><a href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">Explore the iSDAsoil platform for yourself</a></p>",
         "_graphic": {
-          "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
+          "src": "course/en/assets/b0a2f460efaa8a9cfde22d276d90103d99b213c6.png",
           "alt": "",
-          "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
+          "attribution": "<a href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">iDSA</a> <span class='assetLicence'>[CC-BY]</span>"
         },
         "strapline": "iSDAsoil"
       }
