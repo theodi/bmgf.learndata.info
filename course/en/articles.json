@@ -835,7 +835,7 @@
     "title": "Linking concerns to impact",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-two invert-odd",
+    "_classes": "color-two invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1347,7 +1347,7 @@
     "title": "Evaluating risk",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one invert-even",
+    "_classes": "color-one invert-odd",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1362,10 +1362,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_isEnabled": false,
@@ -1393,6 +1389,10 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1856,70 +1856,6 @@
     }
   },
   {
-    "title": "Analysing likelihood and severity",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-one invert-even",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f56432de3e277005c8a91ab",
-    "_parentId": "5f56255ae3e277005c8a90ea",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": true,
-      "_id": "liklihood_impact",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": true,
-        "_blockCount": 1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": true,
-        "_canShowMarking": true,
-        "_canShowModelAnswer": true
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "Building agreements and licences",
     "displayTitle": "",
     "body": "",
@@ -2115,7 +2051,7 @@
     "title": "Evaluating risk (2)",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one invert-odd",
+    "_classes": "color-one invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2130,10 +2066,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_isEnabled": false,
@@ -2161,6 +2093,10 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2243,7 +2179,7 @@
     "title": "Categories of risks",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-three invert-even",
+    "_classes": "color-three invert-odd",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2258,10 +2194,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_isEnabled": false,
@@ -2289,6 +2221,10 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2371,7 +2307,7 @@
     "title": "Dealing with risks",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one invert-odd",
+    "_classes": "color-one invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2386,10 +2322,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_isEnabled": false,
@@ -2417,6 +2349,10 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2451,10 +2387,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
       "_isEnabled": false,
       "_id": "",
@@ -2481,6 +2413,10 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {

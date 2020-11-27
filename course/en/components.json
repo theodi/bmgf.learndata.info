@@ -1509,7 +1509,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1564,7 +1564,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -1916,7 +1916,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2007,135 +2007,6 @@
       "alt": "",
       "large": "course/en/assets/8b4124db055d0b1e89fe4b812d9a1c1644f9b579.png",
       "small": "course/en/assets/8b4124db055d0b1e89fe4b812d9a1c1644f9b579.png",
-      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Knowing your rights",
-    "displayTitle": "",
-    "body": "<p>Under modern data protection regulations, such as the General Data Protection Regulation (GDPR), what rights do individuals have over data about them?</p>",
-    "_id": "5f22d465d9139d00c79a7601",
-    "_parentId": "5f22d3ebd9139d00c79a7600",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Select your answer then click 'submit'",
-    "_items": [
-      {
-        "text": "The right to be informed how data about them is processed",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "The right to access data about them",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "The right to object or withdraw consent",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "All of the above",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Knowing your rights",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5f22d467d9139d00c79a7602",
-    "_parentId": "5f22d3ebd9139d00c79a7600",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/c3321ccc5ab2cb1f94bdbc4e85c41b6c0a1cd9de.png",
-      "small": "course/en/assets/c3321ccc5ab2cb1f94bdbc4e85c41b6c0a1cd9de.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
@@ -2409,7 +2280,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2528,7 +2399,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2590,7 +2461,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "clipboard",
+    "_classes": "clipboard mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2624,7 +2495,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2742,7 +2613,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2871,7 +2742,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -2947,7 +2818,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Why data transformation is critical to realise wider BMGF aims",
+    "title": "Why FAIR and safeguarded data within investments is critical to realise BMGF aims",
     "displayTitle": "",
     "body": "<p><strong>The Bill and Melinda Gates Foundation is committed to information sharing and transparency</strong>. In order to deliver on this commitment it is critical to ensure data and information collected, accessed, used or shared within investments is FAIR and safeguarded.</p><p>Digitally-enabled services rely on sustainable access to relevant data, provided in a way that enables integration, analysis and use to reduce risk and improve decisions. Data is often not shared or managed well, which means that the Gates Foundation does not receive the highest possible return from investments and the value that can be created from data is not realised.</p>",
     "_id": "5f31425dde0993008a594483",
@@ -3066,7 +2937,7 @@
         "feedback": ""
       },
       {
-        "text": "People to lead, support and advocate for FAIR and transformative data",
+        "text": "People to lead, support and advocate for FAIR and safeguarded data",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -3124,7 +2995,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3179,7 +3050,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -3343,7 +3214,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3545,7 +3416,7 @@
     "_disableAccessibilityState": false,
     "title": "Showcasing benefits: Examples of FAIR and safeguarded data",
     "displayTitle": "",
-    "body": "<p>The following are a selection of projects implementing or moving towards implementation of FAIR and safeguarded data in the agricultural sector. You can read more about each in the associated case study document.</p>",
+    "body": "<p>The following are a selection of projects implementing or moving towards implementation of FAIR and safeguarded data in the agricultural sector.</p>",
     "_id": "5f31425dde0993008a5944a3",
     "_parentId": "5f31425dde0993008a594471",
     "_type": "component",
@@ -3587,21 +3458,21 @@
         "strapline": "The BonaRes Repository"
       },
       {
-        "title": "Case study 3",
+        "title": "iSDAsoil",
         "_ariaLevel": 0,
-        "body": "<p>TBC</p>",
+        "body": "<p>The Innovative Solutions for Decision Agriculture Soil platform provide soil information maps at a resolution of 30 meters, encompassing 24 billion unique locations across Africa.</p><p>All data is easily accessible through an easy to use and well documented API and all available under a license that allows anyone to freely reuse the data.</p><p><a href=\"https://www.isda-africa.com/isdasoil/\" target=\"_blank\">Explore the iSDAsoil platform for yourself</a></p>",
         "_graphic": {
           "src": "course/en/assets/3267fe06e17b267d0b9b38318876b879a8a7f031.jpg",
           "alt": "",
           "attribution": "<a href=\"https://adaptlearning.github.io/v4demo/#/id/co-05\" target=\"_blank\">Adapt eLearning</a> <span class='assetLicence'>[CC0]</span>"
         },
-        "strapline": "Case study 3"
+        "strapline": "iSDAsoil"
       }
     ]
   },
   {
     "_component": "graphic",
-    "_classes": "clipboard",
+    "_classes": "clipboard mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3671,7 +3542,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Identifying activities",
+    "title": "Identifying investments requiring FAIR and safeguarded data",
     "displayTitle": "",
     "body": "<p>Which types of activities will require FAIR and safeguarded data within investments?</p>",
     "_id": "5f31425dde0993008a5944ab",
@@ -3758,7 +3629,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3813,7 +3684,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -3910,7 +3781,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3954,7 +3825,7 @@
     "_disableAccessibilityState": false,
     "title": "Roles and responsibilities (Grantees)",
     "displayTitle": "",
-    "body": "<p>What is the role of a grantee in ensuring that grants are data transformative?</p>",
+    "body": "<p>What is the role of a grantee in delivering FAIR and safeguarded data within investments?</p>",
     "_id": "5f31425dde0993008a5944b4",
     "_parentId": "5f31425dde0993008a594476",
     "_type": "component",
@@ -3971,7 +3842,7 @@
     "instruction": "Select two answers then click 'submit'",
     "_items": [
       {
-        "text": "To take responsibility for data transformation in their grants",
+        "text": "To take responsibility for access, use and sharing of data in their grants",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -3999,7 +3870,7 @@
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>Grantees need to take a key role in delivering FAIR and safeguarded data within investments. Primarily this involves addressing the core constraints, considering and planning for data access, use and sharing from the outset, educating themselves and others to overcome fears and putting in place the policies and processes that will not only support their grant, but lead to increased data utility and return of value from the data.</p>",
@@ -4039,7 +3910,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4201,7 +4072,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4256,14 +4127,14 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4401,7 +4272,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Stakeholders in enabling environment",
+    "title": "Stakeholders in an enabling environment",
     "displayTitle": "",
     "body": "<p>Which stakeholders have significant influence on the enabling environment?</p>",
     "_id": "5f522138e8f6db433574b26f",
@@ -4493,7 +4364,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4501,7 +4372,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Knowing your rights",
+    "title": "Stakeholders in enabling environment",
     "displayTitle": "",
     "body": "",
     "_id": "5f522138e8f6db433574b270",
@@ -4583,7 +4454,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4895,7 +4766,7 @@
       {
         "title": "Building skills in Tanzania",
         "_ariaLevel": 0,
-        "body": "<p>In Tanzania, the <a href=\"https://ramanihuria.org/en/\" target=\"_blank\">Ramini Huria</a> project trained local stakeholders in how to create highly accurate maps of the most flood-prone areas of the city.</p><p>In order to address concerns over data governance, those involved in the project were trained in the benefits of working with open platforms including OpenStreetMap, ensuring that data remains available and usable by everyone, including local governments and authorities, beyond the end of the project.</p>",
+        "body": "<p>In Tanzania, the <a href=\"https://ramanihuria.org/en/\" target=\"_blank\">Ramini Huria</a> project trained local stakeholders in how to create highly accurate maps of the most flood-prone areas of the city.</p><p>In order to address concerns over data governance, those involved in the project were trained in the benefits of working with open platforms, including OpenStreetMap, ensuring that data remains available and usable by everyone, including local governments and authorities, beyond the end of the project.</p>",
         "_graphic": {
           "src": "course/en/assets/d5cad5c033cc3f5afd9b3c7ec412142c73b7e0ec.png",
           "alt": "",
@@ -5184,7 +5055,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select three answers then click 'submit'",
+    "instruction": "Select your answer then click 'submit'",
     "_items": [
       {
         "text": "At concept stage only",
@@ -5255,7 +5126,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -5325,8 +5196,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Who can help",
-    "displayTitle": "Who can help",
+    "title": "Who can help?",
+    "displayTitle": "Who can help?",
     "body": "<p>Evaluating and continually monitoring the enabling environment can be a complex, time demanding task. Who can help with the process?</p>",
     "_id": "5f525bb1e8f6db433574b2a9",
     "_parentId": "5f525bb1e8f6db433574b2a8",
@@ -5341,7 +5212,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select three answers then click 'submit'",
+    "instruction": "Select your answer then click 'submit'",
     "_items": [
       {
         "text": "Foundation business partners",
@@ -5417,7 +5288,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -5521,7 +5392,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": " The role of the Foundation as a stakeholder",
+    "title": "Considering reusability of data from third party sources",
     "displayTitle": "",
     "body": "<p>Following these checks, further processing will likely be required to:</p><ul><li>Check the data for, and deal with, any errors</li><li>Remove unneeded data</li><li>Transform the format or structure of the data</li><li>Apply techniques such as anonymisation to minimise harmful impacts in the data prior to use</li><li>Combining or enriching the data with other data sources.&nbsp;</li></ul>",
     "_id": "5f55e15ec195b3005eb2c4db",
@@ -5534,7 +5405,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -5569,7 +5440,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "clipboard",
+    "_classes": "clipboard mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6134,7 +6005,7 @@
         ]
       },
       {
-        "text": "Responsible for ensuring everyone in the grant ecosystem has the appropriate rights and permission to access, use and share data, to ensure success of the grant.",
+        "text": "Responsible for ensuring everyone in the grant ecosystem has the appropriate rights and permissions to access, use and share data, to ensure success of the grant.",
         "_options": [
           {
             "text": "Innovators",
@@ -6422,7 +6293,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Mapping data spectrums",
+    "title": "Mapping data ecosystems",
     "displayTitle": "",
     "body": "<p dir=\"ltr\">A data ecosystem map also can be used to describe how data is being shared across The Data Spectrum. A map can show how data is being used to deliver a service, or show where data is not being shared. Understanding where value is or may be created from shared data will inform conversations with third parties on rights and permissions to reuse data.</p><p dir=\"ltr\">The FAIR data toolbox contains a link to guides to help understand personas in agricultural ecosystems to use in conjunction with this methodology for <a href=\"https://theodi.org/article/data-ecosystem-mapping-tool/\" target=\"_blank\">mapping data ecosystems</a>.&nbsp;The related materials on assessing the enabling environment should also be referred to when ensuring appropriate political, social, legal and technological frameworks are in place in-country to support FAIR and safeguarded data within investments.</p>",
     "_id": "5f55f001e3e277005c8a90b7",
@@ -6435,7 +6306,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -6470,7 +6341,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6525,7 +6396,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -6656,7 +6527,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6785,7 +6656,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6914,7 +6785,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction",
     "displayTitle": "",
-    "body": "<p>Some of the biggest barriers to delivering FAIR and safeguarded data within investments can be concerns of data security and privacy along with a mis-trust in data or others use of data. Understanding risks and being able to evaluate the real and perceived impact is critical to overcoming these barriers, increasing confidence in wider sharing of data while minimising harmful impacts.</p><p>This module introduces:</p><ul><li>How to identify risks</li><li>Linking risks to impact</li><li>Analysing likelihood and severity</li><li>The impacts of NOT sharing data</li><li>Categories of risks and impact</li><li>Identifying risks in data</li><li>Strategies to help minimise risks</li><li>Tools to help identify and manage risk</li></ul>",
+    "body": "<p>Some of the biggest barriers to delivering FAIR and safeguarded data within investments can be concerns of data security and privacy along with a mis-trust in data or others use of data. Understanding risks and being able to evaluate the real and perceived impact is critical to overcoming these barriers, increasing confidence in wider sharing of data while minimising harmful impacts.</p>",
     "_id": "5f56255be3e277005c8a90fd",
     "_parentId": "5f56255ae3e277005c8a90f0",
     "_type": "component",
@@ -6932,7 +6803,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6966,7 +6837,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7096,7 +6967,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "clipboard",
+    "_classes": "clipboard mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7471,9 +7342,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p>Not validating data when it is entered into a system is a <strong>cause </strong>of many data quality and analysis problems. Data getting into the wrong hands is a <strong>concern </strong>as it may or may not happen while the data being used to bring harm to someone is a real <strong>impact</strong>. The act of publishing data is an <strong>action </strong>you choose to take.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Not validating data when it is entered into a system is a <strong>cause </strong>of many data quality and analysis problems. Data getting into the wrong hands is a <strong>concern </strong>as it may or may not happen while the data being used to bring harm to someone is a real <strong>impact</strong>. The act of publishing data is an <strong>action </strong>you choose to take.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -7508,7 +7379,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7550,7 +7421,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Concern: Data being of bad quality",
+    "title": "Linking concerns to impact",
     "displayTitle": "",
     "body": "<p><strong>Concern</strong>: Data being of bad quality</p>",
     "_id": "5f5630f7e3e277005c8a9137",
@@ -7637,7 +7508,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7679,7 +7550,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Concern: Data getting into the wrong hands",
+    "title": "Linking concerns to impact",
     "displayTitle": "",
     "body": "<p><strong>Concern</strong>: Data getting into the wrong hands</p>",
     "_id": "5f5631b8e3e277005c8a913f",
@@ -7808,7 +7679,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Concern: Personal or sensitive information in the data",
+    "title": "Linking concerns to impact",
     "displayTitle": "",
     "body": "<p><strong>Concern</strong>: Personal or sensitive information in the data</p>",
     "_id": "5f5631bde3e277005c8a9145",
@@ -7957,7 +7828,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -8086,7 +7957,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -8120,7 +7991,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "color-three",
+    "_classes": "color-three mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -8147,8 +8018,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
-      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
       "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
     }
   },
@@ -8234,7 +8105,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -8706,282 +8577,6 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Publishing soil sample data",
-    "displayTitle": "",
-    "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action: </strong>Releasing location of a soil sample and the PH level in the soil (2 columns only)</p><p><br /><strong>Concern: </strong>Individual farms and farmers could be identified from the data</p><p><br /><strong>Perceived impact: </strong>Farmers might be targeted or discriminated against</p>",
-    "_id": "5f56432de3e277005c8a91b1",
-    "_parentId": "5f56432de3e277005c8a91ad",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "matching",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Soil sample",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5f56432de3e277005c8a91b2",
-    "_parentId": "5f56432de3e277005c8a91ad",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Select your answers, then click 'submit'",
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldResetAllAnswers": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "placeholder": "Please select an option",
-    "_items": [
-      {
-        "text": "Likelihood",
-        "_options": [
-          {
-            "text": "Low",
-            "_isCorrect": true
-          },
-          {
-            "text": "Medium",
-            "_isCorrect": false
-          },
-          {
-            "text": "High",
-            "_isCorrect": false
-          }
-        ]
-      },
-      {
-        "text": "Impact",
-        "_options": [
-          {
-            "text": "Low",
-            "_isCorrect": true
-          },
-          {
-            "text": "Medium",
-            "_isCorrect": false
-          },
-          {
-            "text": "High",
-            "_isCorrect": false
-          }
-        ]
-      }
-    ],
-    "_feedback": {
-      "title": "",
-      "correct": "<p><strong>That's right!</strong></p><p>A simple soil sample resulting in discrimination is highly unlikely and a lot of additional data would be needed to identify the farmer; location and pH on their own are unlikely to enable re-identification of a farmer.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>A simple soil sample resulting in discrimination is highly unlikely and a lot of additional data would be needed to identify the farmer; location and pH on their own are unlikely to enable re-identification of a farmer.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Publishing crop infection data",
-    "displayTitle": "",
-    "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action: </strong>sharing data on pests or crop infections&nbsp;</p><p><br /><strong>Concern:</strong> loss of revenue</p><p><br /><strong>Perceived impact: </strong>farmers with pest or crop infection experience damage to reputation and loss of trust in the product</p>",
-    "_id": "5f56432de3e277005c8a91b3",
-    "_parentId": "5f56432de3e277005c8a91ae",
-    "_type": "component",
-    "_layout": "left",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "matching",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Crop data",
-    "displayTitle": "",
-    "body": "",
-    "_id": "5f56432de3e277005c8a91b4",
-    "_parentId": "5f56432de3e277005c8a91ae",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "instruction": "Select your answers, then click 'submit'",
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldResetAllAnswers": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "placeholder": "Please select an option",
-    "_items": [
-      {
-        "text": "Likelihood",
-        "_options": [
-          {
-            "text": "Low",
-            "_isCorrect": true
-          },
-          {
-            "text": "Medium",
-            "_isCorrect": false
-          },
-          {
-            "text": "High",
-            "_isCorrect": false
-          }
-        ]
-      },
-      {
-        "text": "Impact",
-        "_options": [
-          {
-            "text": "Low",
-            "_isCorrect": true
-          },
-          {
-            "text": "Medium",
-            "_isCorrect": false
-          },
-          {
-            "text": "High",
-            "_isCorrect": false
-          }
-        ]
-      }
-    ],
-    "_feedback": {
-      "title": "",
-      "correct": "<p><strong>That's right!</strong></p><p>It has in fact been found that the opposite is true; sharing data resulted in farmers losing 20% fewer crops than normal, meaning higher revenue is maintained.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>It has in fact been found that the opposite is true; sharing data resulted in farmers losing 20% fewer crops than normal, meaning higher revenue is maintained.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "title": "Analysing likelihood and severity: Crime data",
     "displayTitle": "",
     "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action</strong>: Releasing crime data with detail at street level</p><p><br /><strong>Concern</strong>: A significant reduction in house prices in high crime areas</p><p><br /><strong>Perceived impact</strong>: People in high crime areas being unable to sell or rent out their houses</p>",
@@ -9182,7 +8777,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -9203,7 +8798,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9216,7 +8811,7 @@
   },
   {
     "_component": "text",
-    "_classes": "",
+    "_classes": "ticks",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -9237,7 +8832,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -9360,7 +8955,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9423,7 +9018,7 @@
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 2,
     "_feedback": {
       "title": "",
       "correct": "<p><strong>That’s right!</strong></p><p>Data sharing agreements and data licenses provide permission for users (e.g. academics, businesses, governments and individuals) to innovate with data. Both provide users with certainty that the data can be used and shared for a wide range of purposes.&nbsp;</p><p>Without a license or data sharing agreement, both users and publishers may find themselves in a legal grey area.</p>",
@@ -9463,7 +9058,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -9471,7 +9066,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "The benefits of data sharing to the data publisher",
+    "title": "Why data sharing agreements and licenses are important?",
     "displayTitle": "",
     "body": "",
     "_id": "5f9ac7f4c1a411005ef8a6fc",
@@ -9484,7 +9079,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9602,7 +9197,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9643,7 +9238,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -9664,7 +9259,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9705,7 +9300,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "color-one",
+    "_classes": "color-one mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -9726,7 +9321,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9747,7 +9342,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Choosing between using a data sharing agreement and a data license",
+    "title": "Q1-3",
     "displayTitle": "",
     "body": "",
     "_id": "5f9aecb7c1a411005ef8a718",
@@ -9854,7 +9449,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -9875,7 +9470,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -9896,7 +9491,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Choosing between using a data sharing agreement and a data license",
+    "title": "Q4-6",
     "displayTitle": "",
     "body": "",
     "_id": "5f9aed69c1a411005ef8a71f",
@@ -10003,7 +9598,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -10024,7 +9619,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10047,7 +9642,7 @@
     "_disableAccessibilityState": false,
     "title": "Building a data sharing agreement",
     "displayTitle": "",
-    "body": "<p>A data sharing agreement sets out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared.&nbsp;</p><p>Each agreement will likely be bespoke and focussed on a particular application or domain or purpose.&nbsp;</p><p>Unlike a data license, a data sharing agreement will often go into much more detail on the scope and detail the characteristics of the data and how it should be used to fulfil a specific purpose.&nbsp;</p><p>Often data sharing agreements are set up due to the need to share personal data between a data controller and a data processor. Here the lawful basis for sharing data is dictated by data protection regulations and will be detailed in the data sharing agreement.&nbsp;</p><p>Finally, data sharing agreements are contracts so will require legal signatures from both parties.</p>",
+    "body": "<p>A <a href=\"https://gatesopenresearch.org/documents/2-44\" target=\"_blank\">data sharing agreement</a> sets out the purpose and legal basis for sharing data as well as setting out how, when, where and for how long data will be shared.&nbsp;</p><p>Each agreement will likely be bespoke and focussed on a particular application or domain or purpose.&nbsp;</p><p>Unlike a data license, a data sharing agreement will often go into much more detail on the scope and detail the characteristics of the data and how it should be used to fulfil a specific purpose.&nbsp;</p><p>Often data sharing agreements are set up due to the need to share personal data between a data controller and a data processor. Here the lawful basis for sharing data is dictated by data protection regulations and will be detailed in the data sharing agreement.&nbsp;</p><p>Finally, data sharing agreements are contracts so will require legal signatures from both parties.</p>",
     "_id": "5f9af32dc1a411005ef8a725",
     "_parentId": "5f9af2f3c1a411005ef8a724",
     "_type": "component",
@@ -10086,7 +9681,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10148,7 +9743,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10289,7 +9884,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -10310,7 +9905,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10344,7 +9939,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10406,7 +10001,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10620,7 +10215,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -10641,7 +10236,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10710,7 +10305,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide clipboard",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -10731,14 +10326,14 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
-      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "large": "course/en/assets/41c33b4c1e8869db8deeef6f912ce5979559115c.png",
+      "small": "course/en/assets/41c33b4c1e8869db8deeef6f912ce5979559115c.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
@@ -10765,7 +10360,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10827,7 +10422,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10848,7 +10443,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Ensuring sustainable access to data",
+    "title": "Introduction",
     "displayTitle": "",
     "body": "<p>Sustainable access to data is critical to ensure that data remains FAIR and safeguarded over the long term. It is one thing to make data Findable, Accessible, Interoperable and Reusable (FAIR), but building in sustainable access to data helps to maximise the utility of data as a wider group of people can use the data over time to make better decisions and reduce risk.</p>",
     "_id": "5fa80d8d94686b0069a21cd9",
@@ -10868,7 +10463,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "intro-logo",
+    "_classes": "intro-logo mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -10889,7 +10484,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -10923,7 +10518,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": ""
@@ -10951,7 +10546,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11059,7 +10654,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -11080,7 +10675,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11145,7 +10740,7 @@
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
     "_selectable": 1,
@@ -11209,7 +10804,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11305,14 +10900,14 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
       "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/5dc48b14dec08e636e87354cd0f8e16b9913cae9.png",
       "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
     }
   },
@@ -11354,7 +10949,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "What are the legal and contractual obligations?",
+    "title": "1. What are the legal and contractual obligations?",
     "displayTitle": "",
     "body": "<p><strong>Do we need to retain the data legally?</strong><br />Governments may require certain commitments or action - for example the Ethiopian Government requires that soil and agronomy data is maintained in a database system by the Ministry of Agriculture in order to ensure that data will be reliably accessible to the research community in the future.&nbsp;</p><p><strong>Do policies and mandates require the publication of data? Under what conditions?&nbsp;</strong><br />The BMGF open access policy requires that data underlying the published research results be immediately accessible and open.&nbsp;</p><p><strong>How long does the data need to be available for?</strong><br />Does it need to be removed after a certain period of time (for example for privacy reasons)?<br />&nbsp;</p>",
     "_id": "5fa80fea94686b0069a21cff",
@@ -11374,7 +10969,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -11395,7 +10990,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11416,7 +11011,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Who are the data users and what are their goals?",
+    "title": "2. Who are the data users and what are their goals?",
     "displayTitle": "",
     "body": "<p>Partners, funders, customers or users of a service may specify clear needs to access or use data over a longer period of time, or may have their own strategic goals related to providing access to data that have an impact on how sustainable data collected during a grant needs to be.</p><p>The data ecosystem mapping tool helps to map out both existing and potential reusers of data and will help define requirements for sustainability.&nbsp;</p>",
     "_id": "5fa8102f94686b0069a21d05",
@@ -11436,7 +11031,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -11457,7 +11052,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11478,7 +11073,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "What are the legal and contractual obligations?",
+    "title": "3. What is the scope of the data reuse?",
     "displayTitle": "",
     "body": "<p dir=\"ltr\"><strong>Is the data suitable for use in digital enabled services and require ongoing updates and maintenance to ensure relevance?&nbsp;</strong></p><p dir=\"ltr\">The <a href=\"https://gatesopenresearch.org/for-authors/data-guidelines\" target=\"_blank\">Gates Open Research</a> platform provides guidance on preparing data for publication and a non-exhaustive list of repositories approved by the BMGF. It also describes the desirable properties of a repository, which should:</p><ul><li>Enable access to the dataset</li><li>Ensure dataset persistence</li><li>Ensure dataset stability</li><li>Enable searching and retrieval of datasets</li></ul>",
     "_id": "5fa8105e94686b0069a21d0b",
@@ -11498,7 +11093,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -11519,7 +11114,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11540,9 +11135,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Is the chosen solution suitable for the capability of both current and potential users?",
+    "title": "4. Is the chosen solution suitable for the capability of both current and potential users?",
     "displayTitle": "",
-    "body": "<p>Consider such things as:</p><ul><li>Using existing standards rather than creating new ones</li><li>Use already existing and widely used identifiers for things</li><li>Document your data, describe its attributes, features and limitations</li><li>Showcasing existing ways to use the data</li><li>Being an active member of the community, allowing others to reach out to you for help or to make suggestions.</li></ul><p>There are many <a href=\"https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/\" target=\"_blank\">self assessment tools</a> that allow data publishers to show they are following best practices in making data findable, accessible, interoperable and reusable, enabling data reusers to use data with confidence.&nbsp;</p>",
+    "body": "<p>In addition to making data <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable and <strong>R</strong>eusable (<strong>FAIR</strong>), consider such things as:</p><ul><li>Documenting your data;&nbsp;describe its attributes, features and limitations</li><li>Showcasing existing ways to use the data</li><li>Being an active member of the community, allowing others to reach out to you for help or to make suggestions.</li></ul><p>There are many <a href=\"https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/\" target=\"_blank\">self assessment tools</a> that allow data publishers to show they are following best practices in making data findable, accessible, interoperable and reusable, enabling data reusers to use data with confidence.&nbsp;</p>",
     "_id": "5fa810b394686b0069a21d11",
     "_parentId": "5fa810b394686b0069a21d10",
     "_type": "component",
@@ -11568,7 +11163,7 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "How will sustainable access be funded?",
+    "title": "5. How will sustainable access be funded?",
     "displayTitle": "",
     "body": "<p>Alternatively data may be deposited or handed off to a third party. At this point it is important to carefully consider the commitment to sustainable access to data of the third party, including aspects such as funding as well as conflicting or commercial interests that may affect access to data. For example an agreement between the research repository FigShare and the LOCKSS (Lots Of Copies Keeps Stuff Safe) alliance means that if a “trigger event” is caused on FigShare (e.g. they cease to exist or a commercial interest changes access permissions) then the <a href=\"https://figshare.com/blog/Ensuring_persistence_on_figshare/25\" target=\"_blank\">controlled copy in the LOCKSS archive can be released</a>.&nbsp;</p>",
     "_id": "5fa8114394686b0069a21d17",
@@ -11609,7 +11204,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11676,7 +11271,7 @@
       {
         "title": "Curated data repositories",
         "_ariaLevel": 0,
-        "body": "<p>Curated data repositories, such as the <a href=\"http://www.fao.org/statistics/en/\" target=\"_blank\">FAO Data bank</a>,&nbsp; <a href=\"https://data.worldbank.org/\" target=\"_blank\">World Bank open data portal</a> and <a href=\"https://landportal.org/who-we-are\" target=\"_blank\">land portal</a>, provide sustainable access to carefully managed and curated sets of reference data. Unlike the general research repositories, curated data repositories are able to offer data services (such as direct access to the data via an API rather than just file downloads). Each of these providers are sustainable through country memberships and donor contributions. A curated data repository provides most flexibility for providing specific data services however establishing and sustaining a curated data repository is challenging and many are not able to be sustained long term.</p>",
+        "body": "<p>Curated data repositories, such as the&nbsp;<a href=\"http://dataexchange.gatesfoundation.org/\" target=\"_blank\">Gates Data Exchange</a>,&nbsp;<a href=\"http://www.fao.org/statistics/en/\" target=\"_blank\">FAO Data bank</a>,&nbsp;<a href=\"https://data.worldbank.org/\" target=\"_blank\">World Bank open data portal</a> and <a href=\"https://landportal.org/who-we-are\" target=\"_blank\">land portal</a>, provide sustainable access to carefully managed and curated sets of reference data. Unlike the general research repositories, curated data repositories are able to offer data services (such as direct access to the data via an API rather than just file downloads). Each of these providers are sustainable through country memberships and donor contributions. A curated data repository provides most flexibility for providing specific data services however establishing and sustaining a curated data repository is challenging and many are not able to be sustained long term.</p>",
         "_graphic": {
           "src": "course/en/assets/f1607781191a6f6434c5112ce138cb490114c045.png",
           "alt": "",
@@ -11789,9 +11384,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That’s right!</strong></p><p>One platform is not going to match the needs of all data users and types of data. It is important to consider carefully aspects such as the type of data, how often it is updated as well as who potential users of the data are and what they require.&nbsp;</p><p>A static dataset related to a research publication is best off in a research data repository (such as FigShare).&nbsp;</p><p>Due to a legal requirement in Ethiopia, a copy of the agricultural data must be deposited in the government platform (this is not to say it cannot also be deposited somewhere else also).&nbsp;</p><p>For continually evolving data, a platform more suited to handling regular updates, such as GitHub, could be used.&nbsp;</p><p>If there is concern about the sustainability of a single platform, then consider using a number of different platforms. A number of different platforms may also better suit the needs of different users and sets of requirements in your data ecosystem.&nbsp;</p>",
+      "correct": "<p><strong>That’s right!</strong></p><p>A static dataset related to a research publication is best off in a research data repository (such as FigShare).&nbsp;</p><p>Due to a legal requirement in Ethiopia, a copy of the agricultural data must be deposited in the government platform (this is not to say it cannot also be deposited somewhere else also).&nbsp;</p><p>For continually evolving data, a platform more suited to handling regular updates, such as GitHub, could be used.&nbsp;</p><p>If there is concern about the sustainability of a single platform, then consider using a number of different platforms. A number of different platforms may also better suit the needs of different users and sets of requirements in your data ecosystem.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>One platform is not going to match the needs of all data users and types of data. It is important to consider carefully aspects such as the type of data, how often it is updated as well as who potential users of the data are and what they require.&nbsp;</p><p>A static dataset related to a research publication is best off in a research data repository (such as FigShare).&nbsp;</p><p>Due to a legal requirement in Ethiopia, a copy of the agricultural data must be deposited in the government platform (this is not to say it cannot also be deposited somewhere else also).&nbsp;</p><p>For continually evolving data, a platform more suited to handling regular updates, such as GitHub, could be used.&nbsp;</p><p>If there is concern about the sustainability of a single platform, then consider using a number of different platforms. A number of different platforms may also better suit the needs of different users and sets of requirements in your data ecosystem.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>A static dataset related to a research publication is best off in a research data repository (such as FigShare).&nbsp;</p><p>Due to a legal requirement in Ethiopia, a copy of the agricultural data must be deposited in the government platform (this is not to say it cannot also be deposited somewhere else also).&nbsp;</p><p>For continually evolving data, a platform more suited to handling regular updates, such as GitHub, could be used.&nbsp;</p><p>If there is concern about the sustainability of a single platform, then consider using a number of different platforms. A number of different platforms may also better suit the needs of different users and sets of requirements in your data ecosystem.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -11826,7 +11421,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -11847,7 +11442,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -11881,7 +11476,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -12010,7 +11605,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -12123,7 +11718,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -12144,7 +11739,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -12181,7 +11776,7 @@
       "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "Select your answer, then click 'submit'",
+    "instruction": "Select three answers, then click 'submit'",
     "_items": [
       {
         "text": "A clear list and description of data in scope",
@@ -12445,7 +12040,7 @@
   },
   {
     "_component": "graphic",
-    "_classes": "color-two summary clipboard",
+    "_classes": "summary clipboard mobile-hide",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -12466,14 +12061,14 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
-      "small": "course/en/assets/8069d2a4618084e967165ac7f06b4750e01098da.png",
+      "large": "course/en/assets/41c33b4c1e8869db8deeef6f912ce5979559115c.png",
+      "small": "course/en/assets/41c33b4c1e8869db8deeef6f912ce5979559115c.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
@@ -12568,5 +12163,300 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "<p>Under modern data protection regulations, such as the General Data Protection Regulation (GDPR), what rights do individuals have over data about them?</p>",
+    "_id": "5fc10650d661af0060a9de5c",
+    "_parentId": "5fc10650d661af0060a9de5b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answer then click 'submit'",
+    "_items": [
+      {
+        "text": "The right to be informed how data about them is processed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The right to access data about them",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The right to object or withdraw consent",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Regardless of how data is collected or processed, individuals have the right to be informed about how data about them is processed and for what purpose.&nbsp;</p><p>In many situations, especially where consent is used as a lawful basis for processing personal data, individuals also have the right to access, rectify or even object to data about them being stored and processed.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowing your rights",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fc10650d661af0060a9de5d",
+    "_parentId": "5fc10650d661af0060a9de5b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c3321ccc5ab2cb1f94bdbc4e85c41b6c0a1cd9de.png",
+      "small": "course/en/assets/c3321ccc5ab2cb1f94bdbc4e85c41b6c0a1cd9de.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>This module introduces:</p><ul><li>How to identify risks</li><li>Linking risks to impact</li><li>Analysing likelihood and severity</li><li>The impacts of NOT sharing data</li><li>Categories of risks and impact</li><li>Identifying risks in data</li><li>Strategies to help minimise risks</li><li>Tools to help identify and manage risk</li></ul>",
+    "_id": "5fc10b35d661af0060a9de62",
+    "_parentId": "5fc10b35d661af0060a9de61",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Analysing likelihood and severity: Publishing crop infection data",
+    "displayTitle": "",
+    "body": "<p>What do you think the likelihood and severity is related to the following situation?</p><p><strong>Action: </strong>sharing data on pests or crop infections&nbsp;</p><p><br /><strong>Concern:</strong> loss of revenue</p><p><br /><strong>Perceived impact: </strong>farmers with pest or crop infection experience damage to reputation and loss of trust in the product</p>",
+    "_id": "5fc11096d661af0060a9de6a",
+    "_parentId": "5fc11096d661af0060a9de69",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Crop data",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fc11096d661af0060a9de6b",
+    "_parentId": "5fc11096d661af0060a9de69",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select your answers, then click 'submit'",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Likelihood",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Impact",
+        "_options": [
+          {
+            "text": "Low",
+            "_isCorrect": true
+          },
+          {
+            "text": "Medium",
+            "_isCorrect": false
+          },
+          {
+            "text": "High",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>It has in fact been found that the opposite is true; sharing data resulted in farmers losing 20% fewer crops than normal, meaning higher revenue is maintained.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>It has in fact been found that the opposite is true; sharing data resulted in farmers losing 20% fewer crops than normal, meaning higher revenue is maintained.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]

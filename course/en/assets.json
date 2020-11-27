@@ -691,5 +691,21 @@
     "licence": "CC-BY",
     "attribution": "Open Data Institute",
     "tags": []
+  },
+  "41c33b4c1e8869db8deeef6f912ce5979559115c.png": {
+    "title": "Clipboard BMGF Blue",
+    "description": "Clipboard BMGF Blue",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "19bb513efae607af695cb3d10bb16e2a5b51c2ab.png": {
+    "title": "CC-BY White",
+    "description": "CC-BY White",
+    "source": "https://creativecommons.org/",
+    "licence": "CC0",
+    "attribution": "Creative Commons",
+    "tags": []
   }
 }
