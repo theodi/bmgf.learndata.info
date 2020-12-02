@@ -126,8 +126,8 @@
       "_aboutPage": {
         "linkText": "About",
         "titleText": "About",
-        "contactEMail": "training@theodi.org",
-        "contactLinkText": "Contact",
+        "contactEMail": "",
+        "contactLinkText": "",
         "aboutCredit": "",
         "SL_text": "<p>Content created for BMGF by The&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>&nbsp;and <a href=\"https://www.cabi.org/\" target=\"_blank\">CABI</a></p>",
         "SL_facebook": "",
@@ -140,8 +140,8 @@
         "SL_youtube": ""
       },
       "_ODILicence": {
-        "linkText": "Licence",
-        "titleText": "Licence"
+        "linkText": "License",
+        "titleText": "License"
       },
       "_pageLevelProgress": {
         "pageLevelProgress": "Page sections",
@@ -364,7 +364,7 @@
     "_items": [
       {
         "title": "License",
-        "description": "<span xmlns:dct=\"http://purl.org/dc/terms/\" property=\"dct:title\">Delivering FAIR and safeguarded data within investments</span> by <span xmlns:cc=\"http://creativecommons.org/ns#\" property=\"cc:attributionName\">The Open Data Institute/CABI</span> is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.",
+        "description": "<p><span xmlns:dct=\"http://purl.org/dc/terms/\" property=\"dct:title\">Delivering FAIR and safeguarded data within investments</span> by <span xmlns:cc=\"http://creativecommons.org/ns#\" property=\"cc:attributionName\">CABI</span> is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 International License</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "course/en/assets/19bb513efae607af695cb3d10bb16e2a5b51c2ab.png"

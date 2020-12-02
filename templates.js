@@ -2091,7 +2091,7 @@ this["Handlebars"]["templates"]["dragndrop"] = Handlebars.template({"1":function
     + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"_items") : depth0),{"name":"each","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":16},"end":{"line":21,"column":25}}})) != null ? stack1 : "")
     + "            </div>\n\n            <div class=\"dragndrop-answers clearfix\">\n"
     + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"_possibleAnswers") : depth0),{"name":"each","hash":{},"fn":container.program(8, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":25,"column":16},"end":{"line":27,"column":25}}})) != null ? stack1 : "")
-    + "            </div>\n\n        </div>\n\n        <div class=\"buttons\">\n        </div>\n    </div>\n</div>\n";
+    + "            </div>\n\n        </div>\n\n        <div class=\"btn__container\"></div>\n    </div>\n</div>\n";
 },"usePartial":true,"useData":true});
 
 this["Handlebars"]["templates"]["pageLevelProgress"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
