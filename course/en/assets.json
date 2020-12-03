@@ -807,17 +807,17 @@
   "b7ec4fbf20856739eb6c6f7f9fc62f413a52ac56.png": {
     "title": "ISDA Soil Gold",
     "description": "ISDA Soil Gold",
-    "source": "https://www.cabi.org/",
+    "source": "https://www.isda-africa.com/isdasoil/",
     "licence": "CC-BY",
-    "attribution": "CABI",
+    "attribution": "iSDA",
     "tags": []
   },
   "f27e4c27ad90d856d39f9026a2bfb6397654cff7.png": {
     "title": "CSISA logo on gold",
     "description": "CSISA logo on gold",
-    "source": "https://www.cabi.org/",
-    "licence": "CC-BY",
-    "attribution": "CABI",
+    "source": "https://csisa.org/",
+    "licence": "All rights reserved",
+    "attribution": "CSISA",
     "tags": []
   }
 }
