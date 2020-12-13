@@ -3,70 +3,6 @@
     "title": "Introduction",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one invert-even",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f203b30649ca8005e769a11",
-    "_parentId": "5f203b30649ca8005e769a10",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Introduction",
-    "displayTitle": "",
-    "body": "",
     "_classes": "color-three invert-even",
     "instruction": "",
     "_isOptional": false,
@@ -83,18 +19,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass4a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.4,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -109,10 +41,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -147,18 +83,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass1a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.3333333,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -173,10 +105,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -211,18 +147,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass2a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.2,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -237,10 +169,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -275,18 +211,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass3a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.6,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -301,10 +233,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -339,18 +275,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass6a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.42,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -365,10 +297,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -404,13 +340,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass5a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.3333333,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -425,9 +361,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
@@ -468,13 +404,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass7a",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.28,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -489,78 +425,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "The theory of change",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-three invert-even",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f2042b6649ca8005e769a3e",
-    "_parentId": "5f203b30649ca8005e769a10",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -596,13 +468,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass4b",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.2,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -617,9 +489,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
@@ -659,18 +531,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass1b",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.1666667,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -685,10 +553,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -723,18 +595,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass2b",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.2,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -749,10 +617,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -787,18 +659,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_id": "",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.2,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -813,10 +681,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -853,12 +725,12 @@
     },
     "_assessment": {
       "_isEnabled": true,
-      "_id": "concers_impact",
+      "_id": "ass6b",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.15,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1024,70 +896,6 @@
     }
   },
   {
-    "title": "Roles and responsibilities",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-one invert-even",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f229ddad9139d00c79a75ae",
-    "_parentId": "5f203b30649ca8005e769a10",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "Reducing risk",
     "displayTitle": "",
     "body": "",
@@ -1107,18 +915,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass4c",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.4,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1133,10 +937,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1171,18 +979,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass1c",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.5,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1197,10 +1001,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1235,18 +1043,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass2c",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.6,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1261,10 +1065,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1364,13 +1172,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass6c",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.28,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1385,9 +1193,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
@@ -1428,13 +1236,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass5b",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.3333333,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1449,9 +1257,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
@@ -1492,13 +1300,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass7b",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.72,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1513,78 +1321,14 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Footer",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-two invert-odd",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f204bbf649ca8005e769a6e",
-    "_parentId": "5f203b30649ca8005e769a10",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -1811,18 +1555,14 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass3c",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.2,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -1837,10 +1577,78 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Evaluating risk (2)",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one invert-even",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "5f563894e3e277005c8a9168",
+    "_parentId": "5f56255ae3e277005c8a90ea",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "ass6d",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 0.15,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_odi-generic": {
       "_backgroundImage": {
@@ -2048,10 +1856,10 @@
     }
   },
   {
-    "title": "Evaluating risk (2)",
+    "title": "Categories of risks",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one invert-even",
+    "_classes": "color-three invert-odd",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2059,7 +1867,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f563894e3e277005c8a9168",
+    "_id": "5f563926e3e277005c8a9170",
     "_parentId": "5f56255ae3e277005c8a90ea",
     "_type": "article",
     "_onScreen": {
@@ -2132,13 +1940,13 @@
       "_percentInviewVertical": 50
     },
     "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
+      "_isEnabled": true,
+      "_id": "ass5c",
       "_attempts": -1,
       "_isPercentageBased": true,
       "_scoreToPass": 60,
       "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
+      "_assessmentWeight": 0.3333333,
       "_suppressMarking": false,
       "_isResetOnRevisit": false,
       "_allowResetIfPassed": false,
@@ -2153,9 +1961,9 @@
       },
       "_questions": {
         "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
       }
     },
     "_pageLevelProgress": {
@@ -2176,10 +1984,10 @@
     }
   },
   {
-    "title": "Categories of risks",
+    "title": "Dealing with risks",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-three invert-odd",
+    "_classes": "color-one invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2187,7 +1995,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "5f563926e3e277005c8a9170",
+    "_id": "5f563ca1e3e277005c8a9193",
     "_parentId": "5f56255ae3e277005c8a90ea",
     "_type": "article",
     "_onScreen": {
@@ -2253,70 +2061,6 @@
     "_ariaLevel": 0,
     "_id": "5f9c3bd2c88d13007bfe0e76",
     "_parentId": "5f9ac6aac1a411005ef8a6eb",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_odi-generic": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Dealing with risks",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-one invert-even",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "5f563ca1e3e277005c8a9193",
-    "_parentId": "5f56255ae3e277005c8a90ea",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

@@ -1,12 +1,12 @@
 {
-  "title": "BMGF 101",
-  "displayTitle": "BMGF 101",
+  "title": "Delivering FAIR and safeguarded data within investments - Complete",
+  "displayTitle": "Delivering FAIR and safeguarded data within investments - Complete",
   "body": "",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 144,
+  "_latestTrackingId": 126,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -75,23 +75,20 @@
       }
     },
     "_components": {
-      "_media": {
-        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
-        "skipToTranscript": "Skip to transcript"
-      },
-      "_slider": {
-        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
-        "labelStart": "Start of the scale",
-        "labelEnd": "End of the scale"
-      },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results."
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
       "_text": {
         "ariaRegion": ""
       },
       "_narrative": {
-        "ariaRegion": "Slide show. Select the next button to progress."
+        "ariaRegion": "Slide show. Select the next button to progress.",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript"
       },
       "_hotgraphic": {
         "ariaRegion": "Image with selectable areas. Select each button to show more information.",
@@ -115,14 +112,16 @@
       "_gmcq": {
         "ariaRegion": "Multiple choice question. Select your option and then submit."
       },
-      "_dragndrop": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       }
     },
     "_extensions": {
-      "_resources": {
-        "resources": "Additional resources."
-      },
       "_aboutPage": {
         "linkText": "About",
         "titleText": "About",
@@ -149,6 +148,9 @@
         "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional content"
+      },
+      "_resources": {
+        "resources": "Additional resources."
       }
     },
     "_menu": {
@@ -312,34 +314,6 @@
       "shadow-inverted": "#ffffff"
     }
   },
-  "_resources": {
-    "_isEnabled": true,
-    "_drawerOrder": 0,
-    "title": "Resources",
-    "description": "Select here to view resources for this course",
-    "_filterButtons": {
-      "all": "All",
-      "document": "Documents",
-      "media": "Media",
-      "link": "Links"
-    },
-    "_filterAria": {
-      "allAria": "View all resources",
-      "documentAria": "View document resources",
-      "mediaAria": "View media resources",
-      "linkAria": "View resource links"
-    },
-    "_resourcesItems": [
-      {
-        "_type": "document",
-        "_forceDownload": false,
-        "title": "Agriculture data country profile",
-        "filename": "ag_country_profile.pdf",
-        "description": "",
-        "_link": "course/en/assets/92c7b06e46c8c8301f5db309b498882bca42455e.pdf"
-      }
-    ]
-  },
   "_aboutPage": {
     "_items": [
       {
@@ -413,6 +387,28 @@
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+  },
+  "_resources": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": []
+  },
+  "_spoor": {
+    "_messages": ""
   },
   "_boxMenu": {
     "_backgroundImage": {

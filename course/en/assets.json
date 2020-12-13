@@ -20,14 +20,6 @@
       }
     ]
   },
-  "3267fe06e17b267d0b9b38318876b879a8a7f031.jpg": {
-    "title": "Rectangle placeholder image",
-    "description": "Rectangle placeholder image",
-    "source": "https://adaptlearning.github.io/v4demo/#/id/co-05",
-    "licence": "CC0",
-    "attribution": "Adapt eLearning",
-    "tags": []
-  },
   "6f1bb59c1c8b9c921249192561a0c5a2be603932.jpg": {
     "title": "Square image placeholder",
     "description": "Square image placeholder",
@@ -47,14 +39,6 @@
   "98f36d50dd7f90c64222c12bcb58e2ba5b126cb4.png": {
     "title": "WPP ODI Theory of Change - Hoarding",
     "description": "WPP ODI Theory of Change - Hoarding",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "a35789ccc778fd791b6af032522d21382fe3bbe1.png": {
-    "title": "WPP ODI Theory of Change - Fearing",
-    "description": "WPP ODI Theory of Change - Fearing",
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
@@ -138,22 +122,6 @@
     "source": "https://www.gatesfoundation.org/",
     "licence": "All rights reserved",
     "attribution": "Bill & Melinda Gates Foundation",
-    "tags": []
-  },
-  "957a5979aea440c02b239a53e2a46236d90ece9c.png": {
-    "title": "BMGF - Theory of Change",
-    "description": "BMGF - Theory of Change",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "The Open Data Institute",
-    "tags": []
-  },
-  "d86eeab4f7f6921569b24b2f4572deb103361dfc.png": {
-    "title": "Summary - core constraints at Portfolio and grant level",
-    "description": "Summary - core constraints at Portfolio and grant level",
-    "source": "https://theodi.org",
-    "licence": "CC-BY-SA",
-    "attribution": "CABI/ODI",
     "tags": []
   },
   "3c4d2a472690b3e7732a6f7a11b7a01e19a3a16c.png": {
